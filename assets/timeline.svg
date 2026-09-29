@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="2025.09 至 2026.09 的里程碑">
+  <defs>
+    <style>
+      .date { font-family: "PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif; font-size: 13px; fill: #5C6A70; letter-spacing: .04em; }
+      .title{ font-family: "PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif; font-size: 14.5px; fill: #EDF1F2; }
+      .sub  { font-family: "PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif; font-size: 12px; fill: #8C9AA1; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="6" fill="#101417"/>
+
+  <line x1="70" y1="168" x2="1130" y2="168" stroke="#232C31" stroke-width="1"/>
+  <path d="M 70 172 C 300 168, 560 164, 780 156 C 930 150, 1050 144, 1130 140"
+        fill="none" stroke="#F2B705" stroke-width="1.4" opacity="0.55"/>
+
+  <g>
+    <text class="date" x="80" y="126" text-anchor="middle">2025.09</text>
+    <circle cx="80" cy="168" r="5" fill="#F2B705"/>
+    <text class="title" x="80" y="200" text-anchor="middle">入学</text>
+    <text class="sub" x="80" y="222" text-anchor="middle">河南工业大学</text>
+  </g>
+
+  <g>
+    <text class="date" x="290" y="126" text-anchor="middle">2026.05</text>
+    <circle cx="290" cy="164" r="5" fill="#F2B705"/>
+    <text class="title" x="290" y="200" text-anchor="middle">蓝桥杯 河南赛区一等奖</text>
+    <text class="sub" x="290" y="222" text-anchor="middle">C/C++ 程序设计大学 B 组</text>
+  </g>
+
+  <g>
+    <text class="date" x="500" y="126" text-anchor="middle">2026.06</text>
+    <circle cx="500" cy="160" r="5" fill="#F2B705"/>
+    <text class="title" x="500" y="200" text-anchor="middle">蓝桥杯 全国总决赛三等奖</text>
+    <text class="sub" x="500" y="222" text-anchor="middle">同期 APMCM 本科组二等奖</text>
+  </g>
+
+  <g>
+    <text class="date" x="710" y="126" text-anchor="middle">2026.07</text>
+    <circle cx="710" cy="156" r="5" fill="#F2B705"/>
+    <text class="title" x="710" y="200" text-anchor="middle">量子编译器 · 蓝桥杯专项赛</text>
+    <text class="sub" x="710" y="222" text-anchor="middle">CCF 量旋杯 / 赛事 IP 文创设计 参赛</text>
+  </g>
+
+  <g>
+    <text class="date" x="920" y="126" text-anchor="middle">2026.08</text>
+    <circle cx="920" cy="152" r="5" fill="#F2B705"/>
+    <text class="title" x="920" y="200" text-anchor="middle">"华数杯"本科生组三等奖</text>
+    <text class="sub" x="920" y="222" text-anchor="middle">全国大学生数学建模竞赛</text>
+  </g>
+
+  <g>
+    <text class="date" x="1120" y="126" text-anchor="middle">2026.09</text>
+    <circle cx="1120" cy="148" r="5" fill="#F2B705"/>
+    <text class="title" x="1120" y="200" text-anchor="middle">高教社杯 · AIC</text>
+    <text class="sub" x="1120" y="222" text-anchor="middle">参赛 / 进行中</text>
+  </g>
+</svg>
