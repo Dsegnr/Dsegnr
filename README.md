@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="王佳豪 · Dsegnr">
+  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/header.svg" width="100%" alt="王佳豪 · Dsegnr">
 </div>
 
 <br>
