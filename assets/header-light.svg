@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="王佳豪 Dsegnr">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F2F5F8"/></linearGradient>
+    <radialGradient id="glow" cx="0.92" cy="0.28" r="0.55">
+      <stop offset="0" stop-color="#F2B705" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#F2B705" stop-opacity="0"/></radialGradient>
+    <linearGradient id="trace" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#A8790A"/><stop offset="0.55" stop-color="#F2B705"/><stop offset="1" stop-color="#E0A800"/></linearGradient>
+    <linearGradient id="sheenGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F2B705" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F2B705" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#F2B705" stop-opacity="0"/></linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.4"/></filter>
+    <clipPath id="panelClip"><rect width="1200" height="360"/></clipPath>
+    <style>
+      .draw{animation:draw 2.6s cubic-bezier(.22,.61,.36,1) .3s both}
+      @keyframes draw{from{stroke-dasharray:1600;stroke-dashoffset:1600}to{stroke-dasharray:1600;stroke-dashoffset:0}}
+      .node{animation:pop .55s ease-out both}
+      @keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:scale(1)}}
+      .halo{animation:pulse 3s ease-out 3s infinite}
+      @keyframes pulse{0%{r:9px;opacity:.30}70%{r:26px;opacity:0}100%{r:26px;opacity:0}}
+      .pulse{animation:flow 5.4s linear 3s infinite}
+      @keyframes flow{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+      .contourA{animation:driftA 17s ease-in-out infinite alternate}
+      @keyframes driftA{from{transform:translateX(-16px)}to{transform:translateX(16px)}}
+      .contourB{animation:driftB 23s ease-in-out infinite alternate}
+      @keyframes driftB{from{transform:translateX(15px)}to{transform:translateX(-15px)}}
+      .sheen{animation:sweep 12s linear 1.5s infinite}
+      @keyframes sweep{from{transform:translateX(-340px)}to{transform:translateX(1540px)}}
+      .breathe{animation:breathe 7.5s ease-in-out infinite}
+      @keyframes breathe{0%,100%{opacity:.82}50%{opacity:1}}
+      @media (prefers-reduced-motion:reduce){.draw,.node,.halo,.pulse,.contourA,.contourB,.sheen,.breathe{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect class="breathe" width="1200" height="360" fill="url(#glow)"/>
+  <g class="contourA" fill="none" stroke="#E4EAEE" stroke-width="1">
+    <path d="M 640 360 C 720 250 840 190 980 176 C 1080 166 1150 178 1200 196"/>
+    <path d="M 760 360 C 820 286 900 244 1000 236 C 1090 228 1150 240 1200 258"/>
+    <path d="M 880 360 C 930 312 990 282 1060 276 C 1130 270 1170 280 1200 292"/>
+    <path d="M -40 -10 C 140 -30 320 -6 452 60 C 540 104 606 158 664 224"/>
+  </g>
+  <g class="contourB" fill="none" stroke="#2E7D93" stroke-width="1.3" stroke-linecap="round">
+    <path d="M 372 246 C 430 236 462 258 520 244 C 578 230 610 252 668 238 C 726 224 758 246 816 232 C 874 218 906 240 964 226 C 1022 212 1090 232 1152 220" stroke-opacity="0.45"/>
+    <path d="M 372 208 C 430 198 462 220 520 206 C 578 192 610 214 668 200 C 726 186 758 208 816 194 C 874 180 906 202 964 188 C 1022 174 1090 194 1152 182" stroke-opacity="0.32"/>
+    <path d="M 372 312 C 430 302 462 324 520 310 C 578 296 610 318 668 304 C 726 290 758 312 816 298 C 874 284 906 306 964 292 C 1022 278 1090 298 1152 286" stroke-opacity="0.22"/>
+  </g>
+  <g clip-path="url(#panelClip)" aria-hidden="true">
+    <g class="sheen"><rect x="0" y="-80" width="260" height="520" fill="url(#sheenGrad)" transform="skewX(-12)"/></g>
+  </g>
+  <g stroke="#E8EDF1" stroke-width="1">
+    <line x1="372" y1="96" x2="1152" y2="96"/>
+    <line x1="372" y1="156" x2="1152" y2="156"/>
+    <line x1="372" y1="216" x2="1152" y2="216"/>
+    <line x1="372" y1="276" x2="1152" y2="276"/>
+  </g>
+  <g stroke="#D5DDE3" stroke-width="1">
+    <line x1="372" y1="300" x2="372" y2="307"/>
+    <line x1="502" y1="300" x2="502" y2="307"/>
+    <line x1="632" y1="300" x2="632" y2="307"/>
+    <line x1="762" y1="300" x2="762" y2="307"/>
+    <line x1="892" y1="300" x2="892" y2="307"/>
+    <line x1="1022" y1="300" x2="1022" y2="307"/>
+    <line x1="1152" y1="300" x2="1152" y2="307"/>
+  </g>
+  <text x="372" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11" fill="#8A949B">2025.09</text>
+  <text x="502" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11" fill="#8A949B">2025.11</text>
+  <text x="632" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11" fill="#8A949B">2026.01</text>
+  <text x="762" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11" fill="#8A949B">2026.03</text>
+  <text x="892" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11" fill="#8A949B">2026.05</text>
+  <text x="1022" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11" fill="#8A949B">2026.07</text>
+  <text x="1152" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11" fill="#8A949B">2026.09</text>
+  <line x1="372" y1="96" x2="1152" y2="96" stroke="#F2B705" stroke-opacity="0.45" stroke-width="1" stroke-dasharray="4 8"/>
+  <text x="374" y="88" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#8A949B">里程碑</text>
+  <path d="M 372 296 C 440 291 480 286 520 282 C 600 274 640 268 660 262 C 720 252 760 242 800 228 C 860 208 895 194 930 180 C 985 154 1015 139 1040 132 C 1090 120 1125 114 1152 112 L 1152 88 C 1125 90 1090 96 1040 108 C 1015 115 985 130 930 156 C 895 170 860 184 800 204 C 760 218 720 228 660 238 C 640 244 600 250 520 258 C 480 262 440 267 372 272 Z" fill="#F2B705" fill-opacity="0.12"/>
+  <path d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="#F2B705" stroke-opacity="0.22" stroke-width="9" stroke-linecap="round"/>
+  <path class="draw" d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="url(#trace)" stroke-width="2.6" stroke-linecap="round"/>
+  <path class="pulse" pathLength="1000" d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="#F2B705" stroke-opacity="0.5" stroke-width="7" stroke-linecap="round" stroke-dasharray="62 938" filter="url(#soft)"/>
+  <path class="pulse" pathLength="1000" d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="#E39A00" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="62 938"/>
+  <circle class="node" style="animation-delay:1.00s;transform-origin:520px 270px" cx="520" cy="270" r="10.2" fill="#F2B705" fill-opacity="0.15"/>
+  <circle class="node" style="animation-delay:1.00s;transform-origin:520px 270px" cx="520" cy="270" r="4.2" fill="#FFFFFF" stroke="#F2B705" stroke-width="2"/>
+  <circle class="node" style="animation-delay:1.28s;transform-origin:660px 250px" cx="660" cy="250" r="10.2" fill="#F2B705" fill-opacity="0.15"/>
+  <circle class="node" style="animation-delay:1.28s;transform-origin:660px 250px" cx="660" cy="250" r="4.2" fill="#FFFFFF" stroke="#F2B705" stroke-width="2"/>
+  <circle class="node" style="animation-delay:1.56s;transform-origin:800px 216px" cx="800" cy="216" r="10.2" fill="#F2B705" fill-opacity="0.15"/>
+  <circle class="node" style="animation-delay:1.56s;transform-origin:800px 216px" cx="800" cy="216" r="4.2" fill="#FFFFFF" stroke="#F2B705" stroke-width="2"/>
+  <circle class="node" style="animation-delay:1.84s;transform-origin:930px 168px" cx="930" cy="168" r="10.2" fill="#F2B705" fill-opacity="0.15"/>
+  <circle class="node" style="animation-delay:1.84s;transform-origin:930px 168px" cx="930" cy="168" r="4.2" fill="#FFFFFF" stroke="#F2B705" stroke-width="2"/>
+  <circle class="node" style="animation-delay:2.12s;transform-origin:1040px 120px" cx="1040" cy="120" r="10.2" fill="#F2B705" fill-opacity="0.15"/>
+  <circle class="node" style="animation-delay:2.12s;transform-origin:1040px 120px" cx="1040" cy="120" r="4.2" fill="#FFFFFF" stroke="#F2B705" stroke-width="2"/>
+  <circle class="node" style="animation-delay:2.40s;transform-origin:1152px 100px" cx="1152" cy="100" r="11.5" fill="#F2B705" fill-opacity="0.15"/>
+  <circle class="node" style="animation-delay:2.40s;transform-origin:1152px 100px" cx="1152" cy="100" r="5.5" fill="#FFFFFF" stroke="#F2B705" stroke-width="2"/>
+  <circle class="halo" cx="1152" cy="100" r="9" fill="none" stroke="#F2B705" stroke-width="1.5" opacity="0.3"/>
+  <text x="62" y="152" font-family="Songti SC,Noto Serif CJK SC,Source Han Serif SC,SimSun,serif" font-size="76" fill="#1F2328">王佳豪</text>
+  <text x="66" y="192" font-family="Iowan Old Style,Palatino,Georgia,serif" font-size="23" letter-spacing="2.4" fill="#57606A">Dsegnr</text>
+  <text x="66" y="228" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="18" fill="#57606A">河南工业大学　计算机科学与技术</text>
+  <rect x="66" y="248" width="46" height="2" fill="#F2B705"/>
+  <text x="66" y="282" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="13" fill="#6E7781">2025.09 — 2026.09</text>
+  <text x="66" y="316" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#7A858C">多通道信号监测 · 跨被试建模 · 灾害预警</text>
+</svg>
