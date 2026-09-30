@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 372" width="1200" height="372" role="img" aria-label="2025.09 至 2026.09 里程碑">
   <defs>
+  <style>
+    .nd{animation:pop .5s cubic-bezier(.22,.61,.36,1) both}
+    @keyframes pop{from{opacity:0;transform:scale(.35)}to{opacity:1;transform:scale(1)}}
+    .pn{animation:rise .55s cubic-bezier(.22,.61,.36,1) both}
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    .rail{animation:grow 1.6s cubic-bezier(.22,.61,.36,1) .1s both;transform-origin:30px 132px}
+    @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion:reduce){.nd,.pn,.rail{animation:none}}
+  </style>
     <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#111820"/><stop offset="1" stop-color="#0B0F12"/>
     </linearGradient>
@@ -15,7 +24,7 @@
   <text x="98" y="35" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#5A666C">2025.09 — 2026.09</text>
   <text x="1174" y="35" text-anchor="end" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#5A666C">共 12 个月 · 6 个节点</text>
   <line x1="30" y1="132" x2="1170" y2="132" stroke="#212B31" stroke-width="1.5"/>
-  <rect x="30" y="130.5" width="1059" height="3" rx="1.5" fill="url(#prog)"/>
+  <rect class="rail" x="30" y="130.5" width="1059" height="3" rx="1.5" fill="url(#prog)"/>
   <line x1="30" y1="140" x2="30" y2="146" stroke="#2A343B" stroke-width="1"/>
   <line x1="125" y1="140" x2="125" y2="143" stroke="#2A343B" stroke-width="1"/>
   <line x1="220" y1="140" x2="220" y2="143" stroke="#2A343B" stroke-width="1"/>
@@ -35,9 +44,9 @@
   <text x="885" y="164" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#414C52">2026.06</text>
   <text x="1170" y="164" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#414C52">2026.09</text>
   <line x1="125" y1="132" x2="125" y2="196" stroke="#26313A" stroke-width="1"/>
-  <circle cx="125" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
-  <circle cx="125" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
-  <rect x="41" y="196" width="168" height="117" rx="6" fill="#131A20" stroke="#222C33"/>
+  <circle class="nd" style="animation-delay:0.25s;transform-origin:125px 132px" cx="125" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle class="nd" style="animation-delay:0.38s;transform-origin:125px 132px" cx="125" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect class="pn" style="animation-delay:0.45s" x="41" y="196" width="168" height="117" rx="6" fill="#131A20" stroke="#222C33"/>
   <rect x="41" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
   <text x="125" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2025.09</text>
   <text x="125" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">入学</text>
@@ -45,9 +54,9 @@
   <text x="125" y="287" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">河南工业大学</text>
   <text x="125" y="305" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">计算机科学与技术</text>
   <line x1="315" y1="132" x2="315" y2="196" stroke="#26313A" stroke-width="1"/>
-  <circle cx="315" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
-  <circle cx="315" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
-  <rect x="231" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <circle class="nd" style="animation-delay:0.51s;transform-origin:315px 132px" cx="315" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle class="nd" style="animation-delay:0.64s;transform-origin:315px 132px" cx="315" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect class="pn" style="animation-delay:0.58s" x="231" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
   <rect x="231" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
   <text x="315" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.05</text>
   <text x="315" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">蓝桥杯</text>
@@ -56,9 +65,9 @@
   <text x="315" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">C/C++ 程序设计</text>
   <text x="315" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">大学 B 组</text>
   <line x1="505" y1="132" x2="505" y2="196" stroke="#26313A" stroke-width="1"/>
-  <circle cx="505" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
-  <circle cx="505" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
-  <rect x="421" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <circle class="nd" style="animation-delay:0.77s;transform-origin:505px 132px" cx="505" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle class="nd" style="animation-delay:0.90s;transform-origin:505px 132px" cx="505" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect class="pn" style="animation-delay:0.71s" x="421" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
   <rect x="421" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
   <text x="505" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.06</text>
   <text x="505" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">蓝桥杯</text>
@@ -67,9 +76,9 @@
   <text x="505" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">同期 APMCM</text>
   <text x="505" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">本科组二等奖</text>
   <line x1="695" y1="132" x2="695" y2="196" stroke="#26313A" stroke-width="1"/>
-  <circle cx="695" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
-  <circle cx="695" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
-  <rect x="611" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <circle class="nd" style="animation-delay:1.03s;transform-origin:695px 132px" cx="695" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle class="nd" style="animation-delay:1.16s;transform-origin:695px 132px" cx="695" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect class="pn" style="animation-delay:0.84s" x="611" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
   <rect x="611" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
   <text x="695" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.07</text>
   <text x="695" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">量子编译器</text>
@@ -78,9 +87,9 @@
   <text x="695" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">CCF 量旋杯</text>
   <text x="695" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">赛事 IP 文创设计</text>
   <line x1="885" y1="132" x2="885" y2="196" stroke="#26313A" stroke-width="1"/>
-  <circle cx="885" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
-  <circle cx="885" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
-  <rect x="801" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <circle class="nd" style="animation-delay:1.29s;transform-origin:885px 132px" cx="885" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle class="nd" style="animation-delay:1.42s;transform-origin:885px 132px" cx="885" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect class="pn" style="animation-delay:0.97s" x="801" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
   <rect x="801" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
   <text x="885" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.08</text>
   <text x="885" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">“华数杯”</text>
@@ -89,9 +98,9 @@
   <text x="885" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">全国大学生</text>
   <text x="885" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">数学建模竞赛</text>
   <line x1="1075" y1="132" x2="1075" y2="196" stroke="#26313A" stroke-width="1"/>
-  <circle cx="1075" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
-  <circle cx="1075" cy="132" r="6" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
-  <rect x="991" y="196" width="168" height="99" rx="6" fill="#131A20" stroke="#222C33"/>
+  <circle class="nd" style="animation-delay:1.55s;transform-origin:1075px 132px" cx="1075" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle class="nd" style="animation-delay:1.68s;transform-origin:1075px 132px" cx="1075" cy="132" r="6" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect class="pn" style="animation-delay:1.10s" x="991" y="196" width="168" height="99" rx="6" fill="#131A20" stroke="#222C33"/>
   <rect x="991" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.9"/>
   <text x="1075" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.09</text>
   <text x="1075" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">高教社杯 · AIC</text>

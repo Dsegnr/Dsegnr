@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="严格 LOSO 留一被试协议">
+  <defs><linearGradient id="lbg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#111820"/><stop offset="1" stop-color="#0B0F12"/></linearGradient>
+  <style>
+    .t{animation:fi .5s ease-out both}
+    @keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+    .test{animation:tb 2.6s ease-in-out 1.2s infinite}
+    @keyframes tb{0%,100%{opacity:1}50%{opacity:.45}}
+    @media (prefers-reduced-motion:reduce){.t,.test{animation:none}}
+  </style></defs>
+  <rect width="1200" height="300" rx="8" fill="url(#lbg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="8" fill="none" stroke="#212B31"/>
+  <rect x="26" y="24" width="4" height="15" rx="2" fill="#F2B705"/>
+  <text x="40" y="37" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14.5" fill="#EDF1F2">跨被试协议 · 严格 LOSO</text>
+  <text x="1174" y="37" text-anchor="end" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#5A666C">测试被试不进入梯度、归一化与路由决策</text>
+  <text x="36" y="84" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#8C9AA1">DEAP　32 折 · 每折留出 1 位被试</text>
+  <rect class="test" x="36" y="92" width="48" height="26" rx="3" fill="#F2B705" fill-opacity="0.85"/>
+  <rect class="t" style="animation-delay:0.175s" x="92" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.200s" x="148" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.225s" x="204" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.250s" x="260" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.275s" x="316" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.300s" x="372" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.325s" x="428" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.350s" x="484" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.375s" x="540" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.400s" x="596" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.425s" x="652" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.450s" x="708" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.475s" x="764" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.500s" x="820" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.525s" x="876" y="92" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.550s" x="36" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.575s" x="92" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.600s" x="148" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.625s" x="204" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.650s" x="260" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.675s" x="316" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.700s" x="372" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.725s" x="428" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.750s" x="484" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.775s" x="540" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.800s" x="596" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.825s" x="652" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.850s" x="708" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.875s" x="764" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.900s" x="820" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.925s" x="876" y="126" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <text x="36" y="188" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#8C9AA1">SEED　15 折 · 每折留出 1 位被试</text>
+  <rect class="test" x="36" y="196" width="48" height="26" rx="3" fill="#F2B705" fill-opacity="0.85"/>
+  <rect class="t" style="animation-delay:0.175s" x="92" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.200s" x="148" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.225s" x="204" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.250s" x="260" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.275s" x="316" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.300s" x="372" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.325s" x="428" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.350s" x="484" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.375s" x="540" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.400s" x="596" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.425s" x="652" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.450s" x="708" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.475s" x="764" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect class="t" style="animation-delay:0.500s" x="820" y="196" width="48" height="26" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <rect x="36" y="256" width="13" height="13" rx="3" fill="#F2B705"/>
+  <text x="58" y="267" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">留出被试（仅用于测试）</text>
+  <rect x="214" y="256" width="13" height="13" rx="3" fill="#1A2228" stroke="#2A343B"/>
+  <text x="236" y="267" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">参与训练</text>
+  <text x="1174" y="267" text-anchor="end" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#5A666C">判决单元：折级 · 取测试集最优轮</text>
+</svg>
