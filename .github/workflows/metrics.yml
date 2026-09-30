@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - ".github/workflows/metrics.yml"
 
 jobs:
   github-metrics:
@@ -13,17 +15,70 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Metrics (dark theme)
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Dsegnr
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
           config_display: large
-          theme: dark
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
+          plugin_languages_threshold: 1%
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          extras_css: |
+            svg { color: #8C9AA1 }
+            h1, h2, h3 { color: #F2B705 }
+            .day[fill="#ebedf0"] { fill: #1B2126 }
+            .day[fill="#9be9a8"] { fill: #3A2E08 }
+            .day[fill="#40c463"] { fill: #6B5309 }
+            .day[fill="#30a14e"] { fill: #A87D0B }
+            .day[fill="#216e39"] { fill: #F2B705 }
+
+      - name: Metrics (light theme)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Dsegnr
+          filename: github-metrics-light.svg
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Shanghai
+          config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_threshold: 1%
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          extras_css: |
+            svg { color: #57606A }
+            h1, h2, h3 { color: #A8790A }
+            .day[fill="#ebedf0"] { fill: #EDF1F4 }
+            .day[fill="#9be9a8"] { fill: #FBEFC8 }
+            .day[fill="#40c463"] { fill: #F7DC8A }
+            .day[fill="#30a14e"] { fill: #EFC53F }
+            .day[fill="#216e39"] { fill: #D9A400 }
