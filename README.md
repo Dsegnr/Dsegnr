@@ -62,7 +62,7 @@
 
 **心聆 · 青少年心理健康多模态智能筛查平台**　`中国国际大学生创新大赛 · 进行中`
 角色：项目负责人　｜　技术栈：脑电采集 · 跨被试建模 · 联邦学习
-负责项目整体方案与技术路线设计，完成 22 页项目计划书；软件著作权已申请。　→　[github.com/Dsegnr/xinling-mental-health](https://github.com/Dsegnr/xinling-mental-health)
+负责项目整体方案与技术路线设计，完成 22 页项目计划书。　→　[github.com/Dsegnr/xinling-mental-health](https://github.com/Dsegnr/xinling-mental-health)
 
 **畅途灵控 · 实时转向车道级交通管控 AI 交警**　`第二届"讯飞杯"AI+ 创新应用大赛 · 2025.11`
 技术栈：Python · 随机森林 · Q-Learning · 地图可视化
