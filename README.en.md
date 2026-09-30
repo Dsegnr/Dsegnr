@@ -7,11 +7,18 @@
 <p align="center">
   <a href="mailto:3660157476@qq.com"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/email.svg" alt="Email"></a>
   <a href="https://dsegnr.github.io"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/homepage.svg" alt="Homepage"></a>
+  <a href="https://dsegnr.github.io/resume.pdf"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/resume.svg" alt="Resume PDF"></a>
   <a href="https://github.com/Dsegnr"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/github.svg" alt="GitHub"></a>
 </p>
 
 <p align="center">
-  <a href="README.md">中文</a>　｜　<b>English</b>
+  <samp>
+    <a href="#projects">Projects</a> ·
+    <a href="#honors">Honors</a> ·
+    <a href="#software-copyrights">Copyrights</a> ·
+    <a href="#repositories">Repositories</a> ·
+    <a href="README.md">中文</a>
+  </samp>
 </p>
 
 <br>
