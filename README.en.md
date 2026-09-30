@@ -140,10 +140,7 @@ Applied for, **all as first author**:
 ## Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics-light.svg" alt="GitHub Metrics">
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics.svg" alt="GitHub Metrics">
 </div>
 
 ---
