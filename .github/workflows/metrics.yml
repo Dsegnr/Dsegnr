@@ -52,3 +52,22 @@ jobs:
           extras_css: |
             svg { color: #57606A }
             h1, h2, h3 { color: #A8790A }
+
+      - name: Publish metrics to the profile site
+        env:
+          PUSH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          set -e
+          git clone --depth 1 "https://x-access-token:${PUSH_TOKEN}@github.com/Dsegnr/Dsegnr.github.io.git" pages
+          mkdir -p pages/metrics
+          cp github-metrics.svg github-metrics-light.svg pages/metrics/
+          cd pages
+          git config user.name "Dsegnr"
+          git config user.email "3660157476@qq.com"
+          git add metrics
+          if git diff --staged --quiet; then
+            echo "metrics unchanged"
+          else
+            git commit -q -m "Update profile metrics"
+            git push -q
+          fi
