@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@0a8d036faa0553a6e03ae670f862980726e2ebcd/assets/header.svg" width="100%" alt="王佳豪 · Dsegnr">
+  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@7a965291932930c5fec492fee7267b1c2e7867ec/assets/header.svg" width="100%" alt="王佳豪 · Dsegnr">
 </div>
 
 <h3 align="center">跨被试脑电情感识别　·　多模态视觉感知　·　灾害预警</h3>
@@ -15,7 +15,11 @@
 河南工业大学　计算机科学与技术　2025 级本科生，现在大二上。同时在走科研和学科竞赛，兴趣集中在**用多源信号把不容易看见的变化提前看出来**。
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@0a8d036faa0553a6e03ae670f862980726e2ebcd/assets/timeline.svg" width="100%" alt="2025.09 – 2026.09 里程碑">
+  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@7a965291932930c5fec492fee7267b1c2e7867ec/assets/timeline.svg" width="100%" alt="2025.09 – 2026.09 里程碑">
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@7a965291932930c5fec492fee7267b1c2e7867ec/assets/loso.svg" width="100%" alt="严格 LOSO 留一被试协议">
 </div>
 
 ## 项目
