@@ -58,6 +58,8 @@ jobs:
           PUSH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: |
           set -e
+          git fetch --depth 1 origin main
+          git checkout origin/main -- github-metrics.svg github-metrics-light.svg
           git clone --depth 1 "https://x-access-token:${PUSH_TOKEN}@github.com/Dsegnr/Dsegnr.github.io.git" pages
           mkdir -p pages/metrics
           cp github-metrics.svg github-metrics-light.svg pages/metrics/
