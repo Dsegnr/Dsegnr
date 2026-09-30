@@ -147,8 +147,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dsegnr/Dsegnr/main/github-metrics.svg">
-    <img src="https://raw.githubusercontent.com/Dsegnr/Dsegnr/main/github-metrics-light.svg" alt="GitHub Metrics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics.svg?v=20260930">
+    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics-light.svg?v=20260930" alt="GitHub Metrics">
   </picture>
 </div>
 
