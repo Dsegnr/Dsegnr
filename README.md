@@ -37,9 +37,9 @@
 
 **跨被试脑电情感识别**　`科研 · 长期进行中`　在 DEAP 与 SEED 上执行严格 LOSO 协议，复现并改进基于 Mamba / SSM 的架构。
 
-**噪声自适应量子编译器**　`2026 CCF 量子计算编程挑战赛（量旋杯）· 算法赛道 · 已提交`　基于 SABRE 映射算法的面向 NISQ 硬件的量子编译器，针对含噪中间规模量子设备做布局与路由的噪声自适应优化。
+**[噪声自适应量子编译器](https://github.com/Dsegnr/ccf-quantum-compiler)**　`2026 CCF 量子计算编程挑战赛（量旋杯）· 算法赛道 · 已提交`　基于 SABRE 映射算法的面向 NISQ 硬件的量子编译器，针对含噪中间规模量子设备做布局与路由的噪声自适应优化。
 
-**心聆 · 青少年心理健康多模态智能筛查平台**　`中国国际大学生创新大赛 · 进行中`　以脑电为主、量表为辅的青少年心理健康客观筛查与分级预警平台。
+**[心聆 · 青少年心理健康多模态智能筛查平台](https://github.com/Dsegnr/xinling-mental-health)**　`中国国际大学生创新大赛 · 进行中`　以脑电为主、量表为辅的青少年心理健康客观筛查与分级预警平台。
 
 **城市场景多模态目标检测**　`全球校园人工智能算法精英大赛 · 进行中`　可见光、红外与深度三种模态的数据对齐与融合。
 
@@ -82,6 +82,12 @@
   <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker.svg" alt="Docker">
   <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex.svg" alt="LaTeX">
 </p>
+
+## 开源仓库
+
+- [**ccf-quantum-compiler**](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
+- [**xinling-mental-health**](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
+- [**Dsegnr.github.io**](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
 
 ## 数据
 
