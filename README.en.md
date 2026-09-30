@@ -4,8 +4,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@a1d1c3d7530cf9e6eaaa8fd5de00365a183d8d8e/assets/header.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@a1d1c3d7530cf9e6eaaa8fd5de00365a183d8d8e/assets/header-light.svg" width="100%" alt="Jiahao Wang · Dsegnr">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/header.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/header-light.svg" width="100%" alt="Jiahao Wang · Dsegnr">
   </picture>
 </div>
 
@@ -33,8 +33,8 @@ Undergraduate in Computer Science at **Henan University of Technology** (2025 co
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@a1d1c3d7530cf9e6eaaa8fd5de00365a183d8d8e/assets/timeline.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@a1d1c3d7530cf9e6eaaa8fd5de00365a183d8d8e/assets/timeline-light.svg" width="100%" alt="Milestones, Sep 2025 – Sep 2026">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/timeline.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/timeline-light.svg" width="100%" alt="Milestones, Sep 2025 – Sep 2026">
   </picture>
 </div>
 
@@ -141,8 +141,8 @@ Applied for, **all as first author**:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics-light.svg" alt="GitHub Metrics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dsegnr/Dsegnr/main/github-metrics.svg">
+    <img src="https://raw.githubusercontent.com/Dsegnr/Dsegnr/main/github-metrics-light.svg" alt="GitHub Metrics">
   </picture>
 </div>
 
