@@ -31,7 +31,7 @@
 
 ## 项目
 
-**星图 · 岗位能力图谱动态演化与分析系统**　`挑战杯"揭榜挂帅"专项赛 · 参赛中`　岗位能力分析平台，负责求职端"我的"模块与企业端企业信息模块，并参与模型幻觉防控。
+**[星图 · 岗位能力图谱动态演化与分析系统](https://github.com/Talent-Star-Map/XINGTU)**　`挑战杯"揭榜挂帅"专项赛 · 参赛中`　多源异构岗位数据 + 知识图谱 + 大模型的人岗匹配平台，团队项目。本人负责求职端"我的"模块与企业端企业信息模块，并参与模型幻觉防控。
 
 **边坡哨兵 · 边坡形变监测与分级预警系统**　`学科竞赛 · 参赛中`　多传感器融合的双时间尺度边坡分级预警，负责数据对齐、预警算法与可视化。
 
@@ -86,6 +86,7 @@
 
 ## 开源仓库
 
+- [**Talent-Star-Map/XINGTU**](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
 - [**ccf-quantum-compiler**](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
 - [**xinling-mental-health**](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
 - [**Dsegnr.github.io**](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
