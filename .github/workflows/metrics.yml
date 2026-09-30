@@ -27,6 +27,8 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
           config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
@@ -35,6 +37,11 @@ jobs:
           extras_css: |
             svg { color: #8C9AA1 }
             h1, h2, h3 { color: #F2B705 }
+            path[fill="#ebedf0"], .day[fill="#ebedf0"] { fill: #1B2126 }
+            path[fill="#9be9a8"], .day[fill="#9be9a8"] { fill: #4A3B0A }
+            path[fill="#40c463"], .day[fill="#40c463"] { fill: #8A6A0F }
+            path[fill="#30a14e"], .day[fill="#30a14e"] { fill: #C79A08 }
+            path[fill="#216e39"], .day[fill="#216e39"] { fill: #F2B705 }
 
       - name: Metrics (light theme)
         uses: lowlighter/metrics@latest
@@ -46,6 +53,8 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
           config_display: large
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
@@ -54,6 +63,11 @@ jobs:
           extras_css: |
             svg { color: #57606A }
             h1, h2, h3 { color: #A8790A }
+            path[fill="#ebedf0"], .day[fill="#ebedf0"] { fill: #EDF1F4 }
+            path[fill="#9be9a8"], .day[fill="#9be9a8"] { fill: #FBE9B0 }
+            path[fill="#40c463"], .day[fill="#40c463"] { fill: #F5D477 }
+            path[fill="#30a14e"], .day[fill="#30a14e"] { fill: #E9B92F }
+            path[fill="#216e39"], .day[fill="#216e39"] { fill: #C99400 }
 
       - name: Publish metrics to the profile site
         env:
