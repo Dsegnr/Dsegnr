@@ -43,6 +43,8 @@
 
 **城市场景多模态目标检测**　`全球校园人工智能算法精英大赛 · 进行中`　可见光、红外与深度三种模态的数据对齐与融合。
 
+**[畅途灵控 · 实时转向车道级交通管控 AI 交警](https://github.com/Dsegnr/iflytek-cup-ai-city)**　`第二届"讯飞杯"AI+ 创新应用大赛 · 2025.11`　多源数据感知 + 随机森林预测 + Q-Learning 多路口协同的信号配时优化，控制粒度下沉到转向车道。
+
 ## 竞赛与荣誉
 
 - **蓝桥杯全国软件和信息技术专业人才大赛**（C/C++ 程序设计大学 B 组）：河南赛区一等奖、全国总决赛三等奖｜2026
@@ -88,6 +90,7 @@
 
 - [**Talent-Star-Map/XINGTU**](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
 - [**math-modeling**](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
+- [**iflytek-cup-ai-city**](https://github.com/Dsegnr/iflytek-cup-ai-city)　畅途灵控 · 实时转向车道级交通管控 AI 交警（讯飞杯参赛作品，含策划书、源代码与演示材料）
 - [**ccf-quantum-compiler**](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
 - [**xinling-mental-health**](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
 - [**Dsegnr.github.io**](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
