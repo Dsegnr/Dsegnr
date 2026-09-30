@@ -12,6 +12,16 @@
 
 <br>
 
+**EN**　Undergraduate in Computer Science at Henan University of Technology (2025 cohort). Member of the inaugural **Feiniao Innovation Program**, Institute of Complexity Science.
+
+I work on **cross-subject EEG emotion recognition** — currently on *learnable Mamba brain-region scan strategies with emotion priors and cognitive budgets* — under strict LOSO on DEAP (32 folds) and SEED (15 folds). Also multimodal data fusion and algorithm optimization.
+
+**Python · PyTorch · Mamba / SSM · Deep Learning · Machine Learning · Reinforcement Learning · TypeScript / React / FastAPI · MySQL / Neo4j · Docker**
+
+*Blue Bridge Cup — Provincial First Prize & National Finals Third Prize　·　APMCM — Second Prize　·　3 software copyrights (first author)*
+
+---
+
 河南工业大学　计算机科学与技术　2025 级本科生，**复杂性科学研究院「飞鸟创新实验班」2025 级（首届）成员**，现在大二上。
 
 <div align="center">
