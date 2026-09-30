@@ -30,7 +30,8 @@
 - **深度学习**　CNN / Transformer / 图网络 / 状态空间模型（SSM · Mamba）；多尺度融合、梯度反转、对比学习、EMA
 - **机器学习与优化**　随机森林 / XGBoost / SHAP 特征归因；ARIMAX 时序建模；强化学习（Q-Learning / PPO）；组合优化（SABRE）
 - **工程与部署**　全栈开发（TypeScript / React / FastAPI / MySQL / Neo4j / Docker）；Linux 常用命令与 Git 版本管理
-- **科研工具**　LaTeX 论文与报告写作；Matplotlib / Visio 绘图；远端 GPU 实验编排与多机调度
+- **科研与写作工具**　LaTeX 论文与报告排版；Visio 机制图、Matplotlib 数据绘图；Word / PowerPoint 材料撰写
+- **科研工程**　远端 GPU 实验编排与多机任务调度（SSH / tmux / 队列脚本）；Git 版本管理与文档归档
 
 ## 教育
 
