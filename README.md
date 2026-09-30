@@ -18,10 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@7a965291932930c5fec492fee7267b1c2e7867ec/assets/timeline.svg" width="100%" alt="2025.09 – 2026.09 里程碑">
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@7a965291932930c5fec492fee7267b1c2e7867ec/assets/loso.svg" width="100%" alt="严格 LOSO 留一被试协议">
-</div>
-
 ## 教育
 
 **河南工业大学**　计算机科学与技术（本科）｜2025.09 – 2029.06（预计）
