@@ -1,3 +1,7 @@
+<p align="center">
+  <b>中文</b>　｜　<a href="README.en.md">English</a>
+</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@7a965291932930c5fec492fee7267b1c2e7867ec/assets/header.svg" width="100%" alt="王佳豪 · Dsegnr">
 </div>
@@ -16,8 +20,7 @@
     <a href="#项目">项目</a> ·
     <a href="#竞赛与荣誉">竞赛</a> ·
     <a href="#软件著作权">软著</a> ·
-    <a href="#开源仓库">仓库</a> ·
-    <a href="README.en.md">English</a>
+    <a href="#开源仓库">仓库</a>
   </samp>
 </p>
 

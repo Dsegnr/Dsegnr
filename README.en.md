@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="README.md">中文</a>　｜　<b>English</b>
+</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@7a965291932930c5fec492fee7267b1c2e7867ec/assets/header.svg" width="100%" alt="Jiahao Wang · Dsegnr">
 </div>
@@ -16,8 +20,7 @@
     <a href="#projects">Projects</a> ·
     <a href="#honors">Honors</a> ·
     <a href="#software-copyrights">Copyrights</a> ·
-    <a href="#repositories">Repositories</a> ·
-    <a href="README.md">中文</a>
+    <a href="#repositories">Repositories</a>
   </samp>
 </p>
 
