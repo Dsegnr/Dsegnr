@@ -146,7 +146,10 @@
 ## 数据
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics.svg" alt="GitHub Metrics">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/github-metrics-light.svg" alt="GitHub Metrics">
+  </picture>
 </div>
 
 ---
