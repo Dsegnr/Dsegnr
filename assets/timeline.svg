@@ -1,57 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="2025.09 至 2026.09 的里程碑">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 372" width="1200" height="372" role="img" aria-label="2025.09 至 2026.09 里程碑">
   <defs>
-    <style>
-      .date { font-family: "PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif; font-size: 13px; fill: #5C6A70; letter-spacing: .04em; }
-      .title{ font-family: "PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif; font-size: 14.5px; fill: #EDF1F2; }
-      .sub  { font-family: "PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif; font-size: 12px; fill: #8C9AA1; }
-    </style>
+    <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111820"/><stop offset="1" stop-color="#0B0F12"/>
+    </linearGradient>
+    <linearGradient id="prog" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F2B705" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#F2B705" stop-opacity="0.85"/>
+    </linearGradient>
   </defs>
-
-  <rect width="1200" height="300" rx="6" fill="#101417"/>
-
-  <line x1="70" y1="168" x2="1130" y2="168" stroke="#232C31" stroke-width="1"/>
-  <path d="M 70 172 C 300 168, 560 164, 780 156 C 930 150, 1050 144, 1130 140"
-        fill="none" stroke="#F2B705" stroke-width="1.4" opacity="0.55"/>
-
-  <g>
-    <text class="date" x="80" y="126" text-anchor="middle">2025.09</text>
-    <circle cx="80" cy="168" r="5" fill="#F2B705"/>
-    <text class="title" x="80" y="200" text-anchor="middle">入学</text>
-    <text class="sub" x="80" y="222" text-anchor="middle">河南工业大学</text>
-  </g>
-
-  <g>
-    <text class="date" x="290" y="126" text-anchor="middle">2026.05</text>
-    <circle cx="290" cy="164" r="5" fill="#F2B705"/>
-    <text class="title" x="290" y="200" text-anchor="middle">蓝桥杯 河南赛区一等奖</text>
-    <text class="sub" x="290" y="222" text-anchor="middle">C/C++ 程序设计大学 B 组</text>
-  </g>
-
-  <g>
-    <text class="date" x="500" y="126" text-anchor="middle">2026.06</text>
-    <circle cx="500" cy="160" r="5" fill="#F2B705"/>
-    <text class="title" x="500" y="200" text-anchor="middle">蓝桥杯 全国总决赛三等奖</text>
-    <text class="sub" x="500" y="222" text-anchor="middle">同期 APMCM 本科组二等奖</text>
-  </g>
-
-  <g>
-    <text class="date" x="710" y="126" text-anchor="middle">2026.07</text>
-    <circle cx="710" cy="156" r="5" fill="#F2B705"/>
-    <text class="title" x="710" y="200" text-anchor="middle">量子编译器 · 蓝桥杯专项赛</text>
-    <text class="sub" x="710" y="222" text-anchor="middle">CCF 量旋杯 / 赛事 IP 文创设计 参赛</text>
-  </g>
-
-  <g>
-    <text class="date" x="920" y="126" text-anchor="middle">2026.08</text>
-    <circle cx="920" cy="152" r="5" fill="#F2B705"/>
-    <text class="title" x="920" y="200" text-anchor="middle">"华数杯"本科生组三等奖</text>
-    <text class="sub" x="920" y="222" text-anchor="middle">全国大学生数学建模竞赛</text>
-  </g>
-
-  <g>
-    <text class="date" x="1120" y="126" text-anchor="middle">2026.09</text>
-    <circle cx="1120" cy="148" r="5" fill="#F2B705"/>
-    <text class="title" x="1120" y="200" text-anchor="middle">高教社杯 · AIC</text>
-    <text class="sub" x="1120" y="222" text-anchor="middle">参赛 / 进行中</text>
-  </g>
+  <rect width="1200" height="372" rx="8" fill="url(#tbg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="371" rx="8" fill="none" stroke="#212B31"/>
+  <rect x="26" y="22" width="4" height="15" rx="2" fill="#F2B705"/>
+  <text x="40" y="35" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14.5" fill="#EDF1F2">时间线</text>
+  <text x="98" y="35" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#5A666C">2025.09 — 2026.09</text>
+  <text x="1174" y="35" text-anchor="end" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#5A666C">共 12 个月 · 6 个节点</text>
+  <line x1="30" y1="132" x2="1170" y2="132" stroke="#212B31" stroke-width="1.5"/>
+  <rect x="30" y="130.5" width="1059" height="3" rx="1.5" fill="url(#prog)"/>
+  <line x1="30" y1="140" x2="30" y2="146" stroke="#2A343B" stroke-width="1"/>
+  <line x1="125" y1="140" x2="125" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="220" y1="140" x2="220" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="315" y1="140" x2="315" y2="146" stroke="#2A343B" stroke-width="1"/>
+  <line x1="410" y1="140" x2="410" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="505" y1="140" x2="505" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="600" y1="140" x2="600" y2="146" stroke="#2A343B" stroke-width="1"/>
+  <line x1="695" y1="140" x2="695" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="790" y1="140" x2="790" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="885" y1="140" x2="885" y2="146" stroke="#2A343B" stroke-width="1"/>
+  <line x1="980" y1="140" x2="980" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="1075" y1="140" x2="1075" y2="143" stroke="#2A343B" stroke-width="1"/>
+  <line x1="1170" y1="140" x2="1170" y2="146" stroke="#2A343B" stroke-width="1"/>
+  <text x="30" y="164" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#414C52">2025.09</text>
+  <text x="315" y="164" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#414C52">2025.12</text>
+  <text x="600" y="164" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#414C52">2026.03</text>
+  <text x="885" y="164" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#414C52">2026.06</text>
+  <text x="1170" y="164" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="10.5" fill="#414C52">2026.09</text>
+  <line x1="125" y1="132" x2="125" y2="196" stroke="#26313A" stroke-width="1"/>
+  <circle cx="125" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle cx="125" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect x="41" y="196" width="168" height="117" rx="6" fill="#131A20" stroke="#222C33"/>
+  <rect x="41" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
+  <text x="125" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2025.09</text>
+  <text x="125" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">入学</text>
+  <line x1="61" y1="267" x2="189" y2="267" stroke="#232C31" stroke-width="1"/>
+  <text x="125" y="287" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">河南工业大学</text>
+  <text x="125" y="305" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">计算机科学与技术</text>
+  <line x1="315" y1="132" x2="315" y2="196" stroke="#26313A" stroke-width="1"/>
+  <circle cx="315" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle cx="315" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect x="231" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <rect x="231" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
+  <text x="315" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.05</text>
+  <text x="315" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">蓝桥杯</text>
+  <text x="315" y="273" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">河南赛区一等奖</text>
+  <line x1="251" y1="288" x2="379" y2="288" stroke="#232C31" stroke-width="1"/>
+  <text x="315" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">C/C++ 程序设计</text>
+  <text x="315" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">大学 B 组</text>
+  <line x1="505" y1="132" x2="505" y2="196" stroke="#26313A" stroke-width="1"/>
+  <circle cx="505" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle cx="505" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect x="421" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <rect x="421" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
+  <text x="505" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.06</text>
+  <text x="505" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">蓝桥杯</text>
+  <text x="505" y="273" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">全国总决赛三等奖</text>
+  <line x1="441" y1="288" x2="569" y2="288" stroke="#232C31" stroke-width="1"/>
+  <text x="505" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">同期 APMCM</text>
+  <text x="505" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">本科组二等奖</text>
+  <line x1="695" y1="132" x2="695" y2="196" stroke="#26313A" stroke-width="1"/>
+  <circle cx="695" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle cx="695" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect x="611" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <rect x="611" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
+  <text x="695" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.07</text>
+  <text x="695" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">量子编译器</text>
+  <text x="695" y="273" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">蓝桥杯专项赛</text>
+  <line x1="631" y1="288" x2="759" y2="288" stroke="#232C31" stroke-width="1"/>
+  <text x="695" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">CCF 量旋杯</text>
+  <text x="695" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">赛事 IP 文创设计</text>
+  <line x1="885" y1="132" x2="885" y2="196" stroke="#26313A" stroke-width="1"/>
+  <circle cx="885" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle cx="885" cy="132" r="5" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect x="801" y="196" width="168" height="138" rx="6" fill="#131A20" stroke="#222C33"/>
+  <rect x="801" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.45"/>
+  <text x="885" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.08</text>
+  <text x="885" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">“华数杯”</text>
+  <text x="885" y="273" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">本科生组三等奖</text>
+  <line x1="821" y1="288" x2="949" y2="288" stroke="#232C31" stroke-width="1"/>
+  <text x="885" y="308" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">全国大学生</text>
+  <text x="885" y="326" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">数学建模竞赛</text>
+  <line x1="1075" y1="132" x2="1075" y2="196" stroke="#26313A" stroke-width="1"/>
+  <circle cx="1075" cy="132" r="13" fill="#F2B705" fill-opacity="0.10"/>
+  <circle cx="1075" cy="132" r="6" fill="#0F1418" stroke="#F2B705" stroke-width="2.2"/>
+  <rect x="991" y="196" width="168" height="99" rx="6" fill="#131A20" stroke="#222C33"/>
+  <rect x="991" y="196" width="168" height="2.5" rx="1.25" fill="#F2B705" fill-opacity="0.9"/>
+  <text x="1075" y="226" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="12.5" fill="#F2B705">2026.09</text>
+  <text x="1075" y="252" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="14" fill="#EDF1F2">高教社杯 · AIC</text>
+  <line x1="1011" y1="267" x2="1139" y2="267" stroke="#232C31" stroke-width="1"/>
+  <text x="1075" y="287" text-anchor="middle" font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Segoe UI,sans-serif" font-size="11.5" fill="#8C9AA1">参赛 / 进行中</text>
 </svg>
