@@ -4,8 +4,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/header.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/header-light.svg" width="100%" alt="王佳豪 · Dsegnr">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/header.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/header-light.svg" width="100%" alt="王佳豪 · Dsegnr">
   </picture>
 </div>
 
@@ -33,8 +33,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/timeline.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@c4b90d34ddd57e3013b7e61b6cb4b29b95026258/assets/timeline-light.svg" width="100%" alt="2025.09 – 2026.09 里程碑">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/timeline.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/timeline-light.svg" width="100%" alt="2025.09 – 2026.09 里程碑">
   </picture>
 </div>
 
