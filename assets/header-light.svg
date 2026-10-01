@@ -11,6 +11,9 @@
       <stop offset="0" stop-color="#F2B705" stop-opacity="0"/>
       <stop offset="0.5" stop-color="#F2B705" stop-opacity="0.11"/>
       <stop offset="1" stop-color="#F2B705" stop-opacity="0"/></linearGradient>
+    <radialGradient id="dotGlow">
+      <stop offset="0" stop-color="#F2B705" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F2B705" stop-opacity="0"/></radialGradient>
     <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="3.4"/></filter>
     <clipPath id="panelClip"><rect width="1200" height="360"/></clipPath>
@@ -19,10 +22,10 @@
       @keyframes draw{from{stroke-dasharray:1600;stroke-dashoffset:1600}to{stroke-dasharray:1600;stroke-dashoffset:0}}
       .node{animation:pop .55s ease-out both}
       @keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:scale(1)}}
-      .halo{animation:pulse 3s ease-out 3s infinite}
-      @keyframes pulse{0%{r:9px;opacity:.30}70%{r:26px;opacity:0}100%{r:26px;opacity:0}}
-      .pulse{animation:flow 5.4s linear 3s infinite}
-      @keyframes flow{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+      .halo{animation:haloRipple 3s ease-out 3s infinite;transform-origin:1152px 100px}
+      @keyframes haloRipple{0%{transform:scale(.7);opacity:.42}70%{transform:scale(2.8);opacity:0}100%{transform:scale(2.8);opacity:0}}
+      .flowdot{animation:flowMove 5.4s linear 3s infinite}
+      @keyframes flowMove{0.00%{transform:translate(0.0px,0.0px)}4.17%{transform:translate(46.2px,-3.7px)}8.33%{transform:translate(84.5px,-7.4px)}12.50%{transform:translate(117.6px,-10.8px)}16.67%{transform:translate(148.0px,-14.0px)}20.83%{transform:translate(200.8px,-19.7px)}25.00%{transform:translate(240.5px,-24.7px)}29.17%{transform:translate(268.9px,-29.5px)}33.33%{transform:translate(288.0px,-34.0px)}37.50%{transform:translate(329.6px,-41.6px)}41.67%{transform:translate(365.5px,-49.5px)}45.83%{transform:translate(397.7px,-58.2px)}50.00%{transform:translate(428.0px,-68.0px)}54.17%{transform:translate(468.7px,-82.0px)}58.33%{transform:translate(502.4px,-94.2px)}62.50%{transform:translate(531.4px,-105.4px)}66.67%{transform:translate(558.0px,-116.0px)}70.83%{transform:translate(594.9px,-133.5px)}75.00%{transform:translate(624.3px,-147.1px)}79.17%{transform:translate(648.0px,-157.2px)}83.33%{transform:translate(668.0px,-164.0px)}87.50%{transform:translate(702.8px,-171.9px)}91.67%{transform:translate(732.6px,-177.7px)}95.83%{transform:translate(758.1px,-181.7px)}100.00%{transform:translate(780.0px,-184.0px)}}
       .contourA{animation:driftA 17s ease-in-out infinite alternate}
       @keyframes driftA{from{transform:translateX(-16px)}to{transform:translateX(16px)}}
       .contourB{animation:driftB 23s ease-in-out infinite alternate}
@@ -31,7 +34,7 @@
       @keyframes sweep{from{transform:translateX(-340px)}to{transform:translateX(1540px)}}
       .breathe{animation:breathe 7.5s ease-in-out infinite}
       @keyframes breathe{0%,100%{opacity:.82}50%{opacity:1}}
-      @media (prefers-reduced-motion:reduce){.draw,.node,.halo,.pulse,.contourA,.contourB,.sheen,.breathe{animation:none}}
+      @media (prefers-reduced-motion:reduce){.draw,.node,.halo,.flowdot,.contourA,.contourB,.sheen,.breathe{animation:none}}
     </style>
   </defs>
   <rect width="1200" height="360" fill="url(#bg)"/>
@@ -77,8 +80,7 @@
   <path d="M 372 296 C 440 291 480 286 520 282 C 600 274 640 268 660 262 C 720 252 760 242 800 228 C 860 208 895 194 930 180 C 985 154 1015 139 1040 132 C 1090 120 1125 114 1152 112 L 1152 88 C 1125 90 1090 96 1040 108 C 1015 115 985 130 930 156 C 895 170 860 184 800 204 C 760 218 720 228 660 238 C 640 244 600 250 520 258 C 480 262 440 267 372 272 Z" fill="#F2B705" fill-opacity="0.12"/>
   <path d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="#F2B705" stroke-opacity="0.22" stroke-width="9" stroke-linecap="round"/>
   <path class="draw" d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="url(#trace)" stroke-width="2.6" stroke-linecap="round"/>
-  <path class="pulse" pathLength="1000" d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="#F2B705" stroke-opacity="0.5" stroke-width="7" stroke-linecap="round" stroke-dasharray="62 938" filter="url(#soft)"/>
-  <path class="pulse" pathLength="1000" d="M 372 284 C 440 279 480 274 520 270 C 600 262 640 256 660 250 C 720 240 760 230 800 216 C 860 196 895 182 930 168 C 985 142 1015 127 1040 120 C 1090 108 1125 102 1152 100" fill="none" stroke="#E39A00" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="62 938"/>
+  <g class="flowdot"><circle cx="372" cy="284" r="15" fill="url(#dotGlow)"/><circle cx="372" cy="284" r="3.6" fill="#E39A00"/></g>
   <circle class="node" style="animation-delay:1.00s;transform-origin:520px 270px" cx="520" cy="270" r="10.2" fill="#F2B705" fill-opacity="0.15"/>
   <circle class="node" style="animation-delay:1.00s;transform-origin:520px 270px" cx="520" cy="270" r="4.2" fill="#FFFFFF" stroke="#F2B705" stroke-width="2"/>
   <circle class="node" style="animation-delay:1.28s;transform-origin:660px 250px" cx="660" cy="250" r="10.2" fill="#F2B705" fill-opacity="0.15"/>
