@@ -4,41 +4,47 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg"><img src="assets/header-light.svg" width="100%" alt="Jiahao Wang"></picture>
 
-Computer Science undergraduate at Henan University of Technology, 2025 cohort. Inaugural member of the Feiniao Innovation Program, Institute of Complexity Science.
+Computer Science undergraduate at Henan University of Technology, 2025 cohort. Inaugural member of the [Feiniao Innovation Program](https://cs.haut.edu.cn/info/1421/8304.htm), [Institute of Complexity Science](https://cs.haut.edu.cn/).
 
 [Email](mailto:3660157476@qq.com) · [Website](https://dsegnr.github.io) · [Résumé PDF](https://dsegnr.github.io/resume.pdf)
 
 ## Profile
 
-- **Research:** independent research in cross-subject EEG emotion recognition using PyTorch, Mamba / state space models, Transformers, and graph representations; experience in experimental design, training, controlled comparisons, and scientific writing.
-- **Algorithms and modeling:** Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; APMCM Second Prize and Huashu Cup Third Prize in the undergraduate divisions.
-- **Software development:** development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; system testing, paper experiment verification, container deployment, and database migration.
+- <strong>Research:</strong> independent research in cross-subject EEG emotion recognition using PyTorch, Mamba / state space models, Transformers, and graph representations; experience in experimental design, training, controlled comparisons, and scientific writing.
+- <strong>Algorithms and modeling:</strong> Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; APMCM Second Prize and Huashu Cup Third Prize in the undergraduate divisions.
+- <strong>Software development:</strong> development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; system testing, paper experiment verification, container deployment, and database migration.
 
 ## Technical skills
 
-- **Python and data:** object-oriented and asynchronous programming; NumPy / pandas processing and Matplotlib figures.
-- **Deep learning:** PyTorch training and inference, memory and throughput tuning; CNNs, Transformers, graph neural networks, Mamba / state space models, and multiscale spatiotemporal representations.
-- **Machine learning and optimization:** random forests, XGBoost, SHAP, ARIMAX, simulation optimization, and quantum circuit mapping and routing with Cirq / SABRE.
-- **Full-stack development:** React / TypeScript, FastAPI / SQLAlchemy, MySQL / MongoDB / Neo4j.
-- **Deployment and research tools:** Linux, Docker Compose, SSH, Git, remote GPU experiments, LaTeX, Visio, and technical documentation.
+- <strong>LLM application engineering:</strong> LLM API integration for résumé and job-description parsing; task prompts, structured output constraints, rule validation, error handling and fallbacks.
+- <strong>Output quality and reliability:</strong> source-evidence tracing, cross-source verification, confidence scoring and hallucination-risk detection; verification through test cases and result reviews.
+- <strong>RAG and agent project experience:</strong> participation in a knowledge-graph AI application involving semantic retrieval, tool calls and a Plan–Execute–Report workflow. Personal responsibilities cover résumé/profile modules, output quality, system verification and deployment.
+
+- <strong>Python and data:</strong> object-oriented and asynchronous programming; NumPy / pandas processing and Matplotlib figures.
+- <strong>Deep learning:</strong> PyTorch training and inference, memory and throughput tuning; CNNs, Transformers, graph neural networks, Mamba / state space models, and multiscale spatiotemporal representations.
+- <strong>Machine learning and optimization:</strong> random forests, XGBoost, SHAP, ARIMAX, simulation optimization, and quantum circuit mapping and routing with Cirq / SABRE.
+- <strong>Full-stack development:</strong> React / TypeScript, FastAPI / SQLAlchemy, MySQL / MongoDB / Neo4j.
+- <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH, Git, remote GPU experiments, LaTeX, Visio, and technical documentation.
 
 ## Education
 
-**Henan University of Technology · BSc in Computer Science** | September 2025–June 2029, expected
+<strong>Henan University of Technology · BSc in Computer Science</strong> | September 2025–June 2029, expected
 
 Inaugural member of the 2025 Feiniao Innovation Program; mentor: Guang'en Liu. Student union learning-department member; university sports-team captain and university-organized social practice.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
-[Explore the interactive 3D project–technology graph](https://dsegnr.github.io/#ability-graph)
+<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="100%" alt="项目与技术能力三维图谱动态预览；点击打开可旋转、缩放与选择节点的交互版"></picture></a>
+
+[Open the interactive graph](https://dsegnr.github.io/#ability-graph)
 
 ## Project experience
 
 ### [Xingtu · Job-capability knowledge graph platform](https://github.com/Talent-Star-Map/XINGTU)
 
-**Team project | Role:** application development, validation, and deployment migration
+<strong>Team project | Role:</strong> application development, validation, and deployment migration
 
-**Technologies:** React, TypeScript, FastAPI, SQLAlchemy, MySQL, MongoDB, Neo4j, Docker
+<strong>Technologies:</strong> React, TypeScript, FastAPI, SQLAlchemy, MySQL, MongoDB, Neo4j, Docker
 
 A platform integrating job information, capability graphs, résumé management, and job–candidate matching.
 
@@ -48,40 +54,40 @@ A platform integrating job information, capability graphs, résumé management, 
 
 ### Cross-subject EEG emotion recognition
 
-**Ongoing research | Role:** independent researcher
+<strong>Ongoing research | Role:</strong> independent researcher
 
-**Technologies:** Python, PyTorch, Mamba / SSM, Transformers, graph representations
+<strong>Technologies:</strong> Python, PyTorch, Mamba / SSM, Transformers, graph representations
 
 - Conducted research on cross-subject generalization and spatiotemporal representations, including data processing, training, evaluation, and controlled comparisons.
 - Used LOSO evaluation on DEAP and SEED, maintaining configurations, archived results, and analysis records while preparing a manuscript.
 
-### Urban visual multimodal object detection
+### [Urban visual multimodal object detection](https://github.com/Dsegnr/aic2026-multimodal-detection)
 
-**AIC Provincial Third Prize | Role:** competition team member
+<strong>AIC Provincial Third Prize | Role:</strong> competition team member
 
-**Technologies:** PyTorch, YOLO, multimodal fusion
+<strong>Technologies:</strong> PyTorch, D-FINE, YOLO, multimodal fusion
 
 - Participated in visible-light, infrared, and depth-based object detection, including alignment, feature fusion, and evaluation; awarded Provincial Third Prize.
 
 ### [Noise-adaptive quantum compiler](https://github.com/Dsegnr/ccf-quantum-compiler)
 
-**CCF Quantum Computing Programming Challenge | Role:** algorithm implementation and evaluation
+<strong>CCF Quantum Computing Programming Challenge | Role:</strong> algorithm implementation and evaluation
 
-**Technologies:** Python, Cirq, SABRE, NISQ
+<strong>Technologies:</strong> Python, Cirq, SABRE, NISQ
 
 - Implemented noise-aware routing, multiple initial layouts, and forward–backward optimization for NISQ hardware. Public-set score: 0.7550, 8.3% above the best baseline in the competition release package.
 
 ### [APMCM and Huashu Cup mathematical modeling](https://github.com/Dsegnr/math-modeling)
 
-**Undergraduate Second / Third Prize | Role:** team leader
+<strong>Undergraduate Second / Third Prize | Role:</strong> team leader
 
 - Led modeling, algorithm implementation, result verification, and paper preparation for water-quality prediction and conductive-medium simulation optimization; archived papers, code, figures, and results.
 
 ### [Xinling · Multimodal adolescent mental-health screening platform](https://github.com/Dsegnr/xinling-mental-health)
 
-**Concept design | Role:** project lead
+<strong>Concept design | Role:</strong> project lead
 
-**Technologies in the proposed solution:** EEG acquisition, cross-subject modeling, federated learning
+<strong>Technologies in the proposed solution:</strong> EEG acquisition, cross-subject modeling, federated learning
 
 - Designed the overall solution and technical roadmap and completed a 22-page project proposal.
 
@@ -129,11 +135,13 @@ Participation in the China Collegiate Programming Contest Group Programming Ladd
 
 ## Open-source repositories
 
-- [**Talent-Star-Map/XINGTU**](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
-- [**math-modeling**](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
-- [**ccf-quantum-compiler**](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
-- [**xinling-mental-health**](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
-- [**Dsegnr.github.io**](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
+- [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection) — AIC Provincial Third Prize project: training, inference, evaluation and historical configurations.
+
+- [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
+- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
+- [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
+- [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
+- [<strong>Dsegnr.github.io</strong>](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
 
 ## GitHub activity
 

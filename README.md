@@ -10,29 +10,33 @@
 </p>
 <p align="center"><a href="#个人概述">个人概述</a> · <a href="#专业技能">专业技能</a> · <a href="#项目经历">项目经历</a> · <a href="#竞赛与荣誉">竞赛与荣誉</a></p>
 
-河南工业大学计算机科学与技术 2025 级本科生，复杂性科学研究院「飞鸟创新实验班」2025 级首届成员。
+河南工业大学计算机科学与技术 2025 级本科生，[复杂性科学研究院](https://cs.haut.edu.cn/)「[飞鸟创新实验班](https://cs.haut.edu.cn/info/1421/8304.htm)」2025 级首届成员。
 
 ## 个人概述
 
-- **科研实践：**围绕跨被试脑电情感识别开展独立研究，使用 PyTorch、Mamba／状态空间模型、Transformer 及图结构建模技术，具备实验设计、模型训练、对照分析与科研写作经验。
-- **算法与建模：**蓝桥杯 C/C++ 大学 B 组河南赛区一等奖、全国总决赛三等奖；APMCM 本科组二等奖、华数杯本科生组三等奖；具有数学建模、算法实现与实验评测经验。
-- **软件开发：**参与星图岗位能力图谱平台开发，承担个人中心、简历管理与企业信息模块，以及系统测试、论文实验复核、容器部署和数据库迁移工作。
+- <strong>科研实践：</strong>围绕跨被试脑电情感识别开展独立研究，使用 PyTorch、Mamba／状态空间模型、Transformer 及图结构建模技术，具备实验设计、模型训练、对照分析与科研写作经验。
+- <strong>算法与建模：</strong>蓝桥杯 C/C++ 大学 B 组河南赛区一等奖、全国总决赛三等奖；APMCM 本科组二等奖、华数杯本科生组三等奖；具有数学建模、算法实现与实验评测经验。
+- <strong>软件开发：</strong>参与星图岗位能力图谱平台开发，承担个人中心、简历管理与企业信息模块，以及系统测试、论文实验复核、容器部署和数据库迁移工作。
 
 ## 专业技能
 
-- **Python 与数据处理：**熟练使用 Python，具备面向对象与异步编程经验；使用 NumPy、pandas 进行数据处理，使用 Matplotlib 绘制实验与分析图表。
-- **深度学习：**使用 PyTorch 开展模型训练与推理，具备显存与吞吐调优经验；研究涉及 CNN、Transformer、图神经网络、Mamba／状态空间模型及多尺度时空特征建模。
-- **机器学习与优化：**具有随机森林、XGBoost、SHAP 特征分析、ARIMAX 时序建模与组合优化实践，使用 Cirq、SABRE 进行量子线路映射与路由评测。
-- **全栈开发：**使用 React、TypeScript 开发业务界面，使用 FastAPI、SQLAlchemy 实现后端接口与数据访问；具有 MySQL、MongoDB、Neo4j 使用与迁移经验。
-- **部署与科研工具：**具备 Linux、Docker Compose、SSH、Git 使用经验，完成服务部署、数据备份和远端 GPU 实验管理；使用 LaTeX、Visio、Word 完成论文、机制图及技术文档。
+- <strong>大模型应用开发：</strong>在简历与岗位描述解析中接入大模型 API，设计任务提示词与结构化输出约束，结合规则校验、异常处理和兜底策略构建业务处理链路。
+- <strong>生成质量与可靠性：</strong>围绕信息抽取实现原文证据追溯、多源交叉验证、置信度评分与幻觉风险识别，结合测试用例和结果复核验证输出质量。
+- <strong>RAG 与 Agent 项目实践：</strong>参与知识图谱型 AI 应用开发与系统验证，具有语义检索、工具调用和 Plan–Execute–Report 工作流的项目实践；本人负责简历与资料模块、输出质检及相关验证与部署。
+
+- <strong>Python 与数据处理：</strong>熟练使用 Python，具备面向对象与异步编程经验；使用 NumPy、pandas 进行数据处理，使用 Matplotlib 绘制实验与分析图表。
+- <strong>深度学习：</strong>使用 PyTorch 开展模型训练与推理，具备显存与吞吐调优经验；研究涉及 CNN、Transformer、图神经网络、Mamba／状态空间模型及多尺度时空特征建模。
+- <strong>机器学习与优化：</strong>具有随机森林、XGBoost、SHAP 特征分析、ARIMAX 时序建模与组合优化实践，使用 Cirq、SABRE 进行量子线路映射与路由评测。
+- <strong>全栈开发：</strong>使用 React、TypeScript 开发业务界面，使用 FastAPI、SQLAlchemy 实现后端接口与数据访问；具有 MySQL、MongoDB、Neo4j 使用与迁移经验。
+- <strong>部署与科研工具：</strong>具备 Linux、Docker Compose、SSH、Git 使用经验，完成服务部署、数据备份和远端 GPU 实验管理；使用 LaTeX、Visio、Word 完成论文、机制图及技术文档。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
 ## 教育背景
 
-**河南工业大学　计算机科学与技术（本科）｜2025.09—2029.06（预计）**
+<strong>河南工业大学　计算机科学与技术（本科）｜2025.09—2029.06（预计）</strong>
 
-复杂性科学研究院「飞鸟创新实验班」2025 级首届成员，导师刘广恩。
+[复杂性科学研究院](https://cs.haut.edu.cn/)「[飞鸟创新实验班](https://cs.haut.edu.cn/info/1421/8304.htm)」2025 级首届成员，导师刘广恩。
 
 学生工作：信息学院第二十三届学生会学习部成员；明德书院校运会铅球队队长。
 
@@ -40,38 +44,41 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
-[查看可旋转的 3D 项目与技术图谱](https://dsegnr.github.io/#ability-graph)
+<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="100%" alt="项目与技术能力三维图谱动态预览；点击打开可旋转、缩放与选择节点的交互版"></picture></a>
+
+[打开交互版图谱](https://dsegnr.github.io/#ability-graph) · 支持旋转、缩放与节点选择
 
 ## 项目经历
 
 ### [星图 · 岗位能力图谱动态演化与分析系统](https://github.com/Talent-Star-Map/XINGTU)
 
-**团队项目**　｜　**角色：**业务模块开发、系统验证与部署迁移
+<strong>团队项目</strong>　｜　<strong>角色：</strong>业务模块开发、系统验证与部署迁移
 
-**技术栈：**React · TypeScript · FastAPI · SQLAlchemy · MySQL · MongoDB · Neo4j · Docker
+<strong>技术栈：</strong>React · TypeScript · FastAPI · SQLAlchemy · MySQL · MongoDB · Neo4j · Docker
 
 面向岗位技能分析与人岗匹配，构建集岗位信息、能力图谱、简历管理和匹配分析于一体的平台。
 
-- 负责求职端个人中心、简历管理及企业信息相关模块开发，参与大模型输出质检与幻觉防控。
+- 负责求职端个人中心、简历管理及企业信息相关模块开发。
+- 在简历与岗位描述解析中实现大模型结构化信息抽取、原文证据校验及规则兜底，结合交叉验证与置信度评分约束无证据技能输出。
 - 承担测试文档编制、论文补实验与结果复核，核对数据划分、实验记录及论文图表的一致性。
 - 完成新服务器选型与存储扩容，部署前端、后端、三类数据库和采集程序共 6 个容器；完成数据库迁移核验、备份配置与团队自动 SSH 连接工具。
 
 ### 跨被试脑电情感识别
 
-**科研进行中**　｜　**角色：**独立研究
+<strong>科研进行中</strong>　｜　<strong>角色：</strong>独立研究
 
-**技术栈：**Python · PyTorch · Mamba / SSM · Transformer · 图结构建模
+<strong>技术栈：</strong>Python · PyTorch · Mamba / SSM · Transformer · 图结构建模
 
 面向脑电情感识别中的跨被试泛化问题，开展深度时空特征建模研究。
 
 - 使用状态空间模型、注意力机制与图结构建模技术开展研究，完成数据处理、训练评估及对照实验。
 - 在 DEAP、SEED 数据集上开展 LOSO 跨被试评估，维护实验配置、结果归档与分析记录，推进论文撰写。
 
-### 城市场景视觉多模态目标检测
+### [城市场景视觉多模态目标检测](https://github.com/Dsegnr/aic2026-multimodal-detection)
 
-**AIC 省赛三等奖**　｜　**角色：**参赛成员
+<strong>AIC 省赛三等奖</strong>　｜　<strong>角色：</strong>参赛成员
 
-**技术栈：**PyTorch · YOLO · 多模态融合
+<strong>技术栈：</strong>PyTorch · D-FINE · YOLO · 多模态融合
 
 全球校园人工智能算法精英大赛“面向城市场景的视觉多模态目标检测”赛题项目。
 
@@ -79,9 +86,9 @@
 
 ### [噪声自适应量子编译器](https://github.com/Dsegnr/ccf-quantum-compiler)
 
-**CCF 量旋杯 · 算法赛道**　｜　**角色：**算法实现与评测
+<strong>CCF 量旋杯 · 算法赛道</strong>　｜　<strong>角色：</strong>算法实现与评测
 
-**技术栈：**Python · Cirq · SABRE · NISQ
+<strong>技术栈：</strong>Python · Cirq · SABRE · NISQ
 
 基于 SABRE 映射算法，面向 NISQ 硬件开展量子线路布局与路由的噪声自适应优化。
 
@@ -89,9 +96,9 @@
 
 ### [APMCM 与华数杯数学建模](https://github.com/Dsegnr/math-modeling)
 
-**本科组二等奖 / 三等奖**　｜　**角色：**队长
+<strong>本科组二等奖 / 三等奖</strong>　｜　<strong>角色：</strong>队长
 
-**技术栈：**Python · 时序建模 · 仿真优化 · 数据分析
+<strong>技术栈：</strong>Python · 时序建模 · 仿真优化 · 数据分析
 
 分别研究水质预测与评估、导电介质仿真优化问题。
 
@@ -99,9 +106,9 @@
 
 ### [心聆 · 青少年心理健康多模态智能筛查平台](https://github.com/Dsegnr/xinling-mental-health)
 
-**方案设计**　｜　**角色：**项目负责人
+<strong>方案设计</strong>　｜　<strong>角色：</strong>项目负责人
 
-**技术栈：**脑电采集 · 跨被试建模 · 联邦学习
+<strong>技术栈：</strong>脑电采集 · 跨被试建模 · 联邦学习
 
 面向青少年心理健康筛查需求，设计多模态智能筛查平台方案。
 
@@ -126,7 +133,7 @@
 
 ## 软件著作权
 
-申请中，均列**第一著作权人**：
+申请中，均列<strong>第一著作权人</strong>：
 
 - 边坡哨兵滑坡灾害协同感知与预警系统 V1.0
 - 滑坡多传感器融合与涌浪风险估算软件 V1.0
@@ -160,11 +167,13 @@
 
 ## 开源仓库
 
-- [**Talent-Star-Map/XINGTU**](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
-- [**math-modeling**](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
-- [**ccf-quantum-compiler**](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
-- [**xinling-mental-health**](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
-- [**Dsegnr.github.io**](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
+- [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection)　AIC 省赛三等奖项目，包含训练、推理、评测与历史实验配置
+
+- [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
+- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
+- [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
+- [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
+- [<strong>Dsegnr.github.io</strong>](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
 
 ## 成长记录
 
