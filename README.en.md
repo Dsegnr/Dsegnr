@@ -100,11 +100,40 @@ A platform integrating job information, capability graphs, résumé management, 
 
 - CET-4: 497.
 - Intermediate Industrial Internet Platform Development Engineer.
-- Three software copyright applications, listed first among the copyright holders on each.
+- Three applications pending; listed first among the copyright holders on each:
+  - 边坡哨兵滑坡灾害协同感知与预警系统 V1.0
+  - 滑坡多传感器融合与涌浪风险估算软件 V1.0
+  - 星图智能简历解析与简历管理软件 V1.0
+
 
 ## Other competition experience
 
 Participation in the China Collegiate Programming Contest Group Programming Ladder Tournament and the China Undergraduate Mathematical Contest in Modeling; member of a China International College Students' Innovation Competition team.
+
+## Technology stack
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python-light.svg" alt="Python"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp-light.svg" alt="C/C++"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch-light.svg" alt="PyTorch"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv-light.svg" alt="OpenCV"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab-light.svg" alt="MATLAB"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi-light.svg" alt="FastAPI"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript-light.svg" alt="TypeScript"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react-light.svg" alt="React"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql-light.svg" alt="MySQL"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j-light.svg" alt="Neo4j"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker-light.svg" alt="Docker"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex-light.svg" alt="LaTeX"></picture>
+</p>
+
+## Open-source repositories
+
+- [**Talent-Star-Map/XINGTU**](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
+- [**math-modeling**](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
+- [**ccf-quantum-compiler**](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
+- [**xinling-mental-health**](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
+- [**Dsegnr.github.io**](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
 
 ## GitHub activity
 
