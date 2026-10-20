@@ -84,6 +84,15 @@
 
 - 围绕可见光、红外与深度信息开展多模态目标检测实践，涉及数据对齐、特征融合及模型评测；获省赛三等奖。
 
+### [Sentinel · 安全研判与防御工作台](https://github.com/Dsegnr/sentinel-secops)
+
+<strong>个人项目 · 原型持续完善中</strong>　｜　<strong>技术栈：</strong>Python · FastAPI · Jinja2 · PowerShell · pytest
+
+面向个人与小团队的本地安全研判工具原型，提供命令行和 Web 工作台，串联公开情报查询、证据报告、主机基线检查及发现管理。
+
+- 实现域名／URL、IP 与邮件分析，结构化报告及 SHA-256 证据清单、案件归档、资产与告警管理；提供 Windows 基线差异和可审阅的加固脚本，接入可选 LLM 报告解释。
+- 已有公开代码测试覆盖研判规则、证据导出、基线及告警流程；公开版本不包含个人知识库、案件或实际配置。
+
 ### [噪声自适应量子编译器](https://github.com/Dsegnr/ccf-quantum-compiler)
 
 <strong>CCF 量旋杯 · 算法赛道</strong>　｜　<strong>角色：</strong>算法实现与评测
@@ -143,10 +152,6 @@
 
 - 中国高校计算机大赛 · 团体程序设计天梯赛｜2026 参赛经历
 - 全国大学生数学建模竞赛（高教社杯）｜2026 参赛经历
-- 第十八届蓝桥杯大赛「主视觉与赛事 IP 文创设计」专项赛（赛事 IP 文创设计赛道）｜2026 参赛经历
-- 中国（国际）传感器创新创业大赛｜2026 参赛经历
-- 中国国际大学生创新大赛｜2026 参赛经历
-- “挑战杯”揭榜挂帅专项赛｜2026 参赛经历
 
 ## 技术栈
 
@@ -166,6 +171,8 @@
 </p>
 
 ## 开源仓库
+
+- [sentinel-secops](https://github.com/Dsegnr/sentinel-secops)　Sentinel 本地安全研判与防御工具原型，包含 CLI、Web 工作台与测试，不含知识库和案件数据
 
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection)　AIC 省赛三等奖项目，包含训练、推理、评测与历史实验配置
 

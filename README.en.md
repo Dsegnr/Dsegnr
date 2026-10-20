@@ -74,6 +74,13 @@ A platform integrating job information, capability graphs, résumé management, 
 
 - Participated in visible-light, infrared, and depth-based object detection, including alignment, feature fusion, and evaluation; awarded Provincial Third Prize.
 
+### [Sentinel · Defensive security triage workbench](https://github.com/Dsegnr/sentinel-secops)
+
+<strong>Personal project · Prototype in development | Technologies:</strong> Python, FastAPI, Jinja2, PowerShell, pytest
+
+- Built a local CLI and Web workbench for public-source domain, URL, IP and email analysis, structured reports, SHA-256 evidence manifests, case archiving and asset/alert management.
+- Implemented Windows baseline comparison and reviewable hardening scripts, with optional LLM report interpretation. Code tests cover core rules and workflows; the public repository excludes personal knowledge, cases and actual configuration.
+
 ### [Noise-adaptive quantum compiler](https://github.com/Dsegnr/ccf-quantum-compiler)
 
 <strong>CCF Quantum Computing Programming Challenge | Role:</strong> algorithm implementation and evaluation
@@ -121,10 +128,6 @@ A platform integrating job information, capability graphs, résumé management, 
 
 - Group Programming Ladder Tournament (中国高校计算机大赛·团体程序设计天梯赛) | 2026 participation
 - China Undergraduate Mathematical Contest in Modeling (高教社杯) | 2026 participation
-- 18th Blue Bridge Cup visual identity and event-IP creative-design special contest, event-IP track | 2026 participation
-- China (International) Sensor Innovation and Entrepreneurship Competition | 2026 participation
-- China International College Students’ Innovation Competition | 2026 participation
-- Challenge Cup open-competition special track (揭榜挂帅专项赛) | 2026 participation
 
 ## Technology stack
 
@@ -144,6 +147,8 @@ A platform integrating job information, capability graphs, résumé management, 
 </p>
 
 ## Open-source repositories
+
+- [sentinel-secops](https://github.com/Dsegnr/sentinel-secops) — Local defensive-security prototype with CLI, Web workbench and tests; excludes personal knowledge and case data.
 
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection) — AIC Provincial Third Prize project: training, inference, evaluation and historical configurations.
 
