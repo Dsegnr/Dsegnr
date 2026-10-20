@@ -17,7 +17,7 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 ## Technical skills
 
 - <strong>LLM application engineering:</strong> LLM API integration for résumé and job-description parsing; task prompts, structured output constraints, rule validation, error handling and fallbacks.
-- <strong>Output quality and reliability:</strong> source-evidence tracing, cross-source verification, confidence scoring and hallucination-risk detection; verification through test cases and result reviews.
+- <strong>LLM output validation and hallucination mitigation:</strong> validate extracted résumé and job skills against source evidence; use cross-source verification and confidence scoring to flag unsupported content, and verify validation rules with test cases.
 - <strong>RAG and agent project experience:</strong> participation in a knowledge-graph AI application involving semantic retrieval, tool calls and a Plan–Execute–Report workflow. Personal responsibilities cover résumé/profile modules, output quality, system verification and deployment.
 
 - <strong>Python and data:</strong> object-oriented and asynchronous programming; NumPy / pandas processing and Matplotlib figures.
