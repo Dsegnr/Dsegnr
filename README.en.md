@@ -1,153 +1,111 @@
-<p align="center">
-  <a href="README.md">中文</a>　｜　<b>English</b>
-</p>
+<p align="center"><a href="README.md">中文</a>　｜　<b>English</b></p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/header.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/header-light.svg" width="100%" alt="Jiahao Wang · Dsegnr">
-  </picture>
-</div>
+# Jiahao Wang · Dsegnr
 
-<h3 align="center">Cross-subject EEG Emotion Recognition　·　Multimodal Data Fusion　·　Algorithm Optimization</h3>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg"><img src="assets/header-light.svg" width="100%" alt="Jiahao Wang"></picture>
 
-<p align="center">
-  <a href="mailto:3660157476@qq.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/email.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/email-light.svg" alt="Email"></picture></a>
-  <a href="https://dsegnr.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/homepage.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/homepage-light.svg" alt="Homepage"></picture></a>
-  <a href="https://dsegnr.github.io/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/resume.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/resume-light.svg" alt="Resume PDF"></picture></a>
-  <a href="https://github.com/Dsegnr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/github.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/github-light.svg" alt="GitHub"></picture></a>
-</p>
+Computer Science undergraduate at Henan University of Technology, 2025 cohort. Inaugural member of the Feiniao Innovation Program, Institute of Complexity Science.
 
-<p align="center">
-  <samp>
-    <a href="#projects">Projects</a> ·
-    <a href="#honors">Honors</a> ·
-    <a href="#software-copyrights">Copyrights</a> ·
-    <a href="#repositories">Repositories</a>
-  </samp>
-</p>
+[Email](mailto:3660157476@qq.com) · [Website](https://dsegnr.github.io) · [Résumé PDF](https://dsegnr.github.io/resume.pdf)
 
-<br>
+## Profile
 
-Undergraduate in Computer Science at **Henan University of Technology** (2025 cohort) and a member of the inaugural **Feiniao Innovation Program** at the Institute of Complexity Science. Currently a sophomore.
+- **Research:** independent research in cross-subject EEG emotion recognition using PyTorch, Mamba / state space models, Transformers, and graph representations; experience in experimental design, training, controlled comparisons, and scientific writing.
+- **Algorithms and modeling:** Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; APMCM Second Prize and Huashu Cup Third Prize in the undergraduate divisions.
+- **Software development:** development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; system testing, paper experiment verification, container deployment, and database migration.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/timeline.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@3c38b82bded4e3eac0f46b0119026b45ea26427b/assets/timeline-light.svg" width="100%" alt="Milestones, Sep 2025 – Sep 2026">
-  </picture>
-</div>
+## Technical skills
 
-## Summary
-
-- **Research.** Independently chosen topic in cross-subject EEG emotion recognition — currently working on **learnable Mamba brain-region scan strategies with emotion priors and cognitive budgets**. All experiments follow a strict LOSO protocol on DEAP (32 folds) and SEED (15 folds); several mechanisms have been validated with multi-seed paired comparisons.
-- **Algorithms.** Blue Bridge Cup (C/C++ Programming, Division B): Provincial First Prize and National Finals Third Prize. Our CCF quantum computing challenge entry scored **0.7550**, 8.3% above the official best baseline. APMCM Asia-Pacific Mathematical Contest in Modeling: Second Prize.
-- **Engineering.** Three software copyrights, all as **first author**. Able to deliver end to end — frontend, backend, relational database, graph database, and containerized deployment.
-
-## Skills
-
-- **Python** (primary) — OOP and async programming; PyTorch training, inference, and memory/throughput tuning; NumPy / pandas
-- **Deep Learning** — CNN / Transformer / graph networks / state-space models (SSM · Mamba); multi-scale fusion, gradient reversal, contrastive learning, EMA
-- **ML & Optimization** — random forest / XGBoost / SHAP; ARIMAX time-series modelling; reinforcement learning (Q-Learning, PPO); combinatorial optimization (SABRE)
-- **Engineering & Deployment** — TypeScript / React / FastAPI / MySQL / Neo4j / Docker; Linux and Git
-- **Research & Writing** — LaTeX typesetting; Visio diagrams, Matplotlib plots; Word / PowerPoint
-- **Research Engineering** — multi-machine GPU experiment orchestration (SSH / tmux / queue scripts); Git-based version control and archiving
+- **Python and data:** object-oriented and asynchronous programming; NumPy / pandas processing and Matplotlib figures.
+- **Deep learning:** PyTorch training and inference, memory and throughput tuning; CNNs, Transformers, graph neural networks, Mamba / state space models, and multiscale spatiotemporal representations.
+- **Machine learning and optimization:** random forests, XGBoost, SHAP, ARIMAX, simulation optimization, and quantum circuit mapping and routing with Cirq / SABRE.
+- **Full-stack development:** React / TypeScript, FastAPI / SQLAlchemy, MySQL / MongoDB / Neo4j.
+- **Deployment and research tools:** Linux, Docker Compose, SSH, Git, remote GPU experiments, LaTeX, Visio, and technical documentation.
 
 ## Education
 
-**Henan University of Technology** — B.Eng. in Computer Science｜2025.09 – 2029.06 (expected)
+**Henan University of Technology · BSc in Computer Science** | September 2025–June 2029, expected
 
-**Institute of Complexity Science · Feiniao Innovation Program, 2025 cohort** (inaugural member)｜Selected Oct 2025｜Full-time mentor: Prof. Liu Guang'en
+Inaugural member of the 2025 Feiniao Innovation Program; mentor: Guang'en Liu. Student union learning-department member; university sports-team captain and university-organized social practice.
 
-**Student roles** — Member, Academic Department, 23rd Student Union, School of Information Science and Engineering; Captain, Shot Put Team, Mingde College Sports Meet
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
-**Community service** — Summer "Three Down to the Countryside" program; winter home-visit outreach (school-organized)
+[Explore the interactive 3D project–technology graph](https://dsegnr.github.io/#ability-graph)
 
-## Projects
+## Project experience
 
-**Xingtu · Job Competency Graph Platform**　`Challenge Cup "Bounty" Track · ongoing`
-Role: frontend and enterprise modules｜Stack: TypeScript · React · FastAPI · SQLAlchemy · MySQL · Neo4j · Docker
-Built the "My" module (4 sub-features) on the job-seeker side and the enterprise information module; contributed to LLM hallucination control. Team project → [github.com/Talent-Star-Map/XINGTU](https://github.com/Talent-Star-Map/XINGTU)
+### [Xingtu · Job-capability knowledge graph platform](https://github.com/Talent-Star-Map/XINGTU)
 
-**Cross-subject EEG Emotion Recognition**　`Research · ongoing`
-Role: independent research｜Stack: PyTorch · Mamba / SSM · DEAP / SEED · strict LOSO
-Selected the topic, designed the experiments and analysed the results independently; built a multi-arm comparison framework and validated several mechanisms with multi-seed paired tests.
+**Team project | Role:** application development, validation, and deployment migration
 
-**Noise-Adaptive Quantum Compiler**　`CCF Quantum Computing Challenge (Liangxuan Cup) · submitted`
-Role: algorithm implementation and evaluation｜Stack: Python · Cirq · SABRE · NISQ
-Implemented noise-adaptive qubit mapping and routing for NISQ hardware; final score 0.7550, 8.3% above the official best baseline. → [github.com/Dsegnr/ccf-quantum-compiler](https://github.com/Dsegnr/ccf-quantum-compiler)
+**Technologies:** React, TypeScript, FastAPI, SQLAlchemy, MySQL, MongoDB, Neo4j, Docker
 
-**Landslide Sentinel · Slope Deformation Monitoring and Early Warning**　`Competition · ongoing`
-Role: data and algorithms｜Stack: Python · multi-sensor fusion · time-series modelling · web visualization
-Multi-sensor data alignment, a dual-timescale graded early-warning algorithm, and the visualization interface. Software copyright applied for.
+A platform integrating job information, capability graphs, résumé management, and job–candidate matching.
 
-**Xinling · Multimodal Mental Health Screening Platform**　`China International Innovation Competition · ongoing`
-Role: project lead｜Stack: EEG acquisition · cross-subject modelling · federated learning
-Led the overall design and technical roadmap; wrote the 22-page project proposal. → [github.com/Dsegnr/xinling-mental-health](https://github.com/Dsegnr/xinling-mental-health)
+- Developed personal-center, résumé-management, and enterprise-profile modules; contributed to LLM output quality checks and hallucination mitigation.
+- Prepared testing documents and contributed supplementary experiments and result verification, checking consistency across data splits, experimental records, and paper figures.
+- Selected and expanded the new server, deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and automated team SSH access.
 
-**Changtu Lingkong · Lane-level AI Traffic Control**　`iFlytek Cup AI+ Innovation Competition · Nov 2025`
-Stack: Python · random forest · Q-Learning · map visualization
-Multi-source sensing plus random-forest forecasting and Q-Learning multi-intersection coordination for signal timing, with control granularity down to turning lanes. Team entry. → [github.com/Dsegnr/iflytek-cup-ai-city](https://github.com/Dsegnr/iflytek-cup-ai-city)
+### Cross-subject EEG emotion recognition
 
-**Urban Multimodal Object Detection**　`Global Campus AI Algorithm Challenge · ongoing`
-Stack: PyTorch · YOLO · multimodal fusion
-Alignment and fusion of visible, infrared and depth modalities.
+**Ongoing research | Role:** independent researcher
+
+**Technologies:** Python, PyTorch, Mamba / SSM, Transformers, graph representations
+
+- Conducted research on cross-subject generalization and spatiotemporal representations, including data processing, training, evaluation, and controlled comparisons.
+- Used LOSO evaluation on DEAP and SEED, maintaining configurations, archived results, and analysis records while preparing a manuscript.
+
+### Urban visual multimodal object detection
+
+**AIC Provincial Third Prize | Role:** competition team member
+
+**Technologies:** PyTorch, YOLO, multimodal fusion
+
+- Participated in visible-light, infrared, and depth-based object detection, including alignment, feature fusion, and evaluation; awarded Provincial Third Prize.
+
+### [Noise-adaptive quantum compiler](https://github.com/Dsegnr/ccf-quantum-compiler)
+
+**CCF Quantum Computing Programming Challenge | Role:** algorithm implementation and evaluation
+
+**Technologies:** Python, Cirq, SABRE, NISQ
+
+- Implemented noise-aware routing, multiple initial layouts, and forward–backward optimization for NISQ hardware. Public-set score: 0.7550, 8.3% above the best baseline in the competition release package.
+
+### [APMCM and Huashu Cup mathematical modeling](https://github.com/Dsegnr/math-modeling)
+
+**Undergraduate Second / Third Prize | Role:** team leader
+
+- Led modeling, algorithm implementation, result verification, and paper preparation for water-quality prediction and conductive-medium simulation optimization; archived papers, code, figures, and results.
+
+### [Xinling · Multimodal adolescent mental-health screening platform](https://github.com/Dsegnr/xinling-mental-health)
+
+**Concept design | Role:** project lead
+
+**Technologies in the proposed solution:** EEG acquisition, cross-subject modeling, federated learning
+
+- Designed the overall solution and technical roadmap and completed a 22-page project proposal.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
 ## Honors
 
-- **Blue Bridge Cup** (C/C++ Programming, Division B): Provincial First Prize, National Finals Third Prize｜2026
-- **APMCM** Asia-Pacific Mathematical Contest in Modeling: Second Prize (undergraduate)｜2026　([paper & code](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026))
-- **"Huashu Cup"** National Mathematical Contest in Modeling: Third Prize｜2026　([paper & code](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026))
-- **"Challenge Cup"** college-level Second Prize; Bounty track ongoing｜2026
-- **"Three Good Student"**, Henan University of Technology, 2025｜2026.05
-- **IITC** Industrial Internet Platform Development Engineer (Intermediate)｜CET-4 497｜2026
-- Participant — National College Computer Contest (Team Programming Ladder Tournament); ongoing — China (International) Sensor Innovation Competition, Global Campus AI Algorithm Challenge, China International Innovation Competition｜2026
+- Blue Bridge Cup: Provincial First Prize and National Finals Third Prize, C/C++ University Group B | 2026
+- AIC Global Campus Artificial Intelligence Algorithm Elite Competition: Provincial Third Prize | 2026
+- APMCM: Second Prize, undergraduate division | 2026
+- Huashu Cup: Third Prize, undergraduate division | 2026
+- Challenge Cup: college-level Second Prize | 2026
+- Henan University of Technology “Three Good Student” award for 2025 | May 2026
 
-## Software Copyrights
+## Certificates and software copyright applications
 
-Applied for, **all as first author**:
+- CET-4: 497.
+- Intermediate Industrial Internet Platform Development Engineer.
+- Three software copyright applications, listed first among the copyright holders on each.
 
-- Landslide Sentinel — Collaborative Sensing and Early-Warning System for Landslide Hazards V1.0
-- Landslide Multi-Sensor Fusion and Surge Risk Estimation Software V1.0
-- Xingtu Intelligent Resume Parsing and Management Software V1.0
+## Other competition experience
 
-## Tech Stack
+Participation in the China Collegiate Programming Contest Group Programming Ladder Tournament and the China Undergraduate Mathematical Contest in Modeling; member of a China International College Students' Innovation Competition team.
 
-<p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python-light.svg" alt="Python"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp-light.svg" alt="C/C++"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch-light.svg" alt="PyTorch"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv-light.svg" alt="OpenCV"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab-light.svg" alt="MATLAB"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi-light.svg" alt="FastAPI"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript-light.svg" alt="TypeScript"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react-light.svg" alt="React"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql-light.svg" alt="MySQL"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j-light.svg" alt="Neo4j"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker-light.svg" alt="Docker"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex-light.svg" alt="LaTeX"></picture>
-</p>
+## GitHub activity
 
-## Repositories
-
-- [**Talent-Star-Map/XINGTU**](https://github.com/Talent-Star-Map/XINGTU)　Xingtu · Job Competency Graph Platform (team repository, one of the developers)
-- [**math-modeling**](https://github.com/Dsegnr/math-modeling)　Mathematical modelling archive: papers, code, data and results for APMCM 2026 and Huashu Cup 2026
-- [**ccf-quantum-compiler**](https://github.com/Dsegnr/ccf-quantum-compiler)　Noise-adaptive quantum compiler (CCF Liangxuan Cup, algorithm track; includes a 21-page design document)
-- [**iflytek-cup-ai-city**](https://github.com/Dsegnr/iflytek-cup-ai-city)　Lane-level AI traffic control (iFlytek Cup entry: proposal, source code and presentation)
-- [**xinling-mental-health**](https://github.com/Dsegnr/xinling-mental-health)　Xinling · Multimodal mental health screening platform (proposal, LaTeX source and figures)
-- [**Dsegnr.github.io**](https://github.com/Dsegnr/Dsegnr.github.io)　Source of this homepage and resume
-
-## Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://dsegnr.github.io/metrics/github-metrics.svg">
-    <img src="https://dsegnr.github.io/metrics/github-metrics-light.svg" alt="GitHub Metrics">
-  </picture>
-</div>
-
----
-
-<p align="center">
-  <sub>Henan University of Technology　·　Computer Science　·　Class of 2025　|　<a href="https://dsegnr.github.io">Homepage & Resume</a></sub>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://dsegnr.github.io/metrics/github-metrics.svg"><img src="https://dsegnr.github.io/metrics/github-metrics-light.svg" width="100%" alt="GitHub Metrics and full-year 3D contribution calendar"></picture>
