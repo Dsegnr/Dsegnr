@@ -28,13 +28,17 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 
 ## Education
 
-<strong>Henan University of Technology · BSc in Computer Science</strong> | September 2025–June 2029, expected
+<strong>Henan University of Technology · Computer Science (Bachelor’s program)</strong> | September 2025–June 2029, expected
 
-Inaugural member of the 2025 Feiniao Innovation Program; mentor: Guang'en Liu. Student union learning-department member; university sports-team captain and university-organized social practice.
+Inaugural member of the 2025 [Feiniao Innovation Program](https://cs.haut.edu.cn/info/1421/8304.htm), [Institute of Complexity Science](https://cs.haut.edu.cn/); mentor: Guang'en Liu.
+
+Student activities: member of the Learning Department of the school’s 23rd Student Union; captain of Mingde College’s shot-put team for the university sports meet.
+
+Social practice: university-organized summer community service and winter hometown outreach.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
-<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="100%" alt="项目与技术能力三维图谱动态预览；点击打开可旋转、缩放与选择节点的交互版"></picture></a>
+<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="100%" alt="Animated 3D project–technology graph preview; open the interactive version to rotate, zoom and select nodes"></picture></a>
 
 [Open the interactive graph](https://dsegnr.github.io/#ability-graph)
 
@@ -48,7 +52,8 @@ Inaugural member of the 2025 Feiniao Innovation Program; mentor: Guang'en Liu. S
 
 A platform integrating job information, capability graphs, résumé management, and job–candidate matching.
 
-- Developed personal-center, résumé-management, and enterprise-profile modules; contributed to LLM output quality checks and hallucination mitigation.
+- Developed personal-center, résumé-management, and enterprise-profile modules.
+- Implemented LLM-based structured extraction for résumés and job descriptions, source-evidence validation and rule-based fallbacks; used cross-source verification and confidence scoring to flag unsupported skill claims.
 - Prepared testing documents and contributed supplementary experiments and result verification, checking consistency across data splits, experimental records, and paper figures.
 - Selected and expanded the new server, deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and automated team SSH access.
 
@@ -97,8 +102,8 @@ A platform integrating job information, capability graphs, résumé management, 
 
 - Blue Bridge Cup: Provincial First Prize and National Finals Third Prize, C/C++ University Group B | 2026
 - AIC Global Campus Artificial Intelligence Algorithm Elite Competition: Provincial Third Prize | 2026
-- APMCM: Second Prize, undergraduate division | 2026
-- Huashu Cup: Third Prize, undergraduate division | 2026
+- APMCM: Second Prize, undergraduate division | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
+- Huashu Cup: Third Prize, undergraduate division | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
 - Challenge Cup: college-level Second Prize | 2026
 - Henan University of Technology “Three Good Student” award for 2025 | May 2026
 
@@ -107,14 +112,19 @@ A platform integrating job information, capability graphs, résumé management, 
 - CET-4: 497.
 - Intermediate Industrial Internet Platform Development Engineer.
 - Three applications pending; listed first among the copyright holders on each:
-  - 边坡哨兵滑坡灾害协同感知与预警系统 V1.0
-  - 滑坡多传感器融合与涌浪风险估算软件 V1.0
-  - 星图智能简历解析与简历管理软件 V1.0
+  - Slope Sentinel: Collaborative Landslide Sensing and Early Warning System V1.0 (边坡哨兵滑坡灾害协同感知与预警系统 V1.0)
+  - Landslide Multisensor Fusion and Impulse-Wave Risk Estimation Software V1.0 (滑坡多传感器融合与涌浪风险估算软件 V1.0)
+  - Xingtu Intelligent Résumé Parsing and Management Software V1.0 (星图智能简历解析与简历管理软件 V1.0)
 
 
 ## Other competition experience
 
-Participation in the China Collegiate Programming Contest Group Programming Ladder Tournament and the China Undergraduate Mathematical Contest in Modeling; member of a China International College Students' Innovation Competition team.
+- Group Programming Ladder Tournament (中国高校计算机大赛·团体程序设计天梯赛) | 2026 participation
+- China Undergraduate Mathematical Contest in Modeling (高教社杯) | 2026 participation
+- 18th Blue Bridge Cup visual identity and event-IP creative-design special contest, event-IP track | 2026 participation
+- China (International) Sensor Innovation and Entrepreneurship Competition | 2026 participation
+- China International College Students’ Innovation Competition | 2026 participation
+- Challenge Cup open-competition special track (揭榜挂帅专项赛) | 2026 participation
 
 ## Technology stack
 
@@ -137,11 +147,15 @@ Participation in the China Collegiate Programming Contest Group Programming Ladd
 
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection) — AIC Provincial Third Prize project: training, inference, evaluation and historical configurations.
 
-- [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
-- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
-- [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
-- [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
-- [<strong>Dsegnr.github.io</strong>](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码
+- [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　Xingtu job-capability knowledge graph platform; team repository, contributed as a developer.
+- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　Mathematical-modeling archive: APMCM 2026 and Huashu Cup 2026 papers, code, data and result tables.
+- [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　Noise-adaptive quantum compiler for the 2026 CCF Quantum Computing Programming Challenge algorithm track; includes a 21-page technical report.
+- [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　Xinling multimodal adolescent mental-health screening proposal, with LaTeX source and illustrations.
+- [<strong>Dsegnr.github.io</strong>](https://github.com/Dsegnr/Dsegnr.github.io)　Source for the personal website and résumé.
+
+## Milestones
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline.svg"><img src="assets/timeline-light.svg" width="100%" alt="Education and competition milestones"></picture>
 
 ## GitHub activity
 
