@@ -16,15 +16,15 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 
 ## Technical skills
 
-- <strong>LLM application engineering:</strong> LLM API integration for résumé and job-description parsing; task prompts, structured output constraints, rule validation, error handling and fallbacks.
-- <strong>LLM output validation and hallucination mitigation:</strong> validate extracted résumé and job skills against source evidence; use cross-source verification and confidence scoring to flag unsupported content, and verify validation rules with test cases.
-- <strong>RAG and agent project experience:</strong> participation in a knowledge-graph AI application involving semantic retrieval, tool calls and a Plan–Execute–Report workflow. Personal responsibilities cover résumé/profile modules, output quality, system verification and deployment.
 
-- <strong>Python and data:</strong> object-oriented and asynchronous programming; NumPy / pandas processing and Matplotlib figures.
-- <strong>Deep learning:</strong> PyTorch training and inference, memory and throughput tuning; CNNs, Transformers, graph neural networks, Mamba / state space models, and multiscale spatiotemporal representations.
-- <strong>Machine learning and optimization:</strong> random forests, XGBoost, SHAP, ARIMAX, simulation optimization, and quantum circuit mapping and routing with Cirq / SABRE.
-- <strong>Full-stack development:</strong> React / TypeScript, FastAPI / SQLAlchemy, MySQL / MongoDB / Neo4j.
-- <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH, Git, remote GPU experiments, LaTeX, Visio, and technical documentation.
+- <strong>LLM application development:</strong> Experience with LLM APIs, prompt design and structured outputs for document parsing and information extraction; source-evidence checks and rule-based validation to identify unsupported model outputs.
+- <strong>RAG and agents:</strong> Understanding of retrieval-augmented generation, semantic and knowledge-graph retrieval, tool calls and task planning; experience in application-module development, API integration and system validation.
+- <strong>Python and data analysis:</strong> Proficient in Python, with object-oriented, asynchronous and modular programming experience; data cleaning, statistical analysis and visualization with NumPy, pandas and Matplotlib.
+- <strong>Deep learning:</strong> PyTorch model implementation, training and evaluation, including memory and throughput optimization; familiarity with CNNs, Transformers, graph neural networks and Mamba / state space models for spatiotemporal modeling.
+- <strong>Machine learning and optimization:</strong> Experience with random forests, XGBoost, SHAP and ARIMAX for predictive modeling, feature interpretation and simulation optimization; quantum-circuit mapping, routing and evaluation with Cirq / SABRE.
+- <strong>Full-stack web development:</strong> React / TypeScript frontend and FastAPI / SQLAlchemy backend development, including business modules, APIs and integration; MySQL, MongoDB and Neo4j deployment and migration experience.
+- <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH and Git for container deployment, backups and remote GPU task management; LaTeX typesetting, Visio technical diagrams and Word documentation.
+
 
 ## Education
 

@@ -20,15 +20,14 @@
 
 ## 专业技能
 
-- <strong>大模型应用开发：</strong>在简历与岗位描述解析中接入大模型 API，设计任务提示词与结构化输出约束，结合规则校验、异常处理和兜底策略构建业务处理链路。
-- <strong>大模型输出校验与幻觉防控：</strong>针对简历与岗位技能抽取，核对模型结果与原文证据，结合多源交叉验证和置信度评分识别无依据内容，并通过测试用例验证校验规则。
-- <strong>RAG 与 Agent 项目实践：</strong>参与知识图谱型 AI 应用开发与系统验证，具有语义检索、工具调用和 Plan–Execute–Report 工作流的项目实践；本人负责简历与资料模块、输出质检及相关验证与部署。
 
-- <strong>Python 与数据处理：</strong>熟练使用 Python，具备面向对象与异步编程经验；使用 NumPy、pandas 进行数据处理，使用 Matplotlib 绘制实验与分析图表。
-- <strong>深度学习：</strong>使用 PyTorch 开展模型训练与推理，具备显存与吞吐调优经验；研究涉及 CNN、Transformer、图神经网络、Mamba／状态空间模型及多尺度时空特征建模。
-- <strong>机器学习与优化：</strong>具有随机森林、XGBoost、SHAP 特征分析、ARIMAX 时序建模与组合优化实践，使用 Cirq、SABRE 进行量子线路映射与路由评测。
-- <strong>全栈开发：</strong>使用 React、TypeScript 开发业务界面，使用 FastAPI、SQLAlchemy 实现后端接口与数据访问；具有 MySQL、MongoDB、Neo4j 使用与迁移经验。
-- <strong>部署与科研工具：</strong>具备 Linux、Docker Compose、SSH、Git 使用经验，完成服务部署、数据备份和远端 GPU 实验管理；使用 LaTeX、Visio、Word 完成论文、机制图及技术文档。
+- <strong>大模型应用开发：</strong>熟悉大模型 API 调用、提示词设计与结构化输出，能够开发文档解析和信息抽取类应用；掌握原文证据核验与规则校验等方法，识别模型输出中的无依据内容。
+- <strong>RAG 与 Agent：</strong>了解 RAG（检索增强生成）、语义检索、知识图谱检索及 Agent 工具调用与任务规划流程，具备相关应用的业务模块开发、接口联调和系统验证经验。
+- <strong>Python 与数据分析：</strong>熟练掌握 Python，熟悉面向对象、异步编程与模块化开发；能够基于 NumPy、pandas 和 Matplotlib 完成数据清洗、统计分析与可视化。
+- <strong>深度学习：</strong>掌握 PyTorch 模型构建、训练与评估，具备显存和吞吐优化经验；熟悉 CNN、Transformer、图神经网络、Mamba／状态空间模型及其时空建模应用。
+- <strong>机器学习与优化：</strong>熟悉随机森林、XGBoost、SHAP 与 ARIMAX，具备预测建模、特征解释和仿真优化实践；能够基于 Cirq、SABRE 完成量子线路映射与路由评测。
+- <strong>Web 全栈开发：</strong>具备 React／TypeScript 前端与 FastAPI／SQLAlchemy 后端开发经验，能够完成业务模块设计、接口开发和联调；熟悉 MySQL、MongoDB、Neo4j，具有数据库部署与迁移实践。
+- <strong>部署与科研工具：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，能够完成容器化部署、数据备份及远端 GPU 任务管理；具备 LaTeX 论文排版、Visio 技术制图和 Word 技术文档编写经验。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
