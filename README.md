@@ -21,13 +21,13 @@
 ## 专业技能
 
 
-- <strong>大模型应用开发：</strong>熟悉大模型 API 调用、提示词设计与结构化输出，能够开发文档解析和信息抽取类应用；掌握原文证据核验与规则校验等方法，识别模型输出中的无依据内容。
-- <strong>RAG 与 Agent：</strong>了解 RAG（检索增强生成）、语义检索、知识图谱检索及 Agent 工具调用与任务规划流程，具备相关应用的业务模块开发、接口联调和系统验证经验。
+- <strong>大模型应用开发：</strong>熟悉大模型 API 调用、提示词设计与结构化输出，能够开发文档解析和信息抽取类应用，并通过原文比对与规则校验检查抽取结果的准确性。
+- <strong>RAG 与 Agent：</strong>了解 RAG（检索增强生成）、语义检索、知识图谱检索及 Agent 工具调用与任务规划流程；具备相关应用的业务模块开发经验，能够完成接口联调与系统功能验证。
 - <strong>Python 与数据分析：</strong>熟练掌握 Python，熟悉面向对象、异步编程与模块化开发；能够基于 NumPy、pandas 和 Matplotlib 完成数据清洗、统计分析与可视化。
-- <strong>深度学习：</strong>掌握 PyTorch 模型构建、训练与评估，具备显存和吞吐优化经验；熟悉 CNN、Transformer、图神经网络、Mamba／状态空间模型及其时空建模应用。
-- <strong>机器学习与优化：</strong>熟悉随机森林、XGBoost、SHAP 与 ARIMAX，具备预测建模、特征解释和仿真优化实践；能够基于 Cirq、SABRE 完成量子线路映射与路由评测。
-- <strong>Web 全栈开发：</strong>具备 React／TypeScript 前端与 FastAPI／SQLAlchemy 后端开发经验，能够完成业务模块设计、接口开发和联调；熟悉 MySQL、MongoDB、Neo4j，具有数据库部署与迁移实践。
-- <strong>部署与科研工具：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，能够完成容器化部署、数据备份及远端 GPU 任务管理；具备 LaTeX 论文排版、Visio 技术制图和 Word 技术文档编写经验。
+- <strong>深度学习：</strong>掌握基于 PyTorch 的模型构建、训练与评估方法，具有降低显存占用、提升训练吞吐量的优化经验；熟悉 CNN、Transformer、图神经网络及 Mamba／状态空间模型在时空建模中的应用。
+- <strong>机器学习与优化：</strong>熟悉随机森林、XGBoost 与 ARIMAX，能够完成预测模型构建与评估，并通过 SHAP 分析特征对预测结果的影响；具备仿真建模与优化能力，能够基于 Cirq 和 SABRE 算法完成量子线路映射、路由与性能评测。
+- <strong>Web 全栈开发：</strong>熟悉 React、TypeScript、FastAPI 与 SQLAlchemy，具备前后端开发能力，能够完成业务模块设计、接口开发与联调；熟悉 MySQL、MongoDB、Neo4j，具有数据库部署与数据迁移经验。
+- <strong>部署与科研工具：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，能够完成容器化部署、数据备份与远端 GPU 任务管理；能够运用 LaTeX、Visio 和 Word 完成论文排版、技术制图与文档编写。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 

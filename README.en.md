@@ -17,11 +17,11 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 ## Technical skills
 
 
-- <strong>LLM application development:</strong> Experience with LLM APIs, prompt design and structured outputs for document parsing and information extraction; source-evidence checks and rule-based validation to identify unsupported model outputs.
+- <strong>LLM application development:</strong> Familiar with LLM APIs, prompt design and structured outputs; able to develop document-parsing and information-extraction applications and validate extracted information against source documents and explicit rules.
 - <strong>RAG and agents:</strong> Understanding of retrieval-augmented generation, semantic and knowledge-graph retrieval, tool calls and task planning; experience in application-module development, API integration and system validation.
 - <strong>Python and data analysis:</strong> Proficient in Python, with object-oriented, asynchronous and modular programming experience; data cleaning, statistical analysis and visualization with NumPy, pandas and Matplotlib.
 - <strong>Deep learning:</strong> PyTorch model implementation, training and evaluation, including memory and throughput optimization; familiarity with CNNs, Transformers, graph neural networks and Mamba / state space models for spatiotemporal modeling.
-- <strong>Machine learning and optimization:</strong> Experience with random forests, XGBoost, SHAP and ARIMAX for predictive modeling, feature interpretation and simulation optimization; quantum-circuit mapping, routing and evaluation with Cirq / SABRE.
+- <strong>Machine learning and optimization:</strong> Familiar with random forests, XGBoost and ARIMAX for predictive modeling and evaluation, and SHAP for interpreting feature contributions; able to build and optimize simulation models and perform quantum-circuit mapping, routing and performance evaluation with Cirq and the SABRE algorithm.
 - <strong>Full-stack web development:</strong> React / TypeScript frontend and FastAPI / SQLAlchemy backend development, including business modules, APIs and integration; MySQL, MongoDB and Neo4j deployment and migration experience.
 - <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH and Git for container deployment, backups and remote GPU task management; LaTeX typesetting, Visio technical diagrams and Word documentation.
 
