@@ -10,7 +10,7 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 
 ## Profile
 
-- <strong>Research:</strong> independent research in cross-subject EEG emotion recognition using PyTorch, Mamba / state space models, Transformers, and graph representations; experience in experimental design, training, controlled comparisons, and scientific writing.
+- <strong>Research:</strong> independent research in cross-subject EEG emotion recognition; proficient in PyTorch-based model development and experienced in applying Mamba / state space models, Transformers, and graph modeling, with skills in experimental design, model training, comparative evaluation, and scientific writing.
 - <strong>Algorithms and modeling:</strong> Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; APMCM Second Prize and Huashu Cup Third Prize in the undergraduate divisions.
 - <strong>Software development:</strong> development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; system testing, paper experiment verification, container deployment, and database migration.
 
@@ -53,9 +53,9 @@ Social practice: university-organized summer community service and winter hometo
 A platform integrating job information, capability graphs, résumé management, and job–candidate matching.
 
 - Developed personal-center, résumé-management, and enterprise-profile modules.
-- Implemented LLM-based structured extraction for résumés and job descriptions, source-evidence validation and rule-based fallbacks; used cross-source verification and confidence scoring to flag unsupported skill claims.
+- Implemented LLM-based structured extraction for résumés and job descriptions, source-evidence and rule-based validation; compared information across sources and applied confidence scoring to flag skill claims unsupported by the source text.
 - Prepared testing documents and contributed supplementary experiments and result verification, checking consistency across data splits, experimental records, and paper figures.
-- Selected and expanded the new server, deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and automated team SSH access.
+- Selected a new server and expanded its storage; deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and developed an SSH connection helper for the team.
 
 ### Cross-subject EEG emotion recognition
 
