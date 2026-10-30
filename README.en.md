@@ -22,7 +22,7 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 - <strong>Python and data analysis:</strong> Proficient in Python, with object-oriented, asynchronous and modular programming experience; data cleaning, statistical analysis and visualization with NumPy, pandas and Matplotlib.
 - <strong>Deep learning:</strong> PyTorch model implementation, training and evaluation, including memory and throughput optimization; familiarity with CNNs, Transformers, graph neural networks and Mamba / state space models for spatiotemporal modeling.
 - <strong>Machine learning and optimization:</strong> Familiar with random forests, XGBoost and ARIMAX for predictive modeling and evaluation, and SHAP for interpreting feature contributions; able to build and optimize simulation models and perform quantum-circuit mapping, routing and performance evaluation with Cirq and the SABRE algorithm.
-- <strong>Full-stack web development:</strong> React / TypeScript frontend and FastAPI / SQLAlchemy backend development, including business modules, APIs and integration; MySQL, MongoDB and Neo4j deployment and migration experience.
+- <strong>Full-stack web development:</strong> React / TypeScript frontend, Three.js interactive 3D graphs, and FastAPI / SQLAlchemy backend development, including business modules, APIs and integration; MySQL, MongoDB and Neo4j deployment and migration experience.
 - <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH and Git for container deployment, backups and remote GPU task management; LaTeX typesetting, Visio technical diagrams and Word documentation.
 
 
@@ -46,13 +46,14 @@ Social practice: university-organized summer community service and winter hometo
 
 ### [Xingtu · Job-capability knowledge graph platform](https://github.com/Talent-Star-Map/XINGTU)
 
-<strong>Team project | Role:</strong> application development, validation, and deployment migration
+<strong>Team project · Competition concluded | Role:</strong> application development, validation, and deployment migration
 
 <strong>Technologies:</strong> React, TypeScript, FastAPI, SQLAlchemy, MySQL, MongoDB, Neo4j, Docker
 
 A platform integrating job information, capability graphs, résumé management, and job–candidate matching.
 
 - Developed personal-center, résumé-management, and enterprise-profile modules.
+- Developed an interactive 3D experience–technology graph linking résumé entries, technology nodes and source evidence, with node selection, experience filters, rotation and zoom; completed authenticated API integration and production deployment.
 - Implemented LLM-based structured extraction for résumés and job descriptions, source-evidence and rule-based validation; compared information across sources and applied confidence scoring to flag skill claims unsupported by the source text.
 - Prepared testing documents and contributed supplementary experiments and result verification, checking consistency across data splits, experimental records, and paper figures.
 - Selected a new server and expanded its storage; deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and developed an SSH connection helper for the team.

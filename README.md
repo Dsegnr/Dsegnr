@@ -26,7 +26,7 @@
 - <strong>Python 与数据分析：</strong>熟练掌握 Python，熟悉面向对象、异步编程与模块化开发；能够基于 NumPy、pandas 和 Matplotlib 完成数据清洗、统计分析与可视化。
 - <strong>深度学习：</strong>掌握基于 PyTorch 的模型构建、训练与评估方法，具有降低显存占用、提升训练吞吐量的优化经验；熟悉 CNN、Transformer、图神经网络及 Mamba／状态空间模型在时空建模中的应用。
 - <strong>机器学习与优化：</strong>熟悉随机森林、XGBoost 与 ARIMAX，能够完成预测模型构建与评估，并通过 SHAP 分析特征对预测结果的影响；具备仿真建模与优化能力，能够基于 Cirq 和 SABRE 算法完成量子线路映射、路由与性能评测。
-- <strong>Web 全栈开发：</strong>熟悉 React、TypeScript、FastAPI 与 SQLAlchemy，具备前后端开发能力，能够完成业务模块设计、接口开发与联调；熟悉 MySQL、MongoDB、Neo4j，具有数据库部署与数据迁移经验。
+- <strong>Web 全栈开发：</strong>熟悉 React、TypeScript、FastAPI 与 SQLAlchemy，具有 Three.js 交互式三维图谱开发经验；具备前后端开发能力，能够完成业务模块设计、接口开发与联调；熟悉 MySQL、MongoDB、Neo4j，具有数据库部署与数据迁移经验。
 - <strong>部署与科研工具：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，能够完成容器化部署、数据备份与远端 GPU 任务管理；能够运用 LaTeX、Visio 和 Word 完成论文排版、技术制图与文档编写。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
@@ -51,13 +51,14 @@
 
 ### [星图 · 岗位能力图谱动态演化与分析系统](https://github.com/Talent-Star-Map/XINGTU)
 
-<strong>团队项目</strong>　｜　<strong>角色：</strong>业务模块开发、系统验证与部署迁移
+<strong>团队项目 · 比赛已结束</strong>　｜　<strong>角色：</strong>业务模块开发、系统验证与部署迁移
 
 <strong>技术栈：</strong>React · TypeScript · FastAPI · SQLAlchemy · MySQL · MongoDB · Neo4j · Docker
 
 面向岗位技能分析与人岗匹配，构建集岗位信息、能力图谱、简历管理和匹配分析于一体的平台。
 
 - 负责求职端个人中心、简历管理及企业信息相关模块开发。
+- 开发个人经历三维技术图谱，将简历经历、技术节点与原文证据关联，支持节点选择、经历筛选及旋转缩放；完成鉴权接口联调与生产部署。
 - 在简历与岗位描述解析中实现大模型结构化信息抽取、原文证据校验与规则校验，结合多源信息比对及置信度评分，识别缺乏原文依据的技能信息。
 - 承担测试文档编制、论文补充实验与结果复核，核对数据划分、实验记录及论文图表的一致性。
 - 完成新服务器选型与存储扩容，部署前端、后端、三类数据库和采集程序共 6 个容器；核验数据库迁移结果，配置备份并编写团队 SSH 自动连接工具。
