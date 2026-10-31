@@ -125,6 +125,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
+## 科研数据成果
+
+以第一作者在 Science Data Bank 发布滑坡监测数据与方法复现材料（V1，2026.10.14）。 [DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj)
+
 ## 竞赛与荣誉
 
 - 蓝桥杯全国软件和信息技术专业人才大赛：C/C++ 程序设计大学 B 组河南赛区一等奖、全国总决赛三等奖｜2026

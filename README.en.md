@@ -106,6 +106,10 @@ A platform integrating job information, capability graphs, résumé management, 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
+## Research data publication
+
+First author of a landslide-monitoring dataset and method-reproduction materials published on Science Data Bank (V1, October 14, 2026). [DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj)
+
 ## Honors
 
 - Blue Bridge Cup: Provincial First Prize and National Finals Third Prize, C/C++ University Group B | 2026
