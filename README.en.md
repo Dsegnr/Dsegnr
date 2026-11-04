@@ -23,7 +23,7 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 - <strong>Deep learning:</strong> PyTorch model implementation, training and evaluation, including memory and throughput optimization; familiarity with CNNs, Transformers, graph neural networks and Mamba / state space models for spatiotemporal modeling.
 - <strong>Machine learning and optimization:</strong> Familiar with random forests, XGBoost and ARIMAX for predictive modeling and evaluation, and SHAP for interpreting feature contributions; able to build and optimize simulation models and perform quantum-circuit mapping, routing and performance evaluation with Cirq and the SABRE algorithm.
 - <strong>Full-stack web development:</strong> React / TypeScript frontend, Three.js interactive 3D graphs, and FastAPI / SQLAlchemy backend development, including business modules, APIs and integration; MySQL, MongoDB and Neo4j deployment and migration experience.
-- <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH and Git for container deployment, backups and remote GPU task management; LaTeX typesetting, Visio technical diagrams and Word documentation.
+- <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH and Git for container deployment, HTTPS access configuration, backups and remote GPU task management; LaTeX typesetting, Visio technical diagrams and Word documentation.
 
 
 ## Education

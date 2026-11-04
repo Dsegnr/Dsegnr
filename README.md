@@ -27,7 +27,7 @@
 - <strong>深度学习：</strong>掌握基于 PyTorch 的模型构建、训练与评估方法，具有降低显存占用、提升训练吞吐量的优化经验；熟悉 CNN、Transformer、图神经网络及 Mamba／状态空间模型在时空建模中的应用。
 - <strong>机器学习与优化：</strong>熟悉随机森林、XGBoost 与 ARIMAX，能够完成预测模型构建与评估，并通过 SHAP 分析特征对预测结果的影响；具备仿真建模与优化能力，能够基于 Cirq 和 SABRE 算法完成量子线路映射、路由与性能评测。
 - <strong>Web 全栈开发：</strong>熟悉 React、TypeScript、FastAPI 与 SQLAlchemy，具有 Three.js 交互式三维图谱开发经验；具备前后端开发能力，能够完成业务模块设计、接口开发与联调；熟悉 MySQL、MongoDB、Neo4j，具有数据库部署与数据迁移经验。
-- <strong>部署与科研工具：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，能够完成容器化部署、数据备份与远端 GPU 任务管理；能够运用 LaTeX、Visio 和 Word 完成论文排版、技术制图与文档编写。
+- <strong>部署与科研工具：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，能够完成容器化部署、HTTPS 访问配置、数据备份与远端 GPU 任务管理；能够运用 LaTeX、Visio 和 Word 完成论文排版、技术制图与文档编写。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
