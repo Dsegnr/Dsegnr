@@ -8,7 +8,7 @@
   <a href="https://dsegnr.github.io/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/resume.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/resume-light.svg" alt="Resume PDF"></picture></a>
   <a href="https://github.com/Dsegnr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/github.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/github-light.svg" alt="GitHub"></picture></a>
 </p>
-<p align="center"><a href="#个人概述">个人概述</a> · <a href="#专业技能">专业技能</a> · <a href="#项目经历">项目经历</a> · <a href="#竞赛与荣誉">竞赛与荣誉</a></p>
+<p align="center"><a href="#个人概述">个人概述</a> · <a href="#专业技能">专业技能</a> · <a href="#科研经历">科研经历</a> · <a href="#项目经历">项目经历</a> · <a href="#竞赛与荣誉">竞赛与荣誉</a></p>
 
 河南工业大学计算机科学与技术 2025 级本科生，[复杂性科学研究院](https://cs.haut.edu.cn/)「[飞鸟创新实验班](https://cs.haut.edu.cn/info/1421/8304.htm)」2025 级首届成员。
 
@@ -47,7 +47,28 @@
 
 [打开交互版图谱](https://dsegnr.github.io/#ability-graph) · 支持旋转、缩放与节点选择
 
+## 科研经历
+
+### 跨被试脑电情感识别
+
+<strong>科研进行中</strong>　｜　<strong>角色：</strong>独立研究
+
+<strong>技术栈：</strong>Python · PyTorch · Mamba / SSM · Transformer · 图结构建模
+
+面向脑电情感识别中的跨被试泛化问题，开展深度时空特征建模研究。
+
+- 基于状态空间模型、注意力机制与图结构建模技术开展研究，完成数据处理、训练评估及对照实验。
+- 在 DEAP、SEED 数据集上开展 LOSO 跨被试评估，维护实验配置、结果归档与分析记录，推进论文撰写。
+
+
 ## 项目经历
+
+### AIC · 脑电信号分类（SSVEP）
+
+<strong>比赛进行中</strong>　｜　<strong>角色：</strong>算法开发与评测
+
+围绕稳态视觉诱发电位（SSVEP）脑电信号分类，开展信号预处理、特征建模、分类器训练与评测；负责实验对照、结果复核及可复现归档。比赛进行中。
+
 
 ### [星图 · 岗位能力图谱动态演化与分析系统](https://github.com/Talent-Star-Map/XINGTU)
 
@@ -63,16 +84,6 @@
 - 承担测试文档编制、论文补充实验与结果复核，核对数据划分、实验记录及论文图表的一致性。
 - 完成新服务器选型与存储扩容，部署前端、后端、三类数据库和采集程序共 6 个容器；核验数据库迁移结果，配置备份并编写团队 SSH 自动连接工具。
 
-### 跨被试脑电情感识别
-
-<strong>科研进行中</strong>　｜　<strong>角色：</strong>独立研究
-
-<strong>技术栈：</strong>Python · PyTorch · Mamba / SSM · Transformer · 图结构建模
-
-面向脑电情感识别中的跨被试泛化问题，开展深度时空特征建模研究。
-
-- 基于状态空间模型、注意力机制与图结构建模技术开展研究，完成数据处理、训练评估及对照实验。
-- 在 DEAP、SEED 数据集上开展 LOSO 跨被试评估，维护实验配置、结果归档与分析记录，推进论文撰写。
 
 ### [城市场景视觉多模态目标检测](https://github.com/Dsegnr/aic2026-multimodal-detection)
 
@@ -132,7 +143,7 @@
 ## 竞赛与荣誉
 
 - 蓝桥杯全国软件和信息技术专业人才大赛：C/C++ 程序设计大学 B 组河南赛区一等奖、全国总决赛三等奖｜2026
-- 全球校园人工智能算法精英大赛（AIC）：省赛三等奖｜2026
+- 全球校园人工智能算法精英大赛（AIC）多模态目标检测赛项：省赛三等奖｜2026
 - APMCM 亚太地区大学生数学建模竞赛：本科组二等奖｜2026　（[论文与代码](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)）
 - “华数杯”全国大学生数学建模竞赛：本科生组三等奖｜2026　（[论文与代码](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)）
 - “挑战杯”院赛二等奖｜2026
@@ -153,6 +164,8 @@
 - 星图智能简历解析与简历管理软件 V1.0
 
 ## 其他参赛经历
+
+- 全球校园人工智能算法精英大赛（AIC）脑电信号分类赛项｜参赛中｜2026
 
 - 中国高校计算机大赛 · 团体程序设计天梯赛｜2026 参赛经历
 - 全国大学生数学建模竞赛（高教社杯）｜2026 参赛经历

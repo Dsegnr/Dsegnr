@@ -42,7 +42,26 @@ Social practice: university-organized summer community service and winter hometo
 
 [Open the interactive graph](https://dsegnr.github.io/#ability-graph)
 
+## Research experience
+
+### Cross-subject EEG emotion recognition
+
+<strong>Ongoing research | Role:</strong> independent researcher
+
+<strong>Technologies:</strong> Python, PyTorch, Mamba / SSM, Transformers, graph representations
+
+- Conducted research on cross-subject generalization and spatiotemporal representations, including data processing, training, evaluation, and controlled comparisons.
+- Used LOSO evaluation on DEAP and SEED, maintaining configurations, archived results, and analysis records while preparing a manuscript.
+
+
 ## Project experience
+
+### AIC · SSVEP EEG signal classification
+
+<strong>Competition in progress | Role:</strong> algorithm development and evaluation
+
+Developing an SSVEP EEG signal-classification pipeline covering signal preprocessing, feature modeling, classifier training and evaluation, with controlled comparisons, independent result checks and reproducible archives. Competition in progress.
+
 
 ### [Xingtu · Job-capability knowledge graph platform](https://github.com/Talent-Star-Map/XINGTU)
 
@@ -58,14 +77,6 @@ A platform integrating job information, capability graphs, résumé management, 
 - Prepared testing documents and contributed supplementary experiments and result verification, checking consistency across data splits, experimental records, and paper figures.
 - Selected a new server and expanded its storage; deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and developed an SSH connection helper for the team.
 
-### Cross-subject EEG emotion recognition
-
-<strong>Ongoing research | Role:</strong> independent researcher
-
-<strong>Technologies:</strong> Python, PyTorch, Mamba / SSM, Transformers, graph representations
-
-- Conducted research on cross-subject generalization and spatiotemporal representations, including data processing, training, evaluation, and controlled comparisons.
-- Used LOSO evaluation on DEAP and SEED, maintaining configurations, archived results, and analysis records while preparing a manuscript.
 
 ### [Urban visual multimodal object detection](https://github.com/Dsegnr/aic2026-multimodal-detection)
 
@@ -113,7 +124,7 @@ First author of a landslide-monitoring dataset and method-reproduction materials
 ## Honors
 
 - Blue Bridge Cup: Provincial First Prize and National Finals Third Prize, C/C++ University Group B | 2026
-- AIC Global Campus Artificial Intelligence Algorithm Elite Competition: Provincial Third Prize | 2026
+- AIC urban multimodal object-detection task: Provincial Third Prize | 2026
 - APMCM: Second Prize, undergraduate division | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
 - Huashu Cup: Third Prize, undergraduate division | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
 - Challenge Cup: college-level Second Prize | 2026
@@ -130,6 +141,8 @@ First author of a landslide-monitoring dataset and method-reproduction materials
 
 
 ## Other competition experience
+
+- AIC SSVEP EEG signal-classification task | In progress | 2026
 
 - Group Programming Ladder Tournament (中国高校计算机大赛·团体程序设计天梯赛) | 2026 participation
 - China Undergraduate Mathematical Contest in Modeling (高教社杯) | 2026 participation
