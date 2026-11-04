@@ -142,6 +142,8 @@ First author of a landslide-monitoring dataset and method-reproduction materials
 
 ## Other competition experience
 
+- Zhengda Cup National College Student Market Research and Analysis Competition: passed the individual knowledge test with 87 points; preparing for the team practical competition.
+
 - AIC SSVEP EEG signal-classification task | In progress | 2026
 
 - Group Programming Ladder Tournament (中国高校计算机大赛·团体程序设计天梯赛) | 2026 participation
