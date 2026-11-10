@@ -191,6 +191,8 @@
 
 ## 开源仓库
 
+- [landslide-sentinel-web](https://github.com/Dsegnr/landslide-sentinel-web)　边坡哨兵 Web：多传感器监测、分级预警与三维情景展示，仓库附在线演示及普通账号。
+
 - [sentinel-secops](https://github.com/Dsegnr/sentinel-secops)　Sentinel 本地安全研判与防御工具原型，包含 CLI、Web 工作台与测试，不含知识库和案件数据
 
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection)　AIC 省赛三等奖项目，包含训练、推理、评测与历史实验配置

@@ -168,6 +168,8 @@ First author of a landslide-monitoring dataset and method-reproduction materials
 
 ## Open-source repositories
 
+- [landslide-sentinel-web](https://github.com/Dsegnr/landslide-sentinel-web) — Landslide Sentinel Web: sensor monitoring, graded warning and 3D scenario visualization; includes a public demo and viewer login.
+
 - [sentinel-secops](https://github.com/Dsegnr/sentinel-secops) — Local defensive-security prototype with CLI, Web workbench and tests; excludes personal knowledge and case data.
 
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection) — AIC Provincial Third Prize project: training, inference, evaluation and historical configurations.
