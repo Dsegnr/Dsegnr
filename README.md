@@ -3,10 +3,10 @@
 
 <h3 align="center">跨被试脑电情感识别 · 多模态视觉感知 · 人工智能应用</h3>
 <p align="center">
-  <a href="mailto:3660157476@qq.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/email.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/email-light.svg" alt="Email"></picture></a>
-  <a href="https://dsegnr.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/homepage.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/homepage-light.svg" alt="Homepage"></picture></a>
-  <a href="https://dsegnr.github.io/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/resume.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/resume-light.svg" alt="Resume PDF"></picture></a>
-  <a href="https://github.com/Dsegnr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/github.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/github-light.svg" alt="GitHub"></picture></a>
+  <a href="mailto:3660157476@qq.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/email.svg"><img src="assets/badges/email-light.svg" alt="Email"></picture></a>
+  <a href="https://dsegnr.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/homepage.svg"><img src="assets/badges/homepage-light.svg" alt="Homepage"></picture></a>
+  <a href="https://dsegnr.github.io/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/resume.svg"><img src="assets/badges/resume-light.svg" alt="Resume PDF"></picture></a>
+  <a href="https://github.com/Dsegnr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/github.svg"><img src="assets/badges/github-light.svg" alt="GitHub"></picture></a>
 </p>
 <p align="center"><a href="#个人概述">个人概述</a> · <a href="#专业技能">专业技能</a> · <a href="#科研经历">科研经历</a> · <a href="#项目经历">项目经历</a> · <a href="#竞赛与荣誉">竞赛与荣誉</a></p>
 
@@ -44,6 +44,8 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
 <a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="100%" alt="项目与技术能力三维图谱动态预览；点击打开可旋转、缩放与选择节点的交互版"></picture></a>
+
+[完整版简历 PDF](https://dsegnr.github.io/resume-full.pdf)
 
 [打开交互版图谱](https://dsegnr.github.io/#ability-graph) · 支持旋转、缩放与节点选择
 
@@ -85,6 +87,34 @@
 - 完成新服务器选型与存储扩容，部署前端、后端、三类数据库和采集程序共 6 个容器；核验数据库迁移结果，配置备份并编写团队 SSH 自动连接工具。
 
 
+[在线平台](https://47.120.76.16/)
+
+### [边坡哨兵 · 滑坡监测与分级预警系统](https://github.com/Dsegnr/landslide-sentinel-web)
+
+<strong>团队项目 · 数据分析、算法与 Web 开发</strong>
+
+<strong>技术栈：</strong>Python · React · TypeScript · FastAPI · SQLAlchemy · 三维可视化
+
+围绕边坡监测场景，结合监测数据分析与 Web 系统，提供监测点管理、设备状态、分级预警、历史记录及三维地形展示。
+
+- 承担数据处理、预警分析与 Web 可视化相关开发，衔接监测数据、设备状态与预警信息，参与系统测试及部署。
+- 整理独立 Web 源码快照及在线演示；三维场景用于监测与地形关系展示。相关公开数据成果见下方 ScienceDB 条目。
+
+[在线演示（临时隧道；普通账号见仓库）](https://substance-searched-fish-responding.trycloudflare.com)
+
+### [畅途灵控 · 多路口交通协同与 GIS 决策工作台](https://github.com/Dsegnr/changtu-lingkong)
+
+<strong>路网仿真、控制验证与工作台开发 · 阶段归档</strong>
+
+<strong>技术栈：</strong>Python · SUMO · SuperMap GIS · React · TypeScript
+
+延续早期畅途灵控方向，研究多路口交通信号协同，构建策略对照、地图回放与证据追溯工作台。
+
+- 构建连通路网仿真，跟踪同车跨路口身份与全程耗时；比较固定、压力与联合控制，分析下游接收空间、回堵及逐车损益。
+- 开发地图回放、相位时间线、方案对照及任务记录；实现资源路径隔离、哈希校验、任务存储及 SuperMap 空间查询适配。
+- 公开正式前端及可迁移模块源码；完整回放资产和第三方 SDK 未分发，现场验证尚未完成。
+
+
 ### [城市场景视觉多模态目标检测](https://github.com/Dsegnr/aic2026-multimodal-detection)
 
 <strong>AIC 省赛三等奖</strong>　｜　<strong>角色：</strong>参赛成员
@@ -112,7 +142,7 @@
 
 基于 SABRE 映射算法，面向 NISQ 硬件开展量子线路布局与路由的噪声自适应优化。
 
-- 实现噪声感知路由、多策略初始布局与正反向交替优化；公开题评测综合评分 0.7550，相对发布包中的最优基线方案提升 8.3%。
+- 实现噪声感知路由、多策略初始布局与正反向交替优化；公开题评测综合评分 0.7550。
 
 ### [APMCM 与华数杯数学建模](https://github.com/Dsegnr/math-modeling)
 
@@ -123,6 +153,19 @@
 分别研究水质预测与评估、导电介质仿真优化问题。
 
 - 负责问题建模、算法实现、结果验证与论文统稿，归档论文、程序、图表及结果；分别获 APMCM 本科组二等奖和华数杯本科生组三等奖。
+
+### [Class · 班级事务空间](https://github.com/Dsegnr/Class)
+
+<strong>个人项目 · 需求、全栈开发与部署维护</strong>
+
+<strong>技术栈：</strong>React · TypeScript · FastAPI · SQLAlchemy · SQLite / MySQL
+
+面向班级材料收集、审核与日常协作的小型 Web 应用。
+
+- 完成任务发布、材料提交与审核、原件批量导出、抽签、值日和通知功能，承担需求整理、前后端开发、测试与部署维护。
+- 公开脱敏源码与虚构示例；正式站点需授权登录，账号密码、真实名册及学生材料不公开。
+
+[班级站点（需授权登录）](https://47.105.102.3/collect/)
 
 ### [心聆 · 青少年心理健康多模态智能筛查平台](https://github.com/Dsegnr/xinling-mental-health)
 
@@ -138,7 +181,9 @@
 
 ## 科研数据成果
 
-以第一作者在 Science Data Bank 发布滑坡监测数据与方法复现材料（V1，2026.10.14）。 [DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj)
+以**第一作者**在 Science Data Bank 发布《三峡库区白家包滑坡2017–2024年监测数据与双时间尺度分级预警方法的复现数据与代码》（V1，2026.10.14），整理监测资料、处理结果与复现材料。
+
+[DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj) · [数据集页面](https://www.scidb.cn/detail?dataSetId=7bc8827743a441cc9d881e3f7d181a16)
 
 ## 竞赛与荣誉
 
@@ -175,21 +220,24 @@
 ## 技术栈
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python-light.svg" alt="Python"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp-light.svg" alt="C/C++"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch-light.svg" alt="PyTorch"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv-light.svg" alt="OpenCV"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab-light.svg" alt="MATLAB"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi-light.svg" alt="FastAPI"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript-light.svg" alt="TypeScript"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react-light.svg" alt="React"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql-light.svg" alt="MySQL"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j-light.svg" alt="Neo4j"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker-light.svg" alt="Docker"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex-light.svg" alt="LaTeX"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/python.svg"><img src="assets/badges/python-light.svg" alt="Python"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/cpp.svg"><img src="assets/badges/cpp-light.svg" alt="C/C++"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/pytorch.svg"><img src="assets/badges/pytorch-light.svg" alt="PyTorch"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/opencv.svg"><img src="assets/badges/opencv-light.svg" alt="OpenCV"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/matlab.svg"><img src="assets/badges/matlab-light.svg" alt="MATLAB"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/fastapi.svg"><img src="assets/badges/fastapi-light.svg" alt="FastAPI"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/typescript.svg"><img src="assets/badges/typescript-light.svg" alt="TypeScript"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/react.svg"><img src="assets/badges/react-light.svg" alt="React"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/mysql.svg"><img src="assets/badges/mysql-light.svg" alt="MySQL"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/neo4j.svg"><img src="assets/badges/neo4j-light.svg" alt="Neo4j"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/docker.svg"><img src="assets/badges/docker-light.svg" alt="Docker"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/latex.svg"><img src="assets/badges/latex-light.svg" alt="LaTeX"></picture>
 </p>
 
 ## 开源仓库
+
+- [changtu-lingkong](https://github.com/Dsegnr/changtu-lingkong)　畅途灵控 · 多路口交通协同与 GIS 决策工作台
+- [Class](https://github.com/Dsegnr/Class)　Class · 班级事务空间
 
 - [landslide-sentinel-web](https://github.com/Dsegnr/landslide-sentinel-web)　边坡哨兵 Web：多传感器监测、分级预警与三维情景展示，仓库附在线演示及普通账号。
 

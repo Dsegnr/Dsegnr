@@ -6,7 +6,7 @@
 
 Computer Science undergraduate at Henan University of Technology, 2025 cohort. Inaugural member of the [Feiniao Innovation Program](https://cs.haut.edu.cn/info/1421/8304.htm), [Institute of Complexity Science](https://cs.haut.edu.cn/).
 
-[Email](mailto:3660157476@qq.com) · [Website](https://dsegnr.github.io) · [Résumé PDF](https://dsegnr.github.io/resume.pdf)
+[Email](mailto:3660157476@qq.com) · [Website](https://dsegnr.github.io) · [Résumé PDF](https://dsegnr.github.io/resume.pdf) · [Full résumé](https://dsegnr.github.io/resume-full.pdf)
 
 ## Profile
 
@@ -78,6 +78,30 @@ A platform integrating job information, capability graphs, résumé management, 
 - Selected a new server and expanded its storage; deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and developed an SSH connection helper for the team.
 
 
+[Website](https://47.120.76.16/)
+
+### [Landslide Sentinel · Monitoring and graded warning](https://github.com/Dsegnr/landslide-sentinel-web)
+
+<strong>Team project · data analysis, algorithms and Web development</strong>
+
+<strong>Technologies：</strong>Python · React · TypeScript · FastAPI · SQLAlchemy · 3D visualization
+
+- Developed monitoring-data processing, warning analysis and Web visualization; integrated device status and warning information and participated in testing and deployment.
+- Published a curated Web source snapshot and demonstration. The 3D scene visualizes monitoring and terrain relationships; the related ScienceDB publication is listed separately.
+
+[Demo (temporary tunnel; viewer login in repository)](https://substance-searched-fish-responding.trycloudflare.com)
+
+### [Changtu Lingkong · Traffic coordination and GIS workbench](https://github.com/Dsegnr/changtu-lingkong)
+
+<strong>Network simulation, control evaluation and workbench development · archived stage</strong>
+
+<strong>Technologies：</strong>Python · SUMO · SuperMap GIS · React · TypeScript
+
+- Built connected-network simulations with cross-junction vehicle tracking and trip-time measurements; compared fixed, pressure-based and joint control, including downstream capacity, spillback and per-vehicle outcomes.
+- Developed map playback, phase timelines, plan comparisons and task records; implemented path isolation, hash checks, task persistence and SuperMap query adapters.
+- Published frontend and portable-module source; full replay assets and third-party SDKs are not distributed. Field validation remains outstanding.
+
+
 ### [Urban visual multimodal object detection](https://github.com/Dsegnr/aic2026-multimodal-detection)
 
 <strong>AIC Provincial Third Prize | Role:</strong> competition team member
@@ -99,13 +123,24 @@ A platform integrating job information, capability graphs, résumé management, 
 
 <strong>Technologies:</strong> Python, Cirq, SABRE, NISQ
 
-- Implemented noise-aware routing, multiple initial layouts, and forward–backward optimization for NISQ hardware. Public-set score: 0.7550, 8.3% above the best baseline in the competition release package.
+- Implemented noise-aware routing, multiple initial layouts, and forward–backward optimization for NISQ hardware. Archived public-set score: 0.7550.
 
 ### [APMCM and Huashu Cup mathematical modeling](https://github.com/Dsegnr/math-modeling)
 
 <strong>Undergraduate Second / Third Prize | Role:</strong> team leader
 
 - Led modeling, algorithm implementation, result verification, and paper preparation for water-quality prediction and conductive-medium simulation optimization; archived papers, code, figures, and results.
+
+### [Class · Class administration workspace](https://github.com/Dsegnr/Class)
+
+<strong>Personal project · requirements, full-stack development and deployment</strong>
+
+<strong>Technologies：</strong>React · TypeScript · FastAPI · SQLAlchemy · SQLite / MySQL
+
+- Built task publishing, submission and review, original-file export, random selection, duty scheduling and notifications; handled requirements, frontend/backend development, testing and deployment.
+- Published sanitized source with synthetic examples. The production site requires authorized access; credentials, rosters and student submissions remain private.
+
+[Class site (authorized login required)](https://47.105.102.3/collect/)
 
 ### [Xinling · Multimodal adolescent mental-health screening platform](https://github.com/Dsegnr/xinling-mental-health)
 
@@ -119,7 +154,9 @@ A platform integrating job information, capability graphs, résumé management, 
 
 ## Research data publication
 
-First author of a landslide-monitoring dataset and method-reproduction materials published on Science Data Bank (V1, October 14, 2026). [DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj)
+First author of the Science Data Bank dataset **Landslide monitoring data (2017–2024) and reproduction materials for a dual-timescale graded warning method at Baijiabao, Three Gorges Reservoir** (Chinese title: 三峡库区白家包滑坡2017–2024年监测数据与双时间尺度分级预警方法的复现数据与代码). V1 published October 14, 2026.
+
+[DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj) · [Dataset page](https://www.scidb.cn/detail?dataSetId=7bc8827743a441cc9d881e3f7d181a16)
 
 ## Honors
 
@@ -152,21 +189,24 @@ First author of a landslide-monitoring dataset and method-reproduction materials
 ## Technology stack
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/python-light.svg" alt="Python"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/cpp-light.svg" alt="C/C++"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/pytorch-light.svg" alt="PyTorch"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/opencv-light.svg" alt="OpenCV"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/matlab-light.svg" alt="MATLAB"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/fastapi-light.svg" alt="FastAPI"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/typescript-light.svg" alt="TypeScript"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/react-light.svg" alt="React"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/mysql-light.svg" alt="MySQL"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/neo4j-light.svg" alt="Neo4j"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/docker-light.svg" alt="Docker"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex.svg"><img src="https://cdn.jsdelivr.net/gh/Dsegnr/Dsegnr@main/assets/badges/latex-light.svg" alt="LaTeX"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/python.svg"><img src="assets/badges/python-light.svg" alt="Python"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/cpp.svg"><img src="assets/badges/cpp-light.svg" alt="C/C++"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/pytorch.svg"><img src="assets/badges/pytorch-light.svg" alt="PyTorch"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/opencv.svg"><img src="assets/badges/opencv-light.svg" alt="OpenCV"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/matlab.svg"><img src="assets/badges/matlab-light.svg" alt="MATLAB"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/fastapi.svg"><img src="assets/badges/fastapi-light.svg" alt="FastAPI"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/typescript.svg"><img src="assets/badges/typescript-light.svg" alt="TypeScript"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/react.svg"><img src="assets/badges/react-light.svg" alt="React"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/mysql.svg"><img src="assets/badges/mysql-light.svg" alt="MySQL"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/neo4j.svg"><img src="assets/badges/neo4j-light.svg" alt="Neo4j"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/docker.svg"><img src="assets/badges/docker-light.svg" alt="Docker"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/latex.svg"><img src="assets/badges/latex-light.svg" alt="LaTeX"></picture>
 </p>
 
 ## Open-source repositories
+
+- [changtu-lingkong](https://github.com/Dsegnr/changtu-lingkong)　Changtu Lingkong · Traffic coordination and GIS workbench
+- [Class](https://github.com/Dsegnr/Class)　Class · Class administration workspace
 
 - [landslide-sentinel-web](https://github.com/Dsegnr/landslide-sentinel-web) — Landslide Sentinel Web: sensor monitoring, graded warning and 3D scenario visualization; includes a public demo and viewer login.
 
