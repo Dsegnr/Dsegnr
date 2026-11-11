@@ -167,15 +167,20 @@ First author of the Science Data Bank dataset **Landslide monitoring data (2017�
 - Challenge Cup: college-level Second Prize | 2026
 - Henan University of Technology “Three Good Student” award for 2025 | May 2026
 
-## Certificates and software copyright applications
+## Certificates
 
 - CET-4: 497.
 - Intermediate Industrial Internet Platform Development Engineer.
-- Three applications pending; listed first among the copyright holders on each:
-  - Slope Sentinel: Collaborative Landslide Sensing and Early Warning System V1.0 (边坡哨兵滑坡灾害协同感知与预警系统 V1.0)
-  - Landslide Multisensor Fusion and Impulse-Wave Risk Estimation Software V1.0 (滑坡多传感器融合与涌浪风险估算软件 V1.0)
-  - Xingtu Intelligent Résumé Parsing and Management Software V1.0 (星图智能简历解析与简历管理软件 V1.0)
 
+## Software copyright applications
+
+The Copyright Protection Center of China accepted five software copyright registration applications. I am listed first on three applications and sixth on two.
+
+- Xingtu Intelligent Résumé Parsing and Management Software V1.0 (星图智能简历解析与简历管理软件) | First-listed copyright holder | Accepted 2026-11-02
+- Landslide Multisensor Fusion and Impulse-Wave Risk Estimation Software V1.0 (滑坡多传感器融合与涌浪风险估算软件) | First-listed copyright holder | Accepted 2026-11-02
+- Landslide Sentinel Collaborative Sensing and Early Warning System V1.0 (边坡哨兵滑坡灾害协同感知与预警系统) | First-listed copyright holder | Accepted 2026-11-02
+- Enterprise Job Capability Graph Evolution Analysis and Intelligent Matching System V1.0 (企业岗位能力图谱演化分析与智能匹配系统) | Sixth-listed copyright holder | Accepted 2026-11-02
+- Intelligent Job Matching and Diagnosis System for Job Seekers V1.0 (面向求职者的智能人岗匹配与诊断系统) | Sixth-listed copyright holder | Accepted 2026-11-03
 
 ## Other competition experience
 
