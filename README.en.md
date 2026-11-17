@@ -12,7 +12,7 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 
 - <strong>Research:</strong> independent research in cross-subject EEG emotion recognition; proficient in PyTorch-based model development and experienced in applying Mamba / state space models, Transformers, and graph modeling, with skills in experimental design, model training, comparative evaluation, and scientific writing.
 - <strong>Algorithms and modeling:</strong> Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; APMCM Second Prize and Huashu Cup Third Prize in the undergraduate divisions.
-- <strong>Software development:</strong> development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; system testing, paper experiment verification, container deployment, and database migration.
+- <strong>Software development:</strong> development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; 3D experience-graph development, homepage and login interactions, system testing, paper experiment verification, deployment migration, and production releases.
 
 ## Technical skills
 
@@ -65,17 +65,18 @@ Developing an SSVEP EEG signal-classification pipeline covering signal preproces
 
 ### [Xingtu · Job-capability knowledge graph platform](https://github.com/Talent-Star-Map/XINGTU)
 
-<strong>Team project · Competition concluded | Role:</strong> application development, validation, and deployment migration
+<strong>Team project · Ongoing development (competition concluded) | Role:</strong> application, 3D graph and interaction development; validation and production releases
 
 <strong>Technologies:</strong> React, TypeScript, FastAPI, SQLAlchemy, MySQL, MongoDB, Neo4j, Docker
 
-A platform integrating job information, capability graphs, résumé management, and job–candidate matching.
+A platform for job information, capability graphs, résumé management, and job–candidate matching. Recent team additions include AI mock interviews, PDF feedback reports, and enterprise verification workflows.
 
 - Developed personal-center, résumé-management, and enterprise-profile modules.
 - Developed an interactive 3D experience–technology graph linking résumé entries, technology nodes and source evidence, with node selection, experience filters, rotation and zoom; completed authenticated API integration and production deployment.
 - Implemented LLM-based structured extraction for résumés and job descriptions, source-evidence and rule-based validation; compared information across sources and applied confidence scoring to flag skill claims unsupported by the source text.
 - Prepared testing documents and contributed supplementary experiments and result verification, checking consistency across data splits, experimental records, and paper figures.
 - Selected a new server and expanded its storage; deployed six containers for the frontend, API, databases, and collection service; verified database migration and configured backups and developed an SSH connection helper for the team.
+- Implemented the homepage, continuous galaxy login animation, and shared brand assets across role navigation, light/dark themes, and mobile layouts; built the frontend release image, verified production assets and real logins for all three roles, and deployed with a retained rollback version.
 
 
 [Website](https://47.120.76.16/)
