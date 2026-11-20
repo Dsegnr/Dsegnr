@@ -74,7 +74,9 @@
 
 ### [星图 · 岗位能力图谱动态演化与分析系统](https://github.com/Talent-Star-Map/XINGTU)
 
-<strong>团队项目 · 持续迭代（揭榜挂帅比赛已结束）</strong>　｜　<strong>角色：</strong>业务模块、三维图谱与交互开发，系统验证及部署发布
+<strong>团队项目 · 持续开发与迭代</strong>　｜　<strong>角色：</strong>业务模块、三维图谱与交互开发，系统验证及部署发布
+
+<strong>参赛经历：</strong>“揭榜挂帅”赛项、第三届“讯飞杯”AI+教育方向。
 
 <strong>技术栈：</strong>React · TypeScript · FastAPI · SQLAlchemy · MySQL · MongoDB · Neo4j · Docker
 

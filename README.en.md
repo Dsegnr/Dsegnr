@@ -65,7 +65,9 @@ Developing an SSVEP EEG signal-classification pipeline covering signal preproces
 
 ### [Xingtu · Job-capability knowledge graph platform](https://github.com/Talent-Star-Map/XINGTU)
 
-<strong>Team project · Ongoing development (competition concluded) | Role:</strong> application, 3D graph and interaction development; validation and production releases
+<strong>Team project · Ongoing development | Role:</strong> application, 3D graph and interaction development; validation and production releases
+
+<strong>Competition entries:</strong> Jie Bang Gua Shuai; the AI + Education track of the 3rd Xunfei Cup.
 
 <strong>Technologies:</strong> React, TypeScript, FastAPI, SQLAlchemy, MySQL, MongoDB, Neo4j, Docker
 
