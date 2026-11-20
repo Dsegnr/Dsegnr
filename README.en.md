@@ -11,7 +11,7 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 ## Profile
 
 - <strong>Research:</strong> independent research in cross-subject EEG emotion recognition; proficient in PyTorch-based model development and experienced in applying Mamba / state space models, Transformers, and graph modeling, with skills in experimental design, model training, comparative evaluation, and scientific writing.
-- <strong>Algorithms and modeling:</strong> Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; APMCM Second Prize and Huashu Cup Third Prize in the undergraduate divisions.
+- <strong>Algorithms and modeling:</strong> Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; Henan Provincial First Prize in the China Undergraduate Mathematical Contest in Modeling; APMCM Second Prize and Huashu Cup Third Prize in the undergraduate divisions.
 - <strong>Software development:</strong> development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; 3D experience-graph development, homepage and login interactions, system testing, paper experiment verification, deployment migration, and production releases.
 
 ## Technical skills
@@ -161,6 +161,8 @@ First author of the Science Data Bank dataset **Landslide monitoring data (2017�
 
 ## Honors
 
+- China Undergraduate Mathematical Contest in Modeling (高教社杯): Henan Provincial First Prize | 2026
+
 - Blue Bridge Cup: Provincial First Prize and National Finals Third Prize, C/C++ University Group B | 2026
 - AIC urban multimodal object-detection task: Provincial Third Prize | 2026
 - APMCM: Second Prize, undergraduate division | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
@@ -190,7 +192,6 @@ The Copyright Protection Center of China accepted five software copyright regist
 - AIC SSVEP EEG signal-classification task | In progress | 2026
 
 - Group Programming Ladder Tournament (中国高校计算机大赛·团体程序设计天梯赛) | 2026 participation
-- China Undergraduate Mathematical Contest in Modeling (高教社杯) | 2026 participation
 
 ## Technology stack
 
