@@ -190,7 +190,7 @@
 
 ## 竞赛与荣誉
 
-- 高教社杯全国大学生数学建模竞赛：河南赛区省级一等奖｜2026
+- 高教社杯全国大学生数学建模竞赛：河南赛区省级一等奖｜2026　（[论文与代码](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)）
 
 - 蓝桥杯全国软件和信息技术专业人才大赛：C/C++ 程序设计大学 B 组河南赛区一等奖、全国总决赛三等奖｜2026
 - 全球校园人工智能算法精英大赛（AIC）多模态目标检测赛项：省赛三等奖｜2026
@@ -252,7 +252,7 @@
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection)　AIC 省赛三等奖项目，包含训练、推理、评测与历史实验配置
 
 - [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
-- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品存档：APMCM 2026 与华数杯 2026 的论文、代码、数据与结果表
+- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品：高教社杯、APMCM 与华数杯的论文、代码、数据与结果表
 - [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
 - [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
 - [<strong>Dsegnr.github.io</strong>](https://github.com/Dsegnr/Dsegnr.github.io)　本主页与简历的源码

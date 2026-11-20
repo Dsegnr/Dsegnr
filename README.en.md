@@ -163,7 +163,7 @@ First author of the Science Data Bank dataset **Landslide monitoring data (2017�
 
 ## Honors
 
-- China Undergraduate Mathematical Contest in Modeling (高教社杯): Henan Provincial First Prize | 2026
+- China Undergraduate Mathematical Contest in Modeling (高教社杯): Henan Provincial First Prize | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
 
 - Blue Bridge Cup: Provincial First Prize and National Finals Third Prize, C/C++ University Group B | 2026
 - AIC urban multimodal object-detection task: Provincial Third Prize | 2026
@@ -224,7 +224,7 @@ The Copyright Protection Center of China accepted five software copyright regist
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection) — AIC Provincial Third Prize project: training, inference, evaluation and historical configurations.
 
 - [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　Xingtu job-capability knowledge graph platform; team repository, contributed as a developer.
-- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　Mathematical-modeling archive: APMCM 2026 and Huashu Cup 2026 papers, code, data and result tables.
+- [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　Mathematical-modeling works: CUMCM, APMCM and Huashu Cup papers, code, data and results.
 - [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　Noise-adaptive quantum compiler for the 2026 CCF Quantum Computing Programming Challenge algorithm track; includes a 21-page technical report.
 - [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　Xinling multimodal adolescent mental-health screening proposal, with LaTeX source and illustrations.
 - [<strong>Dsegnr.github.io</strong>](https://github.com/Dsegnr/Dsegnr.github.io)　Source for the personal website and résumé.
