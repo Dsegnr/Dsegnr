@@ -229,7 +229,9 @@ The Copyright Protection Center of China accepted five software copyright regist
 
 ## Milestones
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline.svg"><img src="assets/timeline-light.svg" width="100%" alt="Education and competition milestones"></picture>
+<a href="https://dsegnr.github.io/#growth-timeline"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/timeline-preview-dark.png"><source media="(prefers-reduced-motion: reduce)" srcset="assets/timeline-preview-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-preview-dark.gif"><img src="assets/timeline-preview-light.gif" width="100%" alt="Animated milestones; open the interactive timeline"></picture></a>
+
+[Open the interactive timeline](https://dsegnr.github.io/#growth-timeline) · Filters, milestone details, and playback
 
 ## GitHub activity
 

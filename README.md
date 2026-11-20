@@ -257,7 +257,9 @@
 
 ## 成长记录
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline.svg"><img src="assets/timeline-light.svg" width="100%" alt="2025.09—2026.09成长记录"></picture>
+<a href="https://dsegnr.github.io/#growth-timeline"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/timeline-preview-dark.png"><source media="(prefers-reduced-motion: reduce)" srcset="assets/timeline-preview-light.png"><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-preview-dark.gif"><img src="assets/timeline-preview-light.gif" width="100%" alt="成长历程动态预览；点击进入可筛选和展开节点的交互时间线"></picture></a>
+
+[打开交互时间线](https://dsegnr.github.io/#growth-timeline) · 分类筛选、节点详情与手动播放
 
 ## GitHub 数据
 
