@@ -7,6 +7,7 @@
   <a href="https://dsegnr.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/homepage.svg"><img src="assets/badges/homepage-light.svg" alt="Homepage"></picture></a>
   <a href="https://dsegnr.github.io/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/resume.svg"><img src="assets/badges/resume-light.svg" alt="Resume PDF"></picture></a>
   <a href="https://github.com/Dsegnr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/github.svg"><img src="assets/badges/github-light.svg" alt="GitHub"></picture></a>
+  <a href="https://www.linkedin.com/in/jiahao-wang-286b70450/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/linkedin.svg"><img src="assets/badges/linkedin-light.svg" alt="LinkedIn · Jiahao Wang"></picture></a>
 </p>
 <p align="center"><a href="#个人概述">个人概述</a> · <a href="#专业技能">专业技能</a> · <a href="#科研经历">科研经历</a> · <a href="#项目经历">项目经历</a> · <a href="#竞赛与荣誉">竞赛与荣誉</a></p>
 

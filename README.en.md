@@ -6,7 +6,7 @@
 
 Computer Science undergraduate at Henan University of Technology, 2025 cohort. Inaugural member of the [Feiniao Innovation Program](https://cs.haut.edu.cn/info/1421/8304.htm), [Institute of Complexity Science](https://cs.haut.edu.cn/).
 
-[Email](mailto:3660157476@qq.com) · [Website](https://dsegnr.github.io) · [Résumé PDF](https://dsegnr.github.io/resume.pdf) · [Full résumé](https://dsegnr.github.io/resume-full.pdf)
+[Email](mailto:3660157476@qq.com) · [Website](https://dsegnr.github.io) · [Résumé PDF](https://dsegnr.github.io/resume.pdf) · [Full résumé](https://dsegnr.github.io/resume-full.pdf) · [LinkedIn](https://www.linkedin.com/in/jiahao-wang-286b70450/)
 
 ## Profile
 
