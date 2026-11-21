@@ -136,7 +136,7 @@ A platform for job information, capability graphs, résumé management, and job�
 
 **Henan Provincial First Prize**
 
-Automatic localization and removal of radio interference sources: bearing-only localization, active sensing, coverage certificates, and removal during patrol. Across six historical formal simulator runs, Problem 3 cleared 35/35 sources and Problem 4 cleared 37/37.
+As team leader, worked on automatic localization and removal of radio interference sources: bearing-only localization, active sensing, coverage certificates, and removal during patrol. Across six historical formal simulator runs, Problem 3 cleared 35/35 sources and Problem 4 cleared 37/37.
 
 #### [APMCM 2026 · Problem A](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
 
