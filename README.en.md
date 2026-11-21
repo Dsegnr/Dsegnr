@@ -1,8 +1,8 @@
 <p align="center"><a href="README.md">中文</a>　｜　<b>English</b></p>
 
-# Jiahao Wang · Dsegnr
+# Jiahao (Dsegnr) Wang · 王佳豪
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg"><img src="assets/header-light.svg" width="100%" alt="Jiahao Wang"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header.svg"><img src="assets/header-light.svg" width="100%" alt="Jiahao (Dsegnr) Wang · 王佳豪"></picture>
 
 Computer Science undergraduate at Henan University of Technology, 2025 cohort. Inaugural member of the [Feiniao Innovation Program](https://cs.haut.edu.cn/info/1421/8304.htm), [Institute of Complexity Science](https://cs.haut.edu.cn/).
 
