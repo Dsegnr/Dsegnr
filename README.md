@@ -147,15 +147,27 @@
 
 - 实现噪声感知路由、多策略初始布局与正反向交替优化；公开题评测综合评分 0.7550。
 
-### [APMCM 与华数杯数学建模](https://github.com/Dsegnr/math-modeling)
+### [数学建模竞赛](https://github.com/Dsegnr/math-modeling)
 
-<strong>APMCM 本科组二等奖 / 华数杯本科生组全国三等奖</strong>　｜　<strong>角色：</strong>队长
+<strong>技术栈：</strong>Python · 几何定位 · 时序预测 · 蒙特卡洛模拟 · 优化建模
 
-<strong>技术栈：</strong>Python · 时序建模 · 仿真优化 · 数据分析
+#### [高教社杯 2026 · B 题](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
 
-分别研究水质预测与评估、导电介质仿真优化问题。
+**河南赛区省级一等奖**
 
-- 负责问题建模、算法实现、结果验证与论文统稿，归档论文、程序、图表及结果；分别获 APMCM 本科组二等奖和华数杯本科生组全国三等奖。
+无线电干扰源的快速自动定位与清除。围绕测向定位、主动观测点设计、覆盖证书与顺路清除开展建模与算法实现；六局正式测试中，问题三清除 35/35 个源，问题四清除 37/37 个源。
+
+#### [APMCM 2026 · A 题](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
+
+**中文赛项 · 本科组二等奖**
+
+自来水厂水质预测与评估。担任队长，负责问题建模、算法实现、结果验证与论文统稿，运用时序预测、时滞分析和风险评价方法完成水质建模。
+
+#### [华数杯 2026 · A 题](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
+
+**本科生组全国三等奖**
+
+微构体中填充导电介质的仿真优化。担任队长，负责建模、算法实现、结果验证与论文统稿，结合三维连通判定、蒙特卡洛模拟、置信区间估计与成本优化求解。
 
 ### [Class · 班级事务空间](https://github.com/Dsegnr/Class)
 

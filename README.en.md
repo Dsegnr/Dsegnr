@@ -128,11 +128,27 @@ A platform for job information, capability graphs, résumé management, and job�
 
 - Implemented noise-aware routing, multiple initial layouts, and forward–backward optimization for NISQ hardware. Archived public-set score: 0.7550.
 
-### [APMCM and Huashu Cup mathematical modeling](https://github.com/Dsegnr/math-modeling)
+### [Mathematical modeling competitions](https://github.com/Dsegnr/math-modeling)
 
-<strong>APMCM Undergraduate Second Prize / Huashu Cup Undergraduate National Third Prize | Role:</strong> team leader
+**Technologies:** Python, geometric localization, time-series prediction, Monte Carlo simulation, optimization.
 
-- Led modeling, algorithm implementation, result verification, and paper preparation for water-quality prediction and conductive-medium simulation optimization; archived papers, code, figures, and results.
+#### [CUMCM 2026 · Problem B](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
+
+**Henan Provincial First Prize**
+
+Automatic localization and removal of radio interference sources: bearing-only localization, active sensing, coverage certificates, and removal during patrol. Across six historical formal simulator runs, Problem 3 cleared 35/35 sources and Problem 4 cleared 37/37.
+
+#### [APMCM 2026 · Problem A](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
+
+**Chinese-language event · Undergraduate Second Prize**
+
+Water-quality prediction and assessment. As team leader, handled modeling, algorithm implementation, validation and paper preparation, using time-series prediction, lag analysis and risk assessment.
+
+#### [Huashu Cup 2026 · Problem A](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
+
+**Undergraduate National Third Prize**
+
+Conductive-medium simulation and cost optimization. As team leader, handled modeling, algorithm implementation, validation and paper preparation, combining 3D connectivity, Monte Carlo simulation and confidence intervals.
 
 ### [Class · Class administration workspace](https://github.com/Dsegnr/Class)
 
