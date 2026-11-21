@@ -128,7 +128,7 @@ A platform for job information, capability graphs, résumé management, and job�
 
 - Implemented noise-aware routing, multiple initial layouts, and forward–backward optimization for NISQ hardware. Archived public-set score: 0.7550.
 
-### [Mathematical modeling competitions](https://github.com/Dsegnr/math-modeling)
+### [Mathematical modeling and tools](https://github.com/Dsegnr/math-modeling)
 
 **Technologies:** Python, geometric localization, time-series prediction, Monte Carlo simulation, optimization.
 
@@ -149,6 +149,12 @@ Water-quality prediction and assessment. As team leader, handled modeling, algor
 **Undergraduate National Third Prize**
 
 Conductive-medium simulation and cost optimization. As team leader, handled modeling, algorithm implementation, validation and paper preparation, combining 3D connectivity, Monte Carlo simulation and confidence intervals.
+
+#### [Contest workflow Skill · mcm-contest-command](https://github.com/Dsegnr/mcm-contest-command)
+
+**Independently built · Open source** | Python · SQLite · AI Skill
+
+Built an AI Skill from mathematical-modeling contest experience, covering source reading, problem selection, modeling, experiments, paper writing and submission preparation. Its Python CLI records experiments, claims, reviews and decisions in SQLite and uses file hashes to detect changes in evidence and submission materials. Includes runnable examples; all four Windows/Linux and Python 3.10/3.12 CI combinations pass.
 
 ### [Class · Class administration workspace](https://github.com/Dsegnr/Class)
 
@@ -240,6 +246,7 @@ The Copyright Protection Center of China accepted five software copyright regist
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection) — AIC Provincial Third Prize project: training, inference, evaluation and historical configurations.
 
 - [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　Xingtu job-capability knowledge graph platform; team repository, contributed as a developer.
+- [<strong>mcm-contest-command</strong>](https://github.com/Dsegnr/mcm-contest-command)　Independently built modeling-contest AI Skill and Python CLI for evidence records, writing and submission checks.
 - [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　Mathematical-modeling works: CUMCM, APMCM and Huashu Cup papers, code, data and results.
 - [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　Noise-adaptive quantum compiler for the 2026 CCF Quantum Computing Programming Challenge algorithm track; includes a 21-page technical report.
 - [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　Xinling multimodal adolescent mental-health screening proposal, with LaTeX source and illustrations.

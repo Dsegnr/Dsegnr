@@ -147,7 +147,7 @@
 
 - 实现噪声感知路由、多策略初始布局与正反向交替优化；公开题评测综合评分 0.7550。
 
-### [数学建模竞赛](https://github.com/Dsegnr/math-modeling)
+### [数学建模与工具](https://github.com/Dsegnr/math-modeling)
 
 <strong>技术栈：</strong>Python · 几何定位 · 时序预测 · 蒙特卡洛模拟 · 优化建模
 
@@ -168,6 +168,14 @@
 **本科生组全国三等奖**
 
 微构体中填充导电介质的仿真优化。担任队长，负责建模、算法实现、结果验证与论文统稿，结合三维连通判定、蒙特卡洛模拟、置信区间估计与成本优化求解。
+
+#### [数模竞赛全流程 Skill · mcm-contest-command](https://github.com/Dsegnr/mcm-contest-command)
+
+**个人构建 · 已开源**　｜　Python · SQLite · AI Skill
+
+基于数模竞赛实践，自主构建并开源覆盖读题、选题、建模、实验验证、论文写作与提交整理的 AI Skill；配套 Python CLI，以 SQLite 维护实验、结论、审查与决策记录，并通过文件哈希检查结果与提交材料的变动。
+
+提供安装说明与可运行示例；Windows / Linux、Python 3.10 / 3.12 四组自动测试通过。
 
 ### [Class · 班级事务空间](https://github.com/Dsegnr/Class)
 
@@ -264,6 +272,7 @@
 - [aic2026-multimodal-detection](https://github.com/Dsegnr/aic2026-multimodal-detection)　AIC 省赛三等奖项目，包含训练、推理、评测与历史实验配置
 
 - [<strong>Talent-Star-Map/XINGTU</strong>](https://github.com/Talent-Star-Map/XINGTU)　星图 · 岗位能力图谱动态演化与分析系统（团队仓库，本人为开发者之一）
+- [<strong>mcm-contest-command</strong>](https://github.com/Dsegnr/mcm-contest-command)　个人构建的数模竞赛全流程 AI Skill 与 Python CLI，覆盖读题、建模、证据记录、写作与提交检查。
 - [<strong>math-modeling</strong>](https://github.com/Dsegnr/math-modeling)　数学建模竞赛作品：高教社杯、APMCM 与华数杯的论文、代码、数据与结果表
 - [<strong>ccf-quantum-compiler</strong>](https://github.com/Dsegnr/ccf-quantum-compiler)　噪声自适应量子编译器（2026 CCF 量旋杯 · 算法赛道，含 21 页作品说明文档）
 - [<strong>xinling-mental-health</strong>](https://github.com/Dsegnr/xinling-mental-health)　心聆 · 青少年心理健康多模态智能筛查平台（项目计划书、LaTeX 源码与配图）
