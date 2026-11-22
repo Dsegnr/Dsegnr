@@ -134,29 +134,29 @@ A platform for job information, capability graphs, résumé management, and job�
 
 **Technologies:** Python, geometric localization, time-series prediction, Monte Carlo simulation, optimization.
 
-#### [CUMCM 2026 · Problem B](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
+> #### [CUMCM 2026 · Problem B](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
+>
+> **Henan Provincial First Prize**
+>
+> As team leader, worked on automatic localization and removal of radio interference sources: bearing-only localization, active sensing, coverage certificates, and removal during patrol. Across six historical formal simulator runs, Problem 3 cleared 35/35 sources and Problem 4 cleared 37/37.
 
-**Henan Provincial First Prize**
+> #### [APMCM 2026 · Problem A](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
+>
+> **Chinese-language event · Undergraduate Second Prize**
+>
+> Water-quality prediction and assessment. As team leader, handled modeling, algorithm implementation, validation and paper preparation, using time-series prediction, lag analysis and risk assessment.
 
-As team leader, worked on automatic localization and removal of radio interference sources: bearing-only localization, active sensing, coverage certificates, and removal during patrol. Across six historical formal simulator runs, Problem 3 cleared 35/35 sources and Problem 4 cleared 37/37.
+> #### [Huashu Cup 2026 · Problem A](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
+>
+> **Undergraduate National Third Prize**
+>
+> Conductive-medium simulation and cost optimization. As team leader, handled modeling, algorithm implementation, validation and paper preparation, combining 3D connectivity, Monte Carlo simulation and confidence intervals.
 
-#### [APMCM 2026 · Problem A](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
-
-**Chinese-language event · Undergraduate Second Prize**
-
-Water-quality prediction and assessment. As team leader, handled modeling, algorithm implementation, validation and paper preparation, using time-series prediction, lag analysis and risk assessment.
-
-#### [Huashu Cup 2026 · Problem A](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
-
-**Undergraduate National Third Prize**
-
-Conductive-medium simulation and cost optimization. As team leader, handled modeling, algorithm implementation, validation and paper preparation, combining 3D connectivity, Monte Carlo simulation and confidence intervals.
-
-#### [Contest workflow Skill · mcm-contest-command](https://github.com/Dsegnr/mcm-contest-command)
-
-**Independently built · Open source** | Python · SQLite · AI Skill
-
-Built an AI Skill from mathematical-modeling contest experience, covering source reading, problem selection, modeling, experiments, paper writing and submission preparation. Its Python CLI records experiments, claims, reviews and decisions in SQLite and uses file hashes to detect changes in evidence and submission materials. Includes runnable examples; all four Windows/Linux and Python 3.10/3.12 CI combinations pass.
+> #### [Contest workflow Skill · mcm-contest-command](https://github.com/Dsegnr/mcm-contest-command)
+>
+> **Independently built · Open source** | Python · SQLite · AI Skill
+>
+> Built an AI Skill from mathematical-modeling contest experience, covering source reading, problem selection, modeling, experiments, paper writing and submission preparation. Its Python CLI records experiments, claims, reviews and decisions in SQLite and uses file hashes to detect changes in evidence and submission materials. Includes runnable examples; all four Windows/Linux and Python 3.10/3.12 CI combinations pass.
 
 ### [Humanize and Verify · Code and writing review Skill](https://github.com/Dsegnr/humanize-and-verify)
 

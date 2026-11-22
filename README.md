@@ -154,31 +154,31 @@
 
 <strong>技术栈：</strong>Python · 几何定位 · 时序预测 · 蒙特卡洛模拟 · 优化建模
 
-#### [高教社杯 2026 · B 题](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
+> #### [高教社杯 2026 · B 题](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
+>
+> **河南赛区省级一等奖**
+>
+> 无线电干扰源的快速自动定位与清除。担任队长，围绕测向定位、主动观测点设计、覆盖证书与顺路清除开展建模与算法实现；六局正式测试中，问题三清除 35/35 个源，问题四清除 37/37 个源。
 
-**河南赛区省级一等奖**
+> #### [APMCM 2026 · A 题](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
+>
+> **中文赛项 · 本科组二等奖**
+>
+> 自来水厂水质预测与评估。担任队长，负责问题建模、算法实现、结果验证与论文统稿，运用时序预测、时滞分析和风险评价方法完成水质建模。
 
-无线电干扰源的快速自动定位与清除。担任队长，围绕测向定位、主动观测点设计、覆盖证书与顺路清除开展建模与算法实现；六局正式测试中，问题三清除 35/35 个源，问题四清除 37/37 个源。
+> #### [华数杯 2026 · A 题](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
+>
+> **本科生组全国三等奖**
+>
+> 微构体中填充导电介质的仿真优化。担任队长，负责建模、算法实现、结果验证与论文统稿，结合三维连通判定、蒙特卡洛模拟、置信区间估计与成本优化求解。
 
-#### [APMCM 2026 · A 题](https://github.com/Dsegnr/math-modeling/tree/main/apmcm-2026)
-
-**中文赛项 · 本科组二等奖**
-
-自来水厂水质预测与评估。担任队长，负责问题建模、算法实现、结果验证与论文统稿，运用时序预测、时滞分析和风险评价方法完成水质建模。
-
-#### [华数杯 2026 · A 题](https://github.com/Dsegnr/math-modeling/tree/main/huashubei-2026)
-
-**本科生组全国三等奖**
-
-微构体中填充导电介质的仿真优化。担任队长，负责建模、算法实现、结果验证与论文统稿，结合三维连通判定、蒙特卡洛模拟、置信区间估计与成本优化求解。
-
-#### [数模竞赛全流程 Skill · mcm-contest-command](https://github.com/Dsegnr/mcm-contest-command)
-
-**个人构建 · 已开源**　｜　Python · SQLite · AI Skill
-
-基于数模竞赛实践，自主构建并开源覆盖读题、选题、建模、实验验证、论文写作与提交整理的 AI Skill；配套 Python CLI，以 SQLite 维护实验、结论、审查与决策记录，并通过文件哈希检查结果与提交材料的变动。
-
-提供安装说明与可运行示例；Windows / Linux、Python 3.10 / 3.12 四组自动测试通过。
+> #### [数模竞赛全流程 Skill · mcm-contest-command](https://github.com/Dsegnr/mcm-contest-command)
+>
+> **个人构建 · 已开源**　｜　Python · SQLite · AI Skill
+>
+> 基于数模竞赛实践，自主构建并开源覆盖读题、选题、建模、实验验证、论文写作与提交整理的 AI Skill；配套 Python CLI，以 SQLite 维护实验、结论、审查与决策记录，并通过文件哈希检查结果与提交材料的变动。
+>
+> 提供安装说明与可运行示例；Windows / Linux、Python 3.10 / 3.12 四组自动测试通过。
 
 ### [Humanize and Verify · 代码与写作成果复核 Skill](https://github.com/Dsegnr/humanize-and-verify)
 
