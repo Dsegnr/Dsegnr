@@ -156,6 +156,14 @@ Conductive-medium simulation and cost optimization. As team leader, handled mode
 
 Built an AI Skill from mathematical-modeling contest experience, covering source reading, problem selection, modeling, experiments, paper writing and submission preparation. Its Python CLI records experiments, claims, reviews and decisions in SQLite and uses file hashes to detect changes in evidence and submission materials. Includes runnable examples; all four Windows/Linux and Python 3.10/3.12 CI combinations pass.
 
+### [Humanize and Verify · Code and writing review Skill](https://github.com/Dsegnr/humanize-and-verify)
+
+**Independently built · Open source** | Agent Skill · Chinese / English
+
+Built a standalone Agent Skill from software-documentation, coursework and research-writing experience. It covers code-comment cleanup, Chinese and English prose editing, and consistency checks across source code, figures and delivered files.
+
+- Designed three modules for code, writing and artifacts, with protections for program behavior, technical facts and attribution; published installation instructions, cases and synthetic examples.
+
 ### [Class · Class administration workspace](https://github.com/Dsegnr/Class)
 
 <strong>Personal project · requirements, full-stack development and deployment</strong>
@@ -236,6 +244,7 @@ The Copyright Protection Center of China accepted five software copyright regist
 
 ## Open-source repositories
 
+- [**humanize-and-verify**](https://github.com/Dsegnr/humanize-and-verify)　Standalone Agent Skill for code comments, Chinese/English prose and artifact consistency review.
 - [changtu-lingkong](https://github.com/Dsegnr/changtu-lingkong)　Changtu Lingkong · Traffic coordination and GIS workbench
 - [Class](https://github.com/Dsegnr/Class)　Class · Class administration workspace
 

@@ -178,6 +178,14 @@
 
 提供安装说明与可运行示例；Windows / Linux、Python 3.10 / 3.12 四组自动测试通过。
 
+### [Humanize and Verify · 代码与写作成果复核 Skill](https://github.com/Dsegnr/humanize-and-verify)
+
+**个人构建 · 已开源**　｜　Agent Skill · 中文 / English
+
+将软件登记、课程工程与科研写作中的实践经验，整理成独立的 Agent Skill，覆盖代码注释整理、中英文表达改进，以及源码、图表和交付文件的一致性复核。
+
+- 设计代码、写作、交付材料三个模块，保留程序行为、技术事实与真实来源；提供安装说明、案例和合成示例。
+
 ### [Class · 班级事务空间](https://github.com/Dsegnr/Class)
 
 <strong>个人项目 · 需求、全栈开发与部署维护</strong>
@@ -263,6 +271,7 @@
 
 ## 开源仓库
 
+- [**humanize-and-verify**](https://github.com/Dsegnr/humanize-and-verify)　独立 Agent Skill：代码注释、中英文写作与交付材料复核。
 - [changtu-lingkong](https://github.com/Dsegnr/changtu-lingkong)　畅途灵控 · 多路口交通协同与 GIS 决策工作台
 - [Class](https://github.com/Dsegnr/Class)　Class · 班级事务空间
 
