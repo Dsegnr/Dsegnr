@@ -66,6 +66,8 @@
 
 ## 项目经历
 
+[查看公开项目与工具总览](PROJECTS.md)
+
 ### AIC · 脑电信号分类（SSVEP）
 
 <strong>比赛进行中</strong>　｜　<strong>角色：</strong>算法开发与评测
@@ -95,16 +97,16 @@
 
 ### [边坡哨兵 · 滑坡监测与分级预警系统](https://github.com/Dsegnr/landslide-sentinel-web)
 
-<strong>团队项目 · 数据分析、算法与 Web 开发</strong>
+<strong>团队项目 · 独立完成软件系统开发</strong>
 
 <strong>技术栈：</strong>Python · React · TypeScript · FastAPI · SQLAlchemy · 三维可视化
 
 围绕边坡监测场景，结合监测数据分析与 Web 系统，提供监测点管理、设备状态、分级预警、历史记录及三维地形展示。
 
-- 承担数据处理、预警分析与 Web 可视化相关开发，衔接监测数据、设备状态与预警信息，参与系统测试及部署。
-- 整理独立 Web 源码快照及在线演示；三维场景用于监测与地形关系展示。相关公开数据成果见下方 ScienceDB 条目。
+- 除硬件外，独立完成前端、后端、数据库及核心软件算法开发，打通监测数据处理、分级预警、历史记录与三维可视化，完成系统测试及部署。
+- 整理独立 Web 源码快照与演示说明；三维场景用于监测与地形关系展示。相关公开数据成果见下方 ScienceDB 条目。
 
-[在线演示（临时隧道；普通账号见仓库）](https://substance-searched-fish-responding.trycloudflare.com)
+[演示与本地运行说明](https://github.com/Dsegnr/landslide-sentinel-web/blob/main/docs/DEMO.md)
 
 ### [畅途灵控 · 多路口交通协同与 GIS 决策工作台](https://github.com/Dsegnr/changtu-lingkong)
 
@@ -269,7 +271,7 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/latex.svg"><img src="assets/badges/latex-light.svg" alt="LaTeX"></picture>
 </p>
 
-## 开源仓库
+## 公开仓库与作品
 
 - [**humanize-and-verify**](https://github.com/Dsegnr/humanize-and-verify)　独立 Agent Skill：代码注释、中英文写作与交付材料复核。
 - [changtu-lingkong](https://github.com/Dsegnr/changtu-lingkong)　畅途灵控 · 多路口交通协同与 GIS 决策工作台

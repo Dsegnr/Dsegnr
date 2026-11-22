@@ -56,6 +56,8 @@ Social practice: university-organized summer community service and winter hometo
 
 ## Project experience
 
+[Browse all public projects and tools](PROJECTS.md)
+
 ### AIC · SSVEP EEG signal classification
 
 <strong>Competition in progress | Role:</strong> algorithm development and evaluation
@@ -85,14 +87,14 @@ A platform for job information, capability graphs, résumé management, and job�
 
 ### [Landslide Sentinel · Monitoring and graded warning](https://github.com/Dsegnr/landslide-sentinel-web)
 
-<strong>Team project · data analysis, algorithms and Web development</strong>
+<strong>Team project · independent software-system development</strong>
 
-<strong>Technologies：</strong>Python · React · TypeScript · FastAPI · SQLAlchemy · 3D visualization
+<strong>Technologies:</strong> Python · React · TypeScript · FastAPI · SQLAlchemy · 3D visualization
 
-- Developed monitoring-data processing, warning analysis and Web visualization; integrated device status and warning information and participated in testing and deployment.
-- Published a curated Web source snapshot and demonstration. The 3D scene visualizes monitoring and terrain relationships; the related ScienceDB publication is listed separately.
+- Developed the frontend, backend, database and core software algorithms, covering monitoring-data processing, graded warnings, historical records and 3D visualization; handled testing and deployment. Hardware was developed by teammates.
+- Published a separate Web source snapshot and demonstration guide. Third-party frameworks and upstream data retain their original attribution.
 
-[Demo (temporary tunnel; viewer login in repository)](https://substance-searched-fish-responding.trycloudflare.com)
+[Demonstration and local setup guide](https://github.com/Dsegnr/landslide-sentinel-web/blob/main/docs/DEMO.md)
 
 ### [Changtu Lingkong · Traffic coordination and GIS workbench](https://github.com/Dsegnr/changtu-lingkong)
 
@@ -242,7 +244,7 @@ The Copyright Protection Center of China accepted five software copyright regist
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/badges/latex.svg"><img src="assets/badges/latex-light.svg" alt="LaTeX"></picture>
 </p>
 
-## Open-source repositories
+## Public repositories and works
 
 - [**humanize-and-verify**](https://github.com/Dsegnr/humanize-and-verify)　Standalone Agent Skill for code comments, Chinese/English prose and artifact consistency review.
 - [changtu-lingkong](https://github.com/Dsegnr/changtu-lingkong)　Changtu Lingkong · Traffic coordination and GIS workbench
