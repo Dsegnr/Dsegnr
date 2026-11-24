@@ -177,6 +177,12 @@ Built a standalone Agent Skill from software-documentation, coursework and resea
 
 [Class site (authorized login required)](https://47.105.102.3/collect/)
 
+### Jialiang Guard · Real-time grain inventory monitoring
+
+<strong>Provincial Third Prize, China International College Students' Innovation Competition (2026)</strong> | <strong>Role:</strong> team member
+
+Participated in the Higher Education Main Track, Undergraduate Creative Group, with “嘉粮守护，科技先行—基于激光雷达的粮食库存数量实时在线检测系统”. The team project combines LiDAR-based 3D measurement with intelligent video analysis for grain inventory measurement, anomaly alerts and remote monitoring.
+
 ### [Xinling · Multimodal adolescent mental-health screening platform](https://github.com/Dsegnr/xinling-mental-health)
 
 <strong>Concept design | Role:</strong> project lead
@@ -195,6 +201,7 @@ First author of the Science Data Bank dataset **Landslide monitoring data (2017�
 
 ## Honors
 
+- China International College Students' Innovation Competition (2026): Provincial Third Prize | Jialiang Guard · team member
 - China Undergraduate Mathematical Contest in Modeling (高教社杯): Henan Provincial First Prize | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
 
 - Blue Bridge Cup: Provincial First Prize and National Finals Third Prize, C/C++ University Group B | 2026

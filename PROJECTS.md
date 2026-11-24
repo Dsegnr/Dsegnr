@@ -18,6 +18,7 @@
 
 ## 其他成果与展示
 
+- [嘉粮守护](https://dsegnr.github.io/#project-jialiang)：粮食库存数量实时在线检测团队项目，中国国际大学生创新大赛（2026）省级三等奖；团队成员。
 - [脑电研究与个人经历](https://dsegnr.github.io/#project-eeg)：独立研究，公开介绍不等于完整科研源码发布。
 - [Science Data Bank数据成果](https://doi.org/10.57760/sciencedb.014lj)：第一作者数据与方法复现材料。
 - [个人网站](https://dsegnr.github.io/)：交互图谱、成长时间线和简历。
