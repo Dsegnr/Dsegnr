@@ -15,20 +15,20 @@
 
 ## 个人概述
 
-- <strong>科研实践：</strong>围绕跨被试脑电情感识别开展独立研究，掌握 PyTorch 深度学习框架，以及 Mamba／状态空间模型、Transformer 和图结构建模技术，具备实验设计、模型训练、对照分析与科研写作经验。
-- <strong>算法与建模：</strong>蓝桥杯 C/C++ 大学 B 组河南赛区一等奖、全国总决赛三等奖；高教社杯全国大学生数学建模竞赛河南赛区省级一等奖、APMCM 本科组二等奖、华数杯本科生组全国三等奖；具有数学建模、算法实现与实验评测经验。
-- <strong>软件开发：</strong>参与星图岗位能力图谱平台开发，负责个人中心、简历管理与企业信息模块，完成个人经历三维图谱、首页与登录交互优化，并承担系统测试、论文实验复核、部署迁移与版本发布。
+- **独立科研：**持续开展跨被试脑电情感识别研究，独立推进问题分析、模型设计、代码实现、实验验证与结果分析；以第一作者在Science Data Bank发布滑坡监测复现数据与代码。
+- **工程开发：**除硬件外，独立完成边坡哨兵的前端、后端、数据库和核心软件算法；参与星图团队开发，承担业务模块、个人经历三维图谱、系统验证、部署迁移与版本发布。
+- **算法与建模：**具备算法实现、预测建模、仿真优化和结果验证经验；担任高教社杯、APMCM及华数杯队长，获河南赛区省级一等奖、本科组二等奖及本科生组全国三等奖；蓝桥杯获河南赛区一等奖、全国总决赛三等奖。
+- **AI工具与开源：**将竞赛、工程与写作实践整理为可复用工具，独立构建并开源数模竞赛全流程Skill与Python/SQLite指挥台，以及代码与写作成果复核Skill。
 
 ## 专业技能
 
-
-- <strong>大模型应用开发：</strong>熟悉大模型 API 调用、提示词设计与结构化输出，能够开发文档解析和信息抽取类应用，并通过原文比对与规则校验检查抽取结果的准确性。
-- <strong>RAG 与 Agent：</strong>了解 RAG（检索增强生成）、语义检索、知识图谱检索及 Agent 工具调用与任务规划流程；具备相关应用的业务模块开发经验，能够完成接口联调与系统功能验证。
-- <strong>Python 与数据分析：</strong>熟练掌握 Python，熟悉面向对象、异步编程与模块化开发；能够基于 NumPy、pandas 和 Matplotlib 完成数据清洗、统计分析与可视化。
-- <strong>深度学习：</strong>掌握基于 PyTorch 的模型构建、训练与评估方法，具有降低显存占用、提升训练吞吐量的优化经验；熟悉 CNN、Transformer、图神经网络及 Mamba／状态空间模型在时空建模中的应用。
-- <strong>机器学习与优化：</strong>熟悉随机森林、XGBoost 与 ARIMAX，能够完成预测模型构建与评估，并通过 SHAP 分析特征对预测结果的影响；具备仿真建模与优化能力，能够基于 Cirq 和 SABRE 算法完成量子线路映射、路由与性能评测。
-- <strong>Web 全栈开发：</strong>熟悉 React、TypeScript、FastAPI 与 SQLAlchemy，具有 Three.js 交互式三维图谱开发经验；具备前后端开发能力，能够完成业务模块设计、接口开发与联调；熟悉 MySQL、MongoDB、Neo4j，具有数据库部署与数据迁移经验。
-- <strong>部署与科研工具：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，能够完成容器化部署、HTTPS 访问配置、数据备份与远端 GPU 任务管理；能够运用 LaTeX、Visio 和 Word 完成论文排版、技术制图与文档编写。
+- **深度学习与科研实现：**基于PyTorch构建、训练与评估模型，具有Mamba／状态空间模型、Transformer和图结构建模实践，能够开展模型设计、对照实验与训练效率优化。
+- **大模型应用与Agent工具：**具备API集成、提示词设计、结构化抽取及原文依据校验实践；能够设计可复用Agent Skill与配套CLI，将任务流程、检查规则和结果记录落地；了解RAG、语义检索与知识图谱检索。
+- **Python与数据分析：**熟悉模块化、面向对象与异步编程，使用NumPy、pandas、Matplotlib完成数据处理、统计分析与可视化，具有SQLite台账及命令行工具开发经验。
+- **算法、预测与仿真：**具有时序预测、三维几何连通判定、蒙特卡洛模拟及优化建模实践；使用随机森林、XGBoost、ARIMAX与SHAP进行预测和解释，基于Cirq／SABRE实现量子线路映射、路由与评测。
+- **Web全栈与三维交互：**使用React、TypeScript、FastAPI及SQLAlchemy开发业务系统，具有Three.js交互式图谱和三维可视化实践；具备MySQL、MongoDB、Neo4j及数据库迁移经验。
+- **测试、评测与复现：**编写单元测试与边界测试，具有独立mAP评测实现、手算案例检查、数据缺失场景验证、实验配置与结果归档、文件哈希及交付材料一致性检查实践。
+- **部署与技术交付：**使用Linux、Docker Compose、SSH与Git完成容器部署、HTTPS配置、数据迁移核验、备份与版本回滚；使用LaTeX、Word和技术制图工具整理科研与工程文档。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
