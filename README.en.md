@@ -17,13 +17,13 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 
 ## Technical skills
 
-- <strong>Deep learning and research implementation:</strong> PyTorch model development, training and evaluation; practical experience with Mamba/state space models, Transformers and graph representations, controlled experiments and training-efficiency optimization.
-- <strong>LLM applications and Agent tools:</strong> API integration, prompt design, structured extraction and source-evidence validation; reusable Agent Skills and supporting CLIs for workflows, checks and result records. Understanding of RAG, semantic retrieval and knowledge-graph retrieval.
-- <strong>Python and data analysis:</strong> Modular, object-oriented and asynchronous programming; NumPy, pandas and Matplotlib for processing, analysis and visualization; SQLite records and command-line tools.
-- <strong>Algorithms, prediction and simulation:</strong> Time-series prediction, 3D connectivity, Monte Carlo simulation and optimization; random forests, XGBoost, ARIMAX and SHAP; quantum-circuit mapping, routing and evaluation with Cirq/SABRE.
-- <strong>Full-stack web and 3D interaction:</strong> React, TypeScript, FastAPI and SQLAlchemy business systems; Three.js interactive graphs and 3D visualization; MySQL, MongoDB, Neo4j and database migration.
-- <strong>Testing, evaluation and reproducibility:</strong> Unit and boundary tests, independent mAP evaluation, hand-calculated cases, missing-data scenarios, experiment/configuration archives, file hashes and artifact-consistency checks.
-- <strong>Deployment and technical delivery:</strong> Linux, Docker Compose, SSH and Git for container deployment, HTTPS, migration verification, backups and rollback; LaTeX, Word and technical diagrams for research and engineering documentation.
+- <strong>Deep learning and model design:</strong>Proficient in PyTorch model development, training and evaluation; familiar with Mamba/state space models, Transformers and graph representations. Capable of spatiotemporal modeling, experimental design, controlled analysis and training-efficiency optimization.
+- <strong>LLM applications and Agent development:</strong>Skilled in LLM API integration, prompt design, structured extraction and source-evidence validation; capable of designing Agent Skills, supporting CLIs and task workflows. Familiar with the fundamentals of RAG, semantic retrieval and knowledge-graph retrieval.
+- <strong>Python and data analysis:</strong>Proficient in Python; familiar with modular, object-oriented and asynchronous programming, NumPy, pandas and Matplotlib. Capable of data cleaning, statistical analysis, visualization and SQLite data management.
+- <strong>Algorithms and mathematical modeling:</strong>Familiar with time-series prediction, 3D connectivity, Monte Carlo simulation, optimization modeling, random forests, XGBoost, ARIMAX and SHAP. Capable of problem formulation, algorithm implementation, simulation optimization and quantum-circuit mapping/routing optimization with Cirq/SABRE.
+- <strong>Full-stack web and 3D interaction:</strong>Familiar with React, TypeScript, FastAPI, SQLAlchemy and Three.js; capable of frontend/backend architecture design, business-module development, API integration and interactive 3D visualization. Familiar with MySQL, MongoDB and Neo4j, including database design and migration.
+- <strong>Software testing and experimental evaluation:</strong>Capable of unit and boundary testing, exceptional-case analysis and independent evaluation-tool development; familiar with mAP calculation and validation. Skilled in experiment configuration management, result verification, reproducible archives and cross-artifact consistency checks.
+- <strong>Deployment, operations and technical documentation:</strong>Familiar with Linux, Docker Compose, SSH and Git; capable of container deployment, HTTPS configuration, migration verification, backup/recovery and version rollback. Skilled in LaTeX/Word typesetting, technical diagrams and engineering documentation.
 
 ## Education
 
