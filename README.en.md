@@ -84,6 +84,8 @@ A platform for job information, capability graphs, résumé management, and job�
 
 [Website](https://47.120.76.16/)
 
+- Added continuous transparent-video Xiaoxing web interactions and media bandwidth optimization. Separately developed an offline resume BERT extraction, eligibility and evaluation pipeline; it is not deployed to production.
+
 ### [Landslide Sentinel · Monitoring and graded warning](https://github.com/Dsegnr/landslide-sentinel-web)
 
 <strong>Team project · independent software-system development</strong>
@@ -278,3 +280,7 @@ The Copyright Protection Center of China accepted five software copyright regist
 ## GitHub activity
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://dsegnr.github.io/metrics/github-metrics.svg"><img src="https://dsegnr.github.io/metrics/github-metrics-light.svg" width="100%" alt="GitHub Metrics and full-year 3D contribution calendar"></picture>
+
+### [Xiaoxing · Standalone desktop companion](https://github.com/Dsegnr/xiaoxing-desktop)
+
+Electron transparent-video companion with 16 motion clips, configurable motion packs, local size and wandering preferences, tray recovery and a shared motion state machine. Runs without a XINGTU account, backend or API key.
