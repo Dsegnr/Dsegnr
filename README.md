@@ -95,6 +95,8 @@
 
 [在线平台](https://47.120.76.16/)
 
+- 新增小星连续透明视频网页交互与媒体带宽优化；另开展离线简历 BERT 技能抽取、资格判断及评测流程，当前尚未接入生产。
+
 ### [边坡哨兵 · 滑坡监测与分级预警系统](https://github.com/Dsegnr/landslide-sentinel-web)
 
 <strong>团队项目 · 独立完成软件系统开发</strong>
@@ -306,3 +308,9 @@
 ## GitHub 数据
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://dsegnr.github.io/metrics/github-metrics.svg"><img src="https://dsegnr.github.io/metrics/github-metrics-light.svg" width="100%" alt="GitHub Metrics 与全年3D贡献日历"></picture>
+
+### [小星 · 独立桌面伴侣](https://github.com/Dsegnr/xiaoxing-desktop)
+
+<strong>个人项目 · 已开源</strong> ｜ Electron · TypeScript
+
+独立构建 Electron 透明视频桌宠，提供16段正式动作、共享状态机与播放器；支持大小、暂停、自动散步、托盘恢复及动作包配置，无需星图账号、后端或 API 密钥。
