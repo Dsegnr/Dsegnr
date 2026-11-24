@@ -15,20 +15,20 @@
 
 ## 个人概述
 
-- **独立科研：**持续开展跨被试脑电情感识别研究，独立推进问题分析、模型设计、代码实现、实验验证与结果分析；以第一作者在Science Data Bank发布滑坡监测复现数据与代码。
-- **工程开发：**除硬件外，独立完成边坡哨兵的前端、后端、数据库和核心软件算法；参与星图团队开发，承担业务模块、个人经历三维图谱、系统验证、部署迁移与版本发布。
-- **算法与建模：**具备算法实现、预测建模、仿真优化和结果验证经验；担任高教社杯、APMCM及华数杯队长，获河南赛区省级一等奖、本科组二等奖及本科生组全国三等奖；蓝桥杯获河南赛区一等奖、全国总决赛三等奖。
-- **AI工具与开源：**将竞赛、工程与写作实践整理为可复用工具，独立构建并开源数模竞赛全流程Skill与Python/SQLite指挥台，以及代码与写作成果复核Skill。
+- <strong>独立科研：</strong>持续开展跨被试脑电情感识别研究，独立推进问题分析、模型设计、代码实现、实验验证与结果分析；以第一作者在Science Data Bank发布滑坡监测复现数据与代码。
+- <strong>工程开发：</strong>除硬件外，独立完成边坡哨兵的前端、后端、数据库和核心软件算法；参与星图团队开发，承担业务模块、个人经历三维图谱、系统验证、部署迁移与版本发布。
+- <strong>算法与建模：</strong>具备算法实现、预测建模、仿真优化和结果验证经验；担任高教社杯、APMCM及华数杯队长，获河南赛区省级一等奖、本科组二等奖及本科生组全国三等奖；蓝桥杯获河南赛区一等奖、全国总决赛三等奖。
+- <strong>AI工具与开源：</strong>将竞赛、工程与写作实践整理为可复用工具，独立构建并开源数模竞赛全流程Skill与Python/SQLite指挥台，以及代码与写作成果复核Skill。
 
 ## 专业技能
 
-- **深度学习与科研实现：**基于PyTorch构建、训练与评估模型，具有Mamba／状态空间模型、Transformer和图结构建模实践，能够开展模型设计、对照实验与训练效率优化。
-- **大模型应用与Agent工具：**具备API集成、提示词设计、结构化抽取及原文依据校验实践；能够设计可复用Agent Skill与配套CLI，将任务流程、检查规则和结果记录落地；了解RAG、语义检索与知识图谱检索。
-- **Python与数据分析：**熟悉模块化、面向对象与异步编程，使用NumPy、pandas、Matplotlib完成数据处理、统计分析与可视化，具有SQLite台账及命令行工具开发经验。
-- **算法、预测与仿真：**具有时序预测、三维几何连通判定、蒙特卡洛模拟及优化建模实践；使用随机森林、XGBoost、ARIMAX与SHAP进行预测和解释，基于Cirq／SABRE实现量子线路映射、路由与评测。
-- **Web全栈与三维交互：**使用React、TypeScript、FastAPI及SQLAlchemy开发业务系统，具有Three.js交互式图谱和三维可视化实践；具备MySQL、MongoDB、Neo4j及数据库迁移经验。
-- **测试、评测与复现：**编写单元测试与边界测试，具有独立mAP评测实现、手算案例检查、数据缺失场景验证、实验配置与结果归档、文件哈希及交付材料一致性检查实践。
-- **部署与技术交付：**使用Linux、Docker Compose、SSH与Git完成容器部署、HTTPS配置、数据迁移核验、备份与版本回滚；使用LaTeX、Word和技术制图工具整理科研与工程文档。
+- <strong>深度学习与科研实现：</strong>基于PyTorch构建、训练与评估模型，具有Mamba／状态空间模型、Transformer和图结构建模实践，能够开展模型设计、对照实验与训练效率优化。
+- <strong>大模型应用与Agent工具：</strong>具备API集成、提示词设计、结构化抽取及原文依据校验实践；能够设计可复用Agent Skill与配套CLI，将任务流程、检查规则和结果记录落地；了解RAG、语义检索与知识图谱检索。
+- <strong>Python与数据分析：</strong>熟悉模块化、面向对象与异步编程，使用NumPy、pandas、Matplotlib完成数据处理、统计分析与可视化，具有SQLite台账及命令行工具开发经验。
+- <strong>算法、预测与仿真：</strong>具有时序预测、三维几何连通判定、蒙特卡洛模拟及优化建模实践；使用随机森林、XGBoost、ARIMAX与SHAP进行预测和解释，基于Cirq／SABRE实现量子线路映射、路由与评测。
+- <strong>Web全栈与三维交互：</strong>使用React、TypeScript、FastAPI及SQLAlchemy开发业务系统，具有Three.js交互式图谱和三维可视化实践；具备MySQL、MongoDB、Neo4j及数据库迁移经验。
+- <strong>测试、评测与复现：</strong>编写单元测试与边界测试，具有独立mAP评测实现、手算案例检查、数据缺失场景验证、实验配置与结果归档、文件哈希及交付材料一致性检查实践。
+- <strong>部署与技术交付：</strong>使用Linux、Docker Compose、SSH与Git完成容器部署、HTTPS配置、数据迁移核验、备份与版本回滚；使用LaTeX、Word和技术制图工具整理科研与工程文档。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
