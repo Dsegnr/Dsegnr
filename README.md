@@ -22,13 +22,13 @@
 
 ## 专业技能
 
-- <strong>深度学习与科研实现：</strong>基于PyTorch构建、训练与评估模型，具有Mamba／状态空间模型、Transformer和图结构建模实践，能够开展模型设计、对照实验与训练效率优化。
-- <strong>大模型应用与Agent工具：</strong>具备API集成、提示词设计、结构化抽取及原文依据校验实践；能够设计可复用Agent Skill与配套CLI，将任务流程、检查规则和结果记录落地；了解RAG、语义检索与知识图谱检索。
-- <strong>Python与数据分析：</strong>熟悉模块化、面向对象与异步编程，使用NumPy、pandas、Matplotlib完成数据处理、统计分析与可视化，具有SQLite台账及命令行工具开发经验。
-- <strong>算法、预测与仿真：</strong>具有时序预测、三维几何连通判定、蒙特卡洛模拟及优化建模实践；使用随机森林、XGBoost、ARIMAX与SHAP进行预测和解释，基于Cirq／SABRE实现量子线路映射、路由与评测。
-- <strong>Web全栈与三维交互：</strong>使用React、TypeScript、FastAPI及SQLAlchemy开发业务系统，具有Three.js交互式图谱和三维可视化实践；具备MySQL、MongoDB、Neo4j及数据库迁移经验。
-- <strong>测试、评测与复现：</strong>编写单元测试与边界测试，具有独立mAP评测实现、手算案例检查、数据缺失场景验证、实验配置与结果归档、文件哈希及交付材料一致性检查实践。
-- <strong>部署与技术交付：</strong>使用Linux、Docker Compose、SSH与Git完成容器部署、HTTPS配置、数据迁移核验、备份与版本回滚；使用LaTeX、Word和技术制图工具整理科研与工程文档。
+- <strong>深度学习与模型设计：</strong>掌握 PyTorch 模型构建、训练与评估方法，熟悉 Mamba／状态空间模型、Transformer 及图结构建模；具备时空特征建模、实验设计、对照分析与训练效率优化能力。
+- <strong>大模型应用与 Agent 开发：</strong>熟悉大模型 API 集成、提示词设计、结构化信息抽取与原文证据校验；具备 Agent Skill、配套 CLI 及任务工作流设计能力；了解 RAG、语义检索与知识图谱检索。
+- <strong>Python 与数据分析：</strong>熟练掌握 Python，熟悉模块化、面向对象与异步编程，以及 NumPy、pandas、Matplotlib；具备数据清洗、统计分析、可视化和 SQLite 数据管理能力。
+- <strong>算法与数学建模：</strong>熟悉时序预测、三维几何连通判定、蒙特卡洛模拟与优化建模，掌握随机森林、XGBoost、ARIMAX 及 SHAP 的建模与分析方法；具备问题抽象、算法实现、仿真优化及 Cirq／SABRE 量子线路映射与路由优化能力。
+- <strong>Web 全栈与三维交互：</strong>熟悉 React、TypeScript、FastAPI、SQLAlchemy 和 Three.js，具备前后端架构设计、业务模块开发、接口联调与交互式三维可视化能力；熟悉 MySQL、MongoDB、Neo4j，具备数据库设计与迁移能力。
+- <strong>软件测试与实验评测：</strong>具备单元测试、边界测试、异常场景分析及独立评测工具开发能力，熟悉 mAP 指标计算与校验；具备实验配置管理、结果复核、可复现归档与跨文件一致性检查能力。
+- <strong>部署运维与技术文档：</strong>熟悉 Linux、Docker Compose、SSH 和 Git，具备容器化部署、HTTPS 配置、数据迁移核验、备份恢复与版本回滚能力；熟悉 LaTeX、Word 和技术制图，具备论文排版与工程文档编写能力。
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
