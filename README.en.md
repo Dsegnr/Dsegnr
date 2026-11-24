@@ -10,21 +10,20 @@ Computer Science undergraduate at Henan University of Technology, 2025 cohort. I
 
 ## Profile
 
-- <strong>Research:</strong> independent research in cross-subject EEG emotion recognition; proficient in PyTorch-based model development and experienced in applying Mamba / state space models, Transformers, and graph modeling, with skills in experimental design, model training, comparative evaluation, and scientific writing.
-- <strong>Algorithms and modeling:</strong> Provincial First Prize and National Finals Third Prize in Blue Bridge Cup C/C++ University Group B; Henan Provincial First Prize in the China Undergraduate Mathematical Contest in Modeling; APMCM Second Prize and Huashu Cup National Third Prize in the undergraduate divisions.
-- <strong>Software development:</strong> development of personal-center, résumé-management, and enterprise-profile modules for Xingtu; 3D experience-graph development, homepage and login interactions, system testing, paper experiment verification, deployment migration, and production releases.
+- <strong>Independent research:</strong> Independently advance cross-subject EEG emotion-recognition research, from problem analysis and model design to implementation, experiments and result analysis; first author of a Science Data Bank publication of landslide monitoring reproduction data and code.
+- <strong>Software engineering:</strong> Independently built Landslide Sentinel's frontend, backend, database and core software algorithms, with hardware handled by teammates; contributed business modules, an interactive 3D experience graph, system validation, deployment migration and releases to Xingtu.
+- <strong>Algorithms and modeling:</strong> Experience in algorithm implementation, predictive modeling, simulation, optimization and validation. Captain in CUMCM, APMCM and Huashu Cup, earning Henan Provincial First Prize, undergraduate Second Prize and undergraduate National Third Prize respectively; Blue Bridge Cup Provincial First Prize and National Finals Third Prize.
+- <strong>AI tools and open source:</strong> Independently built and open-sourced a modeling-contest Agent Skill with a Python/SQLite CLI, and a standalone Skill for reviewing code, writing and delivered artifacts.
 
 ## Technical skills
 
-
-- <strong>LLM application development:</strong> Familiar with LLM APIs, prompt design and structured outputs; able to develop document-parsing and information-extraction applications and validate extracted information against source documents and explicit rules.
-- <strong>RAG and agents:</strong> Understanding of retrieval-augmented generation, semantic and knowledge-graph retrieval, tool calls and task planning; experience in application-module development, API integration and system validation.
-- <strong>Python and data analysis:</strong> Proficient in Python, with object-oriented, asynchronous and modular programming experience; data cleaning, statistical analysis and visualization with NumPy, pandas and Matplotlib.
-- <strong>Deep learning:</strong> PyTorch model implementation, training and evaluation, including memory and throughput optimization; familiarity with CNNs, Transformers, graph neural networks and Mamba / state space models for spatiotemporal modeling.
-- <strong>Machine learning and optimization:</strong> Familiar with random forests, XGBoost and ARIMAX for predictive modeling and evaluation, and SHAP for interpreting feature contributions; able to build and optimize simulation models and perform quantum-circuit mapping, routing and performance evaluation with Cirq and the SABRE algorithm.
-- <strong>Full-stack web development:</strong> React / TypeScript frontend, Three.js interactive 3D graphs, and FastAPI / SQLAlchemy backend development, including business modules, APIs and integration; MySQL, MongoDB and Neo4j deployment and migration experience.
-- <strong>Deployment and research tools:</strong> Linux, Docker Compose, SSH and Git for container deployment, HTTPS access configuration, backups and remote GPU task management; LaTeX typesetting, Visio technical diagrams and Word documentation.
-
+- <strong>Deep learning and research implementation:</strong> PyTorch model development, training and evaluation; practical experience with Mamba/state space models, Transformers and graph representations, controlled experiments and training-efficiency optimization.
+- <strong>LLM applications and Agent tools:</strong> API integration, prompt design, structured extraction and source-evidence validation; reusable Agent Skills and supporting CLIs for workflows, checks and result records. Understanding of RAG, semantic retrieval and knowledge-graph retrieval.
+- <strong>Python and data analysis:</strong> Modular, object-oriented and asynchronous programming; NumPy, pandas and Matplotlib for processing, analysis and visualization; SQLite records and command-line tools.
+- <strong>Algorithms, prediction and simulation:</strong> Time-series prediction, 3D connectivity, Monte Carlo simulation and optimization; random forests, XGBoost, ARIMAX and SHAP; quantum-circuit mapping, routing and evaluation with Cirq/SABRE.
+- <strong>Full-stack web and 3D interaction:</strong> React, TypeScript, FastAPI and SQLAlchemy business systems; Three.js interactive graphs and 3D visualization; MySQL, MongoDB, Neo4j and database migration.
+- <strong>Testing, evaluation and reproducibility:</strong> Unit and boundary tests, independent mAP evaluation, hand-calculated cases, missing-data scenarios, experiment/configuration archives, file hashes and artifact-consistency checks.
+- <strong>Deployment and technical delivery:</strong> Linux, Docker Compose, SSH and Git for container deployment, HTTPS, migration verification, backups and rollback; LaTeX, Word and technical diagrams for research and engineering documentation.
 
 ## Education
 
