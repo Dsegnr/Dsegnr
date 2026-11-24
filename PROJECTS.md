@@ -24,3 +24,5 @@
 - [个人网站](https://dsegnr.github.io/)：交互图谱、成长时间线和简历。
 
 私有项目、个人档案、申请原件和运行凭据不随本目录公开。
+
+- [小星独立桌宠](https://github.com/Dsegnr/xiaoxing-desktop)：Electron 透明视频桌宠，支持本地偏好与动作包配置。
