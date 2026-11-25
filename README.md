@@ -105,7 +105,7 @@
 
 ### [边坡哨兵 · 滑坡监测与分级预警系统](https://github.com/Dsegnr/landslide-sentinel-web)
 
-<strong>团队项目 · 独立完成软件系统开发</strong>
+<strong>团队项目 · 独立完成软件系统开发</strong> ｜ 第十届中国（国际）传感器创新创业大赛河南赛区省级二等奖
 
 <strong>技术栈：</strong>Python · React · TypeScript · FastAPI · SQLAlchemy · 三维可视化
 
@@ -234,6 +234,8 @@
 [DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj) · [数据集页面](https://www.scidb.cn/detail?dataSetId=7bc8827743a441cc9d881e3f7d181a16)
 
 ## 竞赛与荣誉
+
+- 第十届中国（国际）传感器创新创业大赛：河南赛区省级二等奖｜2026 · 边坡哨兵
 
 - 中国国际大学生创新大赛（2026）：省级三等奖｜嘉粮守护 · 团队成员
 - 高教社杯全国大学生数学建模竞赛：河南赛区省级一等奖｜2026　（[论文与代码](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)）
