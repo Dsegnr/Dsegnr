@@ -37,7 +37,7 @@ Social practice: university-organized summer community service and winter hometo
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
-<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="100%" alt="Animated 3D project–technology graph preview; open the interactive version to rotate, zoom and select nodes"></picture></a>
+<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="900" alt="Animated 3D project–technology graph preview; open the interactive version to rotate, zoom and select nodes"></picture></a>
 
 [Open the interactive graph](https://dsegnr.github.io/#ability-graph)
 

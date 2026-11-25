@@ -44,7 +44,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/separator.svg"><img src="assets/separator-light.svg" width="100%" alt="EEG and knowledge graph illustration"></picture>
 
-<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="100%" alt="项目与技术能力三维图谱动态预览；点击打开可旋转、缩放与选择节点的交互版"></picture></a>
+<a href="https://dsegnr.github.io/#ability-graph"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ability-graph-preview.png"><img src="assets/ability-graph-preview.gif" width="900" alt="项目与技术能力三维图谱动态预览；点击打开可旋转、缩放与选择节点的交互版"></picture></a>
 
 [完整版简历 PDF](https://dsegnr.github.io/resume-full.pdf)
 
