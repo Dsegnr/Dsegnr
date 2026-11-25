@@ -101,6 +101,8 @@ Electron transparent-video companion with 16 motion clips, configurable motion p
 
 [Demonstration and local setup guide](https://github.com/Dsegnr/landslide-sentinel-web/blob/main/docs/DEMO.md)
 
+Award: Henan Provincial Second Prize, 10th China (International) Sensor Innovation and Entrepreneurship Competition (2026).
+
 ### [Changtu Lingkong · Traffic coordination and GIS workbench](https://github.com/Dsegnr/changtu-lingkong)
 
 <strong>Network simulation, control evaluation and workbench development · archived stage</strong>
@@ -205,6 +207,8 @@ First author of the Science Data Bank dataset **Landslide monitoring data (2017�
 [DOI: 10.57760/sciencedb.014lj](https://doi.org/10.57760/sciencedb.014lj) · [Dataset page](https://www.scidb.cn/detail?dataSetId=7bc8827743a441cc9d881e3f7d181a16)
 
 ## Honors
+
+- 10th China (International) Sensor Innovation and Entrepreneurship Competition: Henan Provincial Second Prize | 2026 · Landslide Sentinel
 
 - China International College Students' Innovation Competition (2026): Provincial Third Prize | Jialiang Guard · team member
 - China Undergraduate Mathematical Contest in Modeling (高教社杯): Henan Provincial First Prize | 2026 · [Paper and code](https://github.com/Dsegnr/math-modeling/tree/main/cumcm-2026)
