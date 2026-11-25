@@ -57,11 +57,11 @@ Social practice: university-organized summer community service and winter hometo
 
 [Browse all public projects and tools](PROJECTS.md)
 
-### AIC · SSVEP EEG signal classification
+### AIC · EEG feature extraction and recognition (SSVEP)
 
-<strong>Competition in progress | Role:</strong> algorithm development and evaluation
+<strong>Provincial Second Prize · National Finals Qualification (provisional results) | Role:</strong> algorithm development and evaluation
 
-Developing an SSVEP EEG signal-classification pipeline covering signal preprocessing, feature modeling, classifier training and evaluation, with controlled comparisons, independent result checks and reproducible archives. Competition in progress.
+Developing an SSVEP EEG signal-classification pipeline covering signal preprocessing, feature modeling, classifier training and evaluation, with controlled comparisons, independent result checks and reproducible archives. Listed for Provincial Second Prize and National Finals qualification; results under public review through November 27, 2026.
 
 
 ### [Xingtu · Job-capability knowledge graph platform](https://github.com/Talent-Star-Map/XINGTU)
@@ -239,7 +239,7 @@ The Copyright Protection Center of China accepted five software copyright regist
 
 - Zhengda Cup National College Student Market Research and Analysis Competition: passed the individual knowledge test with 87 points; preparing for the team practical competition.
 
-- AIC SSVEP EEG signal-classification task | In progress | 2026
+- AIC EEG Feature Extraction and Recognition (SSVEP) | Provincial Second Prize · National Finals Qualification (provisional results) | 2026
 
 - Group Programming Ladder Tournament (中国高校计算机大赛·团体程序设计天梯赛) | 2026 participation
 
